@@ -1,0 +1,725 @@
+{
+    "authorGroup": {
+        "primaryAuthor": {
+            "id": "659faec6acb2f5246e5a385b",
+            "naturalId": "blogAuthorId/blog/author/1311599",
+            "name": "Steven Ehrlich",
+            "avatars": [
+                {
+                    "size": 136,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+                },
+                {
+                    "size": 40,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+                },
+                {
+                    "size": 400,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+                },
+                {
+                    "size": 62,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "type": "Forbes Staff",
+            "profileUrl": "/sites/forbescryptoassetadvisor/",
+            "twitterName": "Steven_ehrlich",
+            "authorType": "individual",
+            "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+            "blog": false,
+            "timestamp": 1700502890865,
+            "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+            "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+            "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+            "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+            "shortUri": "http://bit.ly/2MdKvkP",
+            "contributorSince": 1406065322000,
+            "slug": "forbescryptoassetadvisor",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": true,
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "inactive": false,
+            "division": "FC",
+            "allowEmail": false,
+            "seniorContributor": false,
+            "disabled": false,
+            "vendor": "EHRLST01",
+            "department": "null",
+            "acceptedVersion": "1",
+            "acceptedAt": 1606048858104,
+            "acceptedVersionV2": "2",
+            "acceptedAtV2": 1615243027555
+        },
+        "publication": {
+            "id": "659faec6acb2f5246e5a385c",
+            "naturalId": "blogAuthorId/blog/author/blog-6227",
+            "name": "Forbes CryptoAsset & Blockchain Advisor",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/40x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/62x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/136x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/400x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "type": "Newsletter",
+            "subType": "investing",
+            "profileUrl": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "authorType": "newsletter",
+            "blog": true,
+            "timestamp": 1703204920677,
+            "authors": [
+                "1311599",
+                "5003018",
+                "5003987"
+            ],
+            "description": "I am director of research for digital assets at Forbes. I was recently at Kraken, a cryptocurrency exchange based in the United States. Before joining Kraken I served as Chief Operating Officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).",
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-6227",
+            "primaryContributor": "blogAuthorId/blog/author/1311599",
+            "primaryContributorData": {
+                "id": "659faec6acb2f5246e5a385b",
+                "naturalId": "blogAuthorId/blog/author/1311599",
+                "name": "Steven Ehrlich",
+                "avatars": [
+                    {
+                        "size": 136,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+                    },
+                    {
+                        "size": 40,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+                    },
+                    {
+                        "size": 400,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+                    },
+                    {
+                        "size": 62,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+                    }
+                ],
+                "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+                "type": "Forbes Staff",
+                "profileUrl": "/sites/forbescryptoassetadvisor/",
+                "twitterName": "Steven_ehrlich",
+                "authorType": "individual",
+                "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+                "blog": false,
+                "timestamp": 1700502890865,
+                "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+                "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+                "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+                "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+                "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+                "shortUri": "http://bit.ly/2MdKvkP",
+                "contributorSince": 1406065322000,
+                "slug": "forbescryptoassetadvisor",
+                "showNoVestPocket": false,
+                "embargo": false,
+                "primaryChannelId": "channel_11",
+                "primarySectionId": "section_1914",
+                "enableContribContact": true,
+                "enableTwitterFeed": false,
+                "disableCanonical": false,
+                "disableDigest": false,
+                "inactive": false,
+                "division": "FC",
+                "allowEmail": false,
+                "seniorContributor": false,
+                "disabled": false,
+                "vendor": "EHRLST01",
+                "department": "null",
+                "acceptedVersion": "1",
+                "acceptedAt": 1606048858104,
+                "acceptedVersionV2": "2",
+                "acceptedAtV2": 1615243027555
+            },
+            "shortUri": "http://bit.ly/2Li4i1i",
+            "contributorSince": 1534963320000,
+            "slug": "forbescryptoassetadvisor",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": false,
+            "pubCode": "F8",
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "freeESPNewsletter": false,
+            "fullTextEmail": false,
+            "inactive": false,
+            "allowEmail": false,
+            "previousAuthorData": {
+                "blog": false,
+                "allowEmail": false
+            },
+            "staticPages": [
+                {
+                    "id": "607d8dc09d9fd3000601d121",
+                    "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2021/04/19/forbes-cryptoasset--blockchain-advisor-portfolio-tracker/",
+                    "label": "Full Portfolio"
+                }
+            ],
+            "resourceId": "FIN_CRY",
+            "pianoModalIds": {
+                "lander": {
+                    "offerId": "",
+                    "templateId": "",
+                    "templateVariantId": ""
+                },
+                "article": {
+                    "offerId": "OFPFJ5BTBW1B",
+                    "templateId": "OT9RV5A7OMZV",
+                    "templateVariantId": "OTVTLN0D1JL1Q"
+                }
+            },
+            "emails": {
+                "welcome-preview": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                },
+                "welcome": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                }
+            },
+            "contentPaywall": "metered"
+        },
+        "coAuthors": []
+    },
+    "authors": [
+        {
+            "id": "659faec6acb2f5246e5a385b",
+            "naturalId": "blogAuthorId/blog/author/1311599",
+            "name": "Steven Ehrlich",
+            "avatars": [
+                {
+                    "size": 136,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+                },
+                {
+                    "size": 40,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+                },
+                {
+                    "size": 400,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+                },
+                {
+                    "size": 62,
+                    "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "type": "Forbes Staff",
+            "profileUrl": "/sites/forbescryptoassetadvisor/",
+            "twitterName": "Steven_ehrlich",
+            "authorType": "individual",
+            "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+            "blog": false,
+            "timestamp": 1700502890865,
+            "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+            "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+            "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+            "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+            "shortUri": "http://bit.ly/2MdKvkP",
+            "contributorSince": 1406065322000,
+            "slug": "forbescryptoassetadvisor",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": true,
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "inactive": false,
+            "division": "FC",
+            "allowEmail": false,
+            "seniorContributor": false,
+            "disabled": false,
+            "vendor": "EHRLST01",
+            "department": "null",
+            "acceptedVersion": "1",
+            "acceptedAt": 1606048858104,
+            "acceptedVersionV2": "2",
+            "acceptedAtV2": 1615243027555
+        },
+        {
+            "id": "659faec6acb2f5246e5a385c",
+            "naturalId": "blogAuthorId/blog/author/blog-6227",
+            "name": "Forbes CryptoAsset & Blockchain Advisor",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/40x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/62x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/136x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/400x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "type": "Newsletter",
+            "subType": "investing",
+            "profileUrl": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+            "authorType": "newsletter",
+            "blog": true,
+            "timestamp": 1703204920677,
+            "authors": [
+                "1311599",
+                "5003018",
+                "5003987"
+            ],
+            "description": "I am director of research for digital assets at Forbes. I was recently at Kraken, a cryptocurrency exchange based in the United States. Before joining Kraken I served as Chief Operating Officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).",
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-6227",
+            "primaryContributor": "blogAuthorId/blog/author/1311599",
+            "primaryContributorData": {
+                "id": "659faec6acb2f5246e5a385b",
+                "naturalId": "blogAuthorId/blog/author/1311599",
+                "name": "Steven Ehrlich",
+                "avatars": [
+                    {
+                        "size": 136,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+                    },
+                    {
+                        "size": 40,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+                    },
+                    {
+                        "size": 400,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+                    },
+                    {
+                        "size": 62,
+                        "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+                    }
+                ],
+                "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+                "type": "Forbes Staff",
+                "profileUrl": "/sites/forbescryptoassetadvisor/",
+                "twitterName": "Steven_ehrlich",
+                "authorType": "individual",
+                "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+                "blog": false,
+                "timestamp": 1700502890865,
+                "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+                "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+                "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+                "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+                "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+                "shortUri": "http://bit.ly/2MdKvkP",
+                "contributorSince": 1406065322000,
+                "slug": "forbescryptoassetadvisor",
+                "showNoVestPocket": false,
+                "embargo": false,
+                "primaryChannelId": "channel_11",
+                "primarySectionId": "section_1914",
+                "enableContribContact": true,
+                "enableTwitterFeed": false,
+                "disableCanonical": false,
+                "disableDigest": false,
+                "inactive": false,
+                "division": "FC",
+                "allowEmail": false,
+                "seniorContributor": false,
+                "disabled": false,
+                "vendor": "EHRLST01",
+                "department": "null",
+                "acceptedVersion": "1",
+                "acceptedAt": 1606048858104,
+                "acceptedVersionV2": "2",
+                "acceptedAtV2": 1615243027555
+            },
+            "shortUri": "http://bit.ly/2Li4i1i",
+            "contributorSince": 1534963320000,
+            "slug": "forbescryptoassetadvisor",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": false,
+            "pubCode": "F8",
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "freeESPNewsletter": false,
+            "fullTextEmail": false,
+            "inactive": false,
+            "allowEmail": false,
+            "previousAuthorData": {
+                "blog": false,
+                "allowEmail": false
+            },
+            "staticPages": [
+                {
+                    "id": "607d8dc09d9fd3000601d121",
+                    "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2021/04/19/forbes-cryptoasset--blockchain-advisor-portfolio-tracker/",
+                    "label": "Full Portfolio"
+                }
+            ],
+            "resourceId": "FIN_CRY",
+            "pianoModalIds": {
+                "lander": {
+                    "offerId": "",
+                    "templateId": "",
+                    "templateVariantId": ""
+                },
+                "article": {
+                    "offerId": "OFPFJ5BTBW1B",
+                    "templateId": "OT9RV5A7OMZV",
+                    "templateVariantId": "OTVTLN0D1JL1Q"
+                }
+            },
+            "emails": {
+                "welcome-preview": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                },
+                "welcome": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+                    "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                }
+            },
+            "contentPaywall": "metered"
+        }
+    ],
+    "bertieBadges": [
+        {
+            "id": "659faec6acb2f5246e5a385d",
+            "slug": "digital-assets-research",
+            "displayName": "Digital Assets Research",
+            "status": "active",
+            "priority": 0,
+            "streamUrl": ""
+        },
+        {
+            "id": "659faec6acb2f5246e5a385e",
+            "slug": "editors-pick",
+            "displayName": "Editors' Pick",
+            "status": "active",
+            "priority": 8888,
+            "streamUrl": "https://www.forbes.com/editors-picks",
+            "display": true
+        }
+    ],
+    "blogId": "6227",
+    "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+    "blogType": "newsletter",
+    "body": "[id=0]<p>Dear Subscribers,</p><p>I bring good tidings at the beginning of this new year! Our long national nightmare is almost over. If everything goes to plan, you will be able to purchase shares in more than a dozen spot bitcoin ETFs in less than 48 hours. I will be staying on top of everything from here on out to keep you in the loop, but today I wanted to share some responses to common questions that I’ve been getting.</p><p><strong>1) What is the big deal about a spot ETF?</strong></p><p>As all of you know, there are plenty of ways to get spot exposure to bitcoin already. Typically that means buying it directly from an exchange like Coinbase, Kraken, or Robinhood. But these come with some fine print. For one, the fees can be relatively expensive. On the one hand, some spot ETFs will waive fees for the first 6-12 months (more on that in the next section), while exchanges like Coinbase cost an eye-watering 300bps for small retail purchases. Plus as you all know it takes some effort to sign up for an account at one of these exchanges and link a bank account. Spot ETFs will eliminate the need for any of that as you will be able to direct a brokerage account to make an allocation with the click of a button. Second, as we all saw from the collapse of FTX, Voyager, Celsius, BlockFi, and others counterparty risk is a real thing. That will not be an issue in the regulated field of spot bitcoin ETFs, especially when it involves blue chip players like BlackRock and Fidelity.</p><p><strong>2)</strong> <strong>Didn’t we already have ETFs?</strong></p><p>Yes and no. Investors have been able to purchase cash-settled bitcoin futures ETFs for years. These aim to track the price of bitcoin, but they are not the same thing. A spot ETF will have to physically procure the asset before issuing a share. Futures ETFs just purchase bundles of monthly-settled securities and offer those to investors. No bitcoin actually changes hands. Futures ETFs were a nice way to get some exposure to the sector, and for regulated institutions they were one of the only ways to do it, but these products are not perfect. Besides the expense ratios, ProShares (BITO) product charges almost 100bps and there are additional hidden rollover costs that come when the administrators need to buy the next month’s contracts. During bullish periods futures contracts can start to pull away from the spot price, making it ever more expensive to buy the same amount of contracts in a future month. This condition is called contango, and you can see the effect in the chart below as bitcoin outperformed BITO by more than 20% in the past year.</p>[id=1]<p>During earlier parts of the year when bitcoin’s price was steady, the two assets traded in close proximity with each other. However, when spot ETF excitement really got going in June around the time that BlackRock filed an application, bitcoin began to surge ahead. Spot ETF applications won’t have this issue because the issuers are signing up firms (known as Authorized Participants) such as JPMorgan, Goldman Sachs, Virtu, Jane Street, etc that will purchase and redeem shares as necessary to ensure that the assets trade at parity with NAV.</p><p><strong>3) Should I buy an ETF? If so, which one?</strong></p><p>There is a lot to consider. For one, you first need to ask yourself dogmatically how you feel about bitcoin ETFs in general. I know some bitcoin maximalists who feel that ETFs are antithetical to bitcoin’s ethos of self-sovereign money. I understand that point of view in the same way that I can appreciate how other investors do not want to worry about making an error with self-custody and are willing to pay the management fees that pay for piece of mind. That is an individual decision that you will need to make for yourself. </p><p>A couple of other things to consider. First, there is no way to send bitcoin to one of these issuers and get ETF shares in return. You would need to send cash. That means that if just want to convert spot holdings into an ETF you would incur a taxable event and be liabile for income or capital gains tax depending on how long you held the bitcoin. The good news though is that since it is the beginning of 2024 you would not actually need to pay any taxes until 2025. </p><p>The second is fees. They are all over the place. Some issuers such as Invesco, Bitwise, ArkInvest, and WisdomTree are willing to forego fees for six months or until certain AUM thresholds are met. But once you get past that point expense ratios are going to be in the 20-30bps range.</p>[id=2]<p>The big outlier of course is Grayscale, which is at an eye-watering 150bps. This is still a 25% reduction from the current fee, but it is still orders of magnitude higher than the rest of the market. My sense here is that the company is betting on investor apathy or that they will find the higher fee more palatable than the capital gains tax that would otherwise need to be paid. For those of you who own GBTC shares though, I would recommend evaluating cheaper alternatives.</p><p><strong>4) What is going to happen to the price of bitcoin?</strong></p><p>Bitcoin has a nasty habit of buying rumors and selling news. It happened twice in 2021 when Coinbase went public in April and then futures ETFs began trading in October. </p>[id=3]<p>Will that happen again? It probably depends on how much new money comes in right away. I’ve seen predictions all over the map, and to be honest nobody knows. I do know that the conditions are right for a tight move up should there be a jump. The total amount of bitcon on exchanges is the lowest that it has been in four years, according to data from Glassnode.</p>[id=4]<p>Additionally, ever greater numbers of bitcoin are holding steady. In fact, as you can see in the chart below, more than 80% of all bitcoin has not moved in the last six months. This is the highest reading for this metric in four years as well.</p>[id=5]<p>That said, I would not be surprised if billions do not flow in right away. Some investors and brokerage houses may want to see how these products trade first. Remember, just because the SEC says that these products are now legal does not mean that brokers must support them on day one. </p><p>With that being the case. If new money does not fly in at the start, bitcoin could drag a little. Based on technical charts, which already show bitcoin to be slightly overbought, the next support levels will be around $41,000 and then $33,000. Therefore, given that bitcoin has surged more than 50% over the past few months, you may want to consider taking some profits off of the table with the expectation of buying back in after the dust settles from these expected launches.</p>[id=6]<p>I will be providing you with further updates on all of this throughout the week. As always please feel free to reach out with questions.</p>",
+    "bodyAsDeltas": "[{\"insert\":{\"figure\":\"0\"}},{\"insert\":\"Dear Subscribers,\\nI bring good tidings at the beginning of this new year! Our long national nightmare is almost over. If everything goes to plan, you will be able to purchase shares in more than a dozen spot bitcoin ETFs in less than 48 hours. I will be staying on top of everything from here on out to keep you in the loop, but today I wanted to share some responses to common questions that I’ve been getting.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"1) What is the big deal about a spot ETF?\"},{\"insert\":\"\\nAs all of you know, there are plenty of ways to get spot exposure to bitcoin already. Typically that means buying it directly from an exchange like Coinbase, Kraken, or Robinhood. But these come with some fine print. For one, the fees can be relatively expensive. On the one hand, some spot ETFs will waive fees for the first 6-12 months (more on that in the next section), while exchanges like Coinbase cost an eye-watering 300bps for small retail purchases. Plus as you all know it takes some effort to sign up for an account at one of these exchanges and link a bank account. Spot ETFs will eliminate the need for any of that as you will be able to direct a brokerage account to make an allocation with the click of a button. Second, as we all saw from the collapse of FTX, Voyager, Celsius, BlockFi, and others counterparty risk is a real thing. That will not be an issue in the regulated field of spot bitcoin ETFs, especially when it involves blue chip players like BlackRock and Fidelity.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"2)\"},{\"insert\":\" \"},{\"attributes\":{\"bold\":true},\"insert\":\"Didn’t we already have ETFs?\"},{\"insert\":\"\\nYes and no. Investors have been able to purchase cash-settled bitcoin futures ETFs for years. These aim to track the price of bitcoin, but they are not the same thing. A spot ETF will have to physically procure the asset before issuing a share. Futures ETFs just purchase bundles of monthly-settled securities and offer those to investors. No bitcoin actually changes hands. Futures ETFs were a nice way to get some exposure to the sector, and for regulated institutions they were one of the only ways to do it, but these products are not perfect. Besides the expense ratios, ProShares (BITO) product charges almost 100bps and there are additional hidden rollover costs that come when the administrators need to buy the next month’s contracts. During bullish periods futures contracts can start to pull away from the spot price, making it ever more expensive to buy the same amount of contracts in a future month. This condition is called contango, and you can see the effect in the chart below as bitcoin outperformed BITO by more than 20% in the past year.\\n\"},{\"insert\":{\"figure\":\"1\"}},{\"insert\":\"During earlier parts of the year when bitcoin’s price was steady, the two assets traded in close proximity with each other. However, when spot ETF excitement really got going in June around the time that BlackRock filed an application, bitcoin began to surge ahead. Spot ETF applications won’t have this issue because the issuers are signing up firms (known as Authorized Participants) such as JPMorgan, Goldman Sachs, Virtu, Jane Street, etc that will purchase and redeem shares as necessary to ensure that the assets trade at parity with NAV.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"3) Should I buy an ETF? If so, which one?\"},{\"insert\":\"\\nThere is a lot to consider. For one, you first need to ask yourself dogmatically how you feel about bitcoin ETFs in general. I know some bitcoin maximalists who feel that ETFs are antithetical to bitcoin’s ethos of self-sovereign money. I understand that point of view in the same way that I can appreciate how other investors do not want to worry about making an error with self-custody and are willing to pay the management fees that pay for piece of mind. That is an individual decision that you will need to make for yourself. \\nA couple of other things to consider. First, there is no way to send bitcoin to one of these issuers and get ETF shares in return. You would need to send cash. That means that if just want to convert spot holdings into an ETF you would incur a taxable event and be liabile for income or capital gains tax depending on how long you held the bitcoin. The good news though is that since it is the beginning of 2024 you would not actually need to pay any taxes until 2025. \\nThe second is fees. They are all over the place. Some issuers such as Invesco, Bitwise, ArkInvest, and WisdomTree are willing to forego fees for six months or until certain AUM thresholds are met. But once you get past that point expense ratios are going to be in the 20-30bps range.\\n\"},{\"insert\":{\"figure\":\"2\"}},{\"insert\":\"The big outlier of course is Grayscale, which is at an eye-watering 150bps. This is still a 25% reduction from the current fee, but it is still orders of magnitude higher than the rest of the market. My sense here is that the company is betting on investor apathy or that they will find the higher fee more palatable than the capital gains tax that would otherwise need to be paid. For those of you who own GBTC shares though, I would recommend evaluating cheaper alternatives.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"4) What is going to happen to the price of bitcoin?\"},{\"insert\":\"\\nBitcoin has a nasty habit of buying rumors and selling news. It happened twice in 2021 when Coinbase went public in April and then futures ETFs began trading in October. \\n\"},{\"insert\":{\"figure\":\"3\"}},{\"insert\":\"Will that happen again? It probably depends on how much new money comes in right away. I’ve seen predictions all over the map, and to be honest nobody knows. I do know that the conditions are right for a tight move up should there be a jump. The total amount of bitcon on exchanges is the lowest that it has been in four years, according to data from Glassnode.\\n\"},{\"insert\":{\"figure\":\"4\"}},{\"insert\":\"Additionally, ever greater numbers of bitcoin are holding steady. In fact, as you can see in the chart below, more than 80% of all bitcoin has not moved in the last six months. This is the highest reading for this metric in four years as well.\\n\"},{\"insert\":{\"figure\":\"5\"}},{\"insert\":\"That said, I would not be surprised if billions do not flow in right away. Some investors and brokerage houses may want to see how these products trade first. Remember, just because the SEC says that these products are now legal does not mean that brokers must support them on day one. \\nWith that being the case. If new money does not fly in at the start, bitcoin could drag a little. Based on technical charts, which already show bitcoin to be slightly overbought, the next support levels will be around $41,000 and then $33,000. Therefore, given that bitcoin has surged more than 50% over the past few months, you may want to consider taking some profits off of the table with the expectation of buying back in after the dust settles from these expected launches.\\n\"},{\"insert\":{\"figure\":\"6\"}},{\"insert\":\"I will be providing you with further updates on all of this throughout the week. As always please feel free to reach out with questions.\\n\"}]",
+    "bvProgramType": "",
+    "comments": [],
+    "contentPaywall": "publication",
+    "date": 1704835345197,
+    "description": "Spot bitcoin ETFs are almost ready. Here is what you need to know to get started.",
+    "doNotPaginate": false,
+    "embedData": [
+        {
+            "id": 0,
+            "type": "image",
+            "data": {
+                "source": "getty",
+                "html": "The spot bitcoin ETF is almost here",
+                "guid": "6500cba1c5d4b06eb53e6761",
+                "caption": "The spot bitcoin ETF is almost here",
+                "credit": "getty",
+                "width": 5000,
+                "height": 2500,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/jpeg",
+                "altText": "Exchange Traded Fund (ETF) and bitcoin cryptocurrency concept.  Entering the digital money fund concept. Investor holds the wooden cube with bitcoin icon standing with \"ETF\" text. White background.",
+                "aspectRatio": 50,
+                "sourceId": "1371651720",
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-0\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/6500cba1c5d4b06eb53e6761/Exchange-Traded-Fund--ETF--and-bitcoin-cryptocurrency-concept---Entering-the-digital/960x0.jpg?fit=scale\" alt=\"Exchange Traded Fund (ETF) and bitcoin cryptocurrency concept.  Entering the digital money fund concept. Investor holds the wooden cube with bitcoin icon standing with &quot;ETF&quot; text. White background.\" data-height=\"2500\" data-width=\"5000\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">The spot bitcoin ETF is almost here</p></fbs-accordion><small class=\"color-body light-text\">getty</small></figcaption></figure>",
+            "position": "top"
+        },
+        {
+            "id": 1,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Bitcoin spot has pulled away from BITO",
+                "guid": "659daf955adc8f6c0a0612db",
+                "caption": "Bitcoin spot has pulled away from BITO",
+                "credit": "yCharts",
+                "width": 2000,
+                "height": 1331,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "BITO_MSACWINTR_IBTCUSD_chart",
+                "aspectRatio": 66.55,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-1\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659daf955adc8f6c0a0612db/BITO-MSACWINTR-IBTCUSD-chart/960x0.png?fit=scale\" alt=\"BITO_MSACWINTR_IBTCUSD_chart\" data-height=\"1331\" data-width=\"2000\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Bitcoin spot has pulled away from BITO</p></fbs-accordion><small class=\"color-body light-text\">yCharts</small></figcaption></figure>",
+            "position": "middle"
+        },
+        {
+            "id": 2,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Many issuers are willing to waive fees to jumpstart their ETFs",
+                "guid": "659db2bec5448c220a35e6a2",
+                "caption": "Many issuers are willing to waive fees to jumpstart their ETFs",
+                "credit": "Bloomberg",
+                "width": 2244,
+                "height": 852,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "Screenshot 2024-01-09 at 3.55.04 PM",
+                "aspectRatio": 37.967914438502675,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-2\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659db2bec5448c220a35e6a2/Screenshot-2024-01-09-at-3-55-04-PM/960x0.png?fit=scale\" alt=\"Screenshot 2024-01-09 at 3.55.04 PM\" data-height=\"852\" data-width=\"2244\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Many issuers are willing to waive fees to jumpstart their ETFs</p></fbs-accordion><small class=\"color-body light-text\">Bloomberg</small></figcaption></figure>",
+            "position": "middle"
+        },
+        {
+            "id": 3,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Bitcoin has a nasty habit of selling off on big news events",
+                "guid": "659db44417731e93a7cc3c26",
+                "caption": "Bitcoin has a nasty habit of selling off on big news events",
+                "credit": "TradingView",
+                "width": 2770,
+                "height": 1450,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "BTCUSD_2024-01-09_16-01-35",
+                "aspectRatio": 52.34657039711191,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-3\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659db44417731e93a7cc3c26/BTCUSD-2024-01-09-16-01-35/960x0.png?fit=scale\" alt=\"BTCUSD_2024-01-09_16-01-35\" data-height=\"1450\" data-width=\"2770\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Bitcoin has a nasty habit of selling off on big news events</p></fbs-accordion><small class=\"color-body light-text\">TradingView</small></figcaption></figure>",
+            "position": "middle"
+        },
+        {
+            "id": 4,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Investors are taking bitcoin off of exchanges in ever greater numbers",
+                "guid": "659db4fe469fa719f2fc5061",
+                "caption": "Investors are taking bitcoin off of exchanges in ever greater numbers",
+                "credit": "Glassnode",
+                "width": 1800,
+                "height": 1013,
+                "cropRatioName": "custom",
+                "hasTransparency": true,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "glassnode-studio_bitcoin-balance-on-exchanges-total-btc-all-exchanges",
+                "aspectRatio": 56.277777777777786,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-4\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659db4fe469fa719f2fc5061/glassnode-studio-bitcoin-balance-on-exchanges-total-btc-all-exchanges/960x0.png?fit=scale\" alt=\"glassnode-studio_bitcoin-balance-on-exchanges-total-btc-all-exchanges\" data-height=\"1013\" data-width=\"1800\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Investors are taking bitcoin off of exchanges in ever greater numbers</p></fbs-accordion><small class=\"color-body light-text\">Glassnode</small></figcaption></figure>",
+            "position": "middle"
+        },
+        {
+            "id": 5,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Bitcoin investors are putting their assets on ice",
+                "guid": "659db5af922ad9b830910476",
+                "caption": "Bitcoin investors are putting their assets on ice",
+                "credit": "Glassnode",
+                "width": 1800,
+                "height": 1013,
+                "cropRatioName": "custom",
+                "hasTransparency": true,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "glassnode-studio_bitcoin-hodl-waves",
+                "aspectRatio": 56.277777777777786,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-5\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659db5af922ad9b830910476/glassnode-studio-bitcoin-hodl-waves/960x0.png?fit=scale\" alt=\"glassnode-studio_bitcoin-hodl-waves\" data-height=\"1013\" data-width=\"1800\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Bitcoin investors are putting their assets on ice</p></fbs-accordion><small class=\"color-body light-text\">Glassnode</small></figcaption></figure>",
+            "position": "middle"
+        },
+        {
+            "id": 6,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "Bitcoin could pull back if new money does not flow into ETFs",
+                "guid": "659db7873f7c32fee4fb47c4",
+                "caption": "Bitcoin could pull back if new money does not flow into ETFs",
+                "credit": "TradingView",
+                "width": 2770,
+                "height": 1450,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "BTCUSD_2024-01-09_16-14-46",
+                "aspectRatio": 52.34657039711191,
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-6\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659db7873f7c32fee4fb47c4/BTCUSD-2024-01-09-16-14-46/960x0.png?fit=scale\" alt=\"BTCUSD_2024-01-09_16-14-46\" data-height=\"1450\" data-width=\"2770\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">Bitcoin could pull back if new money does not flow into ETFs</p></fbs-accordion><small class=\"color-body light-text\">TradingView</small></figcaption></figure>",
+            "position": "middle"
+        }
+    ],
+    "formatVariant": {
+        "hasCerosEmbed": false,
+        "signature": "visible",
+        "socialShareIcons": "visible",
+        "channelSection": "visible",
+        "badge": "visible"
+    },
+    "image": "https://specials-images.forbesimg.com/imageserve/6500cba1c5d4b06eb53e6761/960x0.jpg",
+    "isHotline": true,
+    "manualDescription": "Spot bitcoin ETFs are almost ready. Here is what you need to know to get started.",
+    "metaEmbeds": {
+        "thumbnail": {
+            "id": -1,
+            "type": "image",
+            "data": {
+                "source": "getty",
+                "html": "The spot bitcoin ETF is almost here",
+                "guid": "6500cba1c5d4b06eb53e6761",
+                "caption": "The spot bitcoin ETF is almost here",
+                "credit": "getty",
+                "width": 5000,
+                "height": 2500,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/jpeg",
+                "altText": "Exchange Traded Fund (ETF) and bitcoin cryptocurrency concept.  Entering the digital money fund concept. Investor holds the wooden cube with bitcoin icon standing with \"ETF\" text. White background.",
+                "aspectRatio": 50,
+                "sourceId": "1371651720",
+                "author": "1311599",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-0\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/6500cba1c5d4b06eb53e6761/Exchange-Traded-Fund--ETF--and-bitcoin-cryptocurrency-concept---Entering-the-digital/960x0.jpg?fit=scale\" alt=\"Exchange Traded Fund (ETF) and bitcoin cryptocurrency concept.  Entering the digital money fund concept. Investor holds the wooden cube with bitcoin icon standing with &quot;ETF&quot; text. White background.\" data-height=\"2500\" data-width=\"5000\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">The spot bitcoin ETF is almost here</p></fbs-accordion><small class=\"color-body light-text\">getty</small></figcaption></figure>",
+            "position": "bottom"
+        }
+    },
+    "newsKeywords": [
+        "ETFs",
+        "Futures ETFs",
+        "Coinbase",
+        "BlackRock"
+    ],
+    "primaryChannel": {
+        "id": "channel_11",
+        "channelId": "channel_11",
+        "channelName": "Newsletters",
+        "sectionId": "section_1914",
+        "sectionName": "Investing Newsletters",
+        "url": "/newsletters",
+        "showAds": false,
+        "showLicenseOptions": false,
+        "showSpreadsheetButton": false,
+        "enableComments": false,
+        "badges": [],
+        "hexValue": "#737373",
+        "secondaryHexValue": "#bbbbbb",
+        "showQotd": false,
+        "channelUrl": "/newsletters-old"
+    },
+    "primaryChannelId": "channel_11",
+    "primarySectionId": "section_1914",
+    "pTagCount": 27,
+    "pubCode": "F8",
+    "removePaywall": true,
+    "scheduled": false,
+    "sentimentScore": -0.10000000149011612,
+    "showComments": false,
+    "siteSlug": "forbescryptoassetadvisor",
+    "statsEntities": [],
+    "templateType": "newsletter",
+    "timestamp": 1704897570160,
+    "bertieTimestamp": 1704897570160,
+    "type": "newsletter",
+    "updatedTimestamp": 1704897570160,
+    "uri": "http://www.forbes.com/newsletters/forbescryptoassetadvisor/2024/01/09/start-your-etf-engines/",
+    "version": 4,
+    "visible": true,
+    "writtenByForbesStaff": true,
+    "author": "Steven Ehrlich",
+    "channelSection": [
+        {
+            "channelId": "channel_11"
+        },
+        {
+            "channelId": "channel_11",
+            "sectionId": "section_1914"
+        }
+    ],
+    "hideDescription": false,
+    "id": "content_659da746b7c8e639cca44af3",
+    "naturalId": "blogAndPostId/blog/post/6227-659da746b7c8e639cca44af3",
+    "source": "forbespress",
+    "sponsored": false,
+    "title": "Start Your ETF Engines"
+}

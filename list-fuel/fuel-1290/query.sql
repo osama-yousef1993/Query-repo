@@ -1,0 +1,45 @@
+ MATCH (n:ListIssue )-[r:LISTS]->(o:Organization)
+ WITH n, r, o, toInteger(r.rank) AS rank, toInteger(r.position) AS position
+       OPTIONAL MATCH (n)-[r2:INDUSTRY_RANKS]->(o)
+      WITH n, r, o, rank, position, collect({ rank: r2.categoryRank, category: r2.categoryRankValue }) AS categoryRanks
+      limit 10
+      RETURN collect({
+        position: position,
+        rank: rank,
+        country: r.country,
+        naturalId: r.naturalId,
+        city: r.city,
+        displayName: r.displayName,
+        changeBy: r.changeBy,
+        latitude: r.latitude,
+        description: r.description,
+        industry: r.industry,
+        webSite: r.webSite,
+        youTubePlayList: r.youTubePlayList,
+        changeDate: r.changeDate,
+        ceoName: r.ceoName,
+        state: r.state,
+        nameTiny: r.nameTiny,
+        fuelId: r.fuelId,
+        longitude: r.longitude,
+        _profileComplete: r._profileComplete,
+        image: r.image,
+        visible: r.visible,
+        organizationName: r.organizationName,
+        descriptionAlt: r.descriptionAlt,
+        squareImage: r.squareImage,
+        yearFounded: r.yearFounded,
+        uri: r.uri,
+        ceoTitle: r.ceoTitle,
+        uris: r.uris,
+        phoneNumber: r.phoneNumber,
+        allowAccolades: r.allowAccolades,
+        phone: r.phone,
+        premiumProfile: r.premiumProfile,
+        name: r.name,
+        embargo: r.embargo,
+        employees: r.employees,
+        nameSort: r.nameSort,
+        altDescription: r.altDescription,
+        categoryRanks: categoryRanks
+      }) AS listIssueNodes, count(o) AS count, n.listUri, n.year

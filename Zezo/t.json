@@ -1,0 +1,64 @@
+{
+    "clientId": "4f788c66-12d5-4e6d-8924-dbf9ce0bc2eb",
+    "clientSecret": "iG_8Q~WOdqkxsXKHWnAiKJjAcRd6diH4ehpMOazn",
+    "subscriptionId": "6bdd5df9-6baf-48df-852c-4cf022de502d",
+    "tenantId": "d933079b-b764-43be-a7b5-da9976e9bccb",
+    "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+    "resourceManagerEndpointUrl": "https://management.azure.com/",
+    "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+    "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+    "galleryEndpointUrl": "https://gallery.azure.com/",
+    "managementEndpointUrl": "https://management.core.windows.net/"
+  }
+
+  {
+    "clientId": "4f788c66-12d5-4e6d-8924-dbf9ce0bc2eb",
+    "clientSecret": "iG_8Q~WOdqkxsXKHWnAiKJjAcRd6diH4ehpMOazn",
+    "subscriptionId": "6bdd5df9-6baf-48df-852c-4cf022de502d",
+    "tenantId": "d933079b-b764-43be-a7b5-da9976e9bccb"
+  }
+
+  {
+    "clientId": "6bb2e425-e184-4b27-a001-3233859e8c30",
+    "clientSecret": "wb48Q~FV6IYXoHt8..N_ZPLRel313xvLlKzzXbIO",
+    "subscriptionId": "6bdd5df9-6baf-48df-852c-4cf022de502d",
+    "tenantId": "d933079b-b764-43be-a7b5-da9976e9bccb",
+  }
+
+  {
+    "clientId": "6bb2e425-e184-4b27-a001-3233859e8c30",
+    "clientSecret": "wb48Q~FV6IYXoHt8..N_ZPLRel313xvLlKzzXbIO",
+    "subscriptionId": "6bdd5df9-6baf-48df-852c-4cf022de502d",
+    "tenantId": "d933079b-b764-43be-a7b5-da9976e9bccb",
+    "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+    "resourceManagerEndpointUrl": "https://management.azure.com/",
+    "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+    "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+    "galleryEndpointUrl": "https://gallery.azure.com/",
+    "managementEndpointUrl": "https://management.core.windows.net/"
+  }
+
+
+// latest for owner
+  {
+    "clientId": "d3c50ea7-2a6b-4b8a-b318-1b6060866199",
+    "clientSecret": "gU98Q~PQd0o2FkSygbe~mWcljpDp6MztvTfWPa82",
+    "subscriptionId": "6bdd5df9-6baf-48df-852c-4cf022de502d",
+    "tenantId": "d933079b-b764-43be-a7b5-da9976e9bccb",
+    "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+    "resourceManagerEndpointUrl": "https://management.azure.com/",
+    "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+    "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+    "galleryEndpointUrl": "https://gallery.azure.com/",
+    "managementEndpointUrl": "https://management.core.windows.net/"
+  }
+
+
+  {
+    "appId": "01f1486a-e1f1-4543-a220-58c59d8d8723",
+    "displayName": "azure-cli-2024-04-19-22-32-09",
+    "password": "gkT8Q~pVv_0kV7OmqY0GnhRd7x91m~gA3ycKTaOF",
+    "tenant": "d933079b-b764-43be-a7b5-da9976e9bccb"
+  }
+  az ad sp create-for-rbac --name "github-actions" --role owner --scopes /subscriptions/6bdd5df9-6baf-48df-852c-4cf022de502d/resourceGroups/os-fastapi --sdk-auth
+  az ad sp create-for-rbac --name "github-actions" --role owner --scopes /subscriptions/6bdd5df9-6baf-48df-852c-4cf022de502d/resourceGroups/os-fastapi --sdk-auth

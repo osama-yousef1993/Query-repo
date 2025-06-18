@@ -1,0 +1,2447 @@
+openapi: 3.0.0
+info:
+  title: Forbes Digital Assets (FDA) API
+  description: API for FDA which serves crypto price data, chart data, crypto news feeds, and stores/retrieves user->crypto watchlists
+  version: 0.1.0
+servers:
+- url: https://fda-dev.forbes.com
+  description: The development environment. This environment tracks the main branch always.
+- url: https://fda.forbes.com
+  description: The production environment. This environment is deployed by tagging a release in github.
+paths:
+  /allProfiles:
+    get:
+      tags:
+      - default
+      summary: Returns bertie profiles sorted by symbol.
+      description: Returns bertie profiles sorted by symbol. If limit and pageNum params are passed the response will be paginated. Otherwise all items will be returned by default.
+      security:
+      - bearerAuth: []
+      parameters:
+      - name: Authorization
+        in: header
+        schema:
+          type: string
+      - name: Transfer-Encoding
+        in: header
+        schema:
+          type: string
+        example: chunked
+      - name: limit
+        in: query
+        schema:
+          type: integer
+        example: '10'
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=60, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Total-Paginated-Items:
+              schema:
+                type: integer
+                example: '62945'
+            Date:
+              schema:
+                type: string
+                example: Tue, 16 Aug 2022 14:28:58 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '1742'
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+              - name: Money
+                symbol: $$$
+                slug: money-$$$
+                logo: >-
+                  https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/$$$.png
+                profileLink: https://www.forbes.com/digital-assets/assets/money-$$$/
+              - name: '0'
+                symbol: '0'
+                slug: 0-0
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/0-0/
+              - name: 0_0Token
+                symbol: '00'
+                slug: 0_0token-00
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/0_0token-00/
+              - name: Home Safe
+                symbol: '000'
+                slug: home-safe-000
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/home-safe-000/
+              - name: 01001000 01100101 01101100
+                symbol: '01001000'
+                slug: 01001000-01100101-01101100-01001000
+                logo: ''
+                profileLink: >-
+                  https://www.forbes.com/digital-assets/assets/01001000-01100101-01101100-01001000/
+              - name: Eleven
+                symbol: '011'
+                slug: eleven-011
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/eleven-011/
+              - name: '01101101'
+                symbol: '01101101'
+                slug: 01101101-01101101
+                logo: ''
+                profileLink: >-
+                  https://www.forbes.com/digital-assets/assets/01101101-01101101/
+              - name: Alibaba Health Information Technology Limited
+                symbol: 0241CX
+                slug: alibaba-health-information-technology-limited-0241cx
+                logo: >-
+                  https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/0241CX.jpg
+                profileLink: >-
+                  https://www.forbes.com/digital-assets/assets/alibaba-health-information-technology-limited-0241cx/
+              - name: 02Inu
+                symbol: 02INU
+                slug: 02inu-02inu
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/02inu-02inu/
+              - name: Bureau 39
+                symbol: '039'
+                slug: bureau-39-039
+                logo: ''
+                profileLink: https://www.forbes.com/digital-assets/assets/bureau-39-039/
+  /beta/register-user:
+    post:
+      tags:
+      - Beta
+      summary: Registers a user as a beta user.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                zephrSessionID: 96ad8de5-6cd9-4503-b439-eb1880be27a7
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Date:
+              schema:
+                type: string
+                example: Fri, 19 May 2023 21:50:00 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '23'
+            Content-Type:
+              schema:
+                type: string
+                example: text/plain; charset=utf-8
+          content:
+            text/plain:
+              schema:
+                type: string
+              example: '{"wasRegistered":false}'
+  /beta/verify-user:
+    get:
+      tags:
+      - Beta
+      summary: >-
+        Verifies if a user has the beta status.
+      parameters:
+      - name: sessionID
+        in: query
+        schema:
+          type: string
+        example: 96ad8de5-6cd9-4503-b439-eb1880be27a7
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Date:
+              schema:
+                type: string
+                example: Fri, 19 May 2023 21:52:39 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '19'
+            Content-Type:
+              schema:
+                type: string
+                example: text/plain; charset=utf-8
+          content:
+            text/plain:
+              schema:
+                type: string
+              example: '{"isBetaUser":true}'
+  /chart/{period}/{symbol_pair}:
+    get:
+      summary: Time-series data for price charts
+      description: Valid periods are 24h, 7d, 30d, 90d, 1y, and max. The symbol pair should be a usd pair such as btcusd, ethusd.
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  symbol:
+                    type: string
+                  targetResolutionSeconds: # <-- image embedded into JSON
+                    type: integer
+                    description: The number of seconds that each sample should represent
+                  prices:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        x:
+                          type: string
+                          description: time of the sample
+                        y:
+                          type: number
+                          description: price of the crypto in USD
+                  interval:
+                    type: string
+                    description: symbol + "_"  + Period from request
+                  status:
+                    type: string
+                    description: Trading status of symbol active/inactive
+                  notice:
+                    type: string
+                    description: A notification regarding any unexpected chart adjustments
+                  period:
+                    type: string
+                    description: 24h, 7d, 30d, 90d, 1y, and max. The chart data that was utilately returned from the backend. EX. If 24h was passed in the request but the asset is inactive. The max trading data will be returned.
+              examples:
+                sampleFile:
+                  summary: actual response
+
+
+
+
+
+
+
+
+
+
+                  externalValue: 'https://fda-dev.forbes.com/chart/24h/btcusd'
+  /fundamentals/24h/{symbol_pair}:
+    get:
+      summary: fundamentals data
+      description: Gets data such as high, low, % change etc for a crypto. The symbol pair should be a usd pair such as btcusd, ethusd.
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/fundamentals/24h/btcusd'
+  /carousel:
+    get:
+      summary: Carousel data
+      description: Returns the FDA-30 index and the top 10 assets by marketCap
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/carousel'
+  /related-cryptos/{period}/{exchange}:
+    get:
+      summary: Related assets
+      description: Returns all the assets traded on a given exchange
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/related-cryptos/24h/kucoin-kucoin'
+  /content/crypto/{slug}:
+    get:
+      summary: Asset data
+      description: Returns asset data from g-sheet
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/content/crypto/bitcoin-btc'
+  /content/exchange/{slug}:
+    get:
+      summary: Exchange data
+      description: Returns exchange data from g-sheet
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/content/exchange/kucoin-kucoin'
+  /healthcheck:
+    get:
+      summary: Returns a 200 status code
+      description: Used to check if the API is running
+      responses:
+        '200': # status code
+          description: OK
+  /newsfeed:
+    get:
+      summary: News and articles
+      description: Returns the latest news and articles about cryptos
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/newsfeed'
+  /leaders-laggards:
+    get:
+      summary: Leaders and laggards
+      description: Returns highest 7 assets by percentage change (Leaders) and lowest 7 assets by percentage change (Laggards)
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/leaders-laggards'
+  /dashboard-content:
+    get:
+      summary: Dashboard content
+      description: Returns featured and promoted content for the dashboard from a g-sheet
+
+
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/dashboard-content'
+  /tradedAssets:
+    get:
+      summary: Traded assets data
+      description: Returns the traded assets table data with pagination and sorting through the query params (limit, offset, sortBy, direction), it's default to sortBy and direction is marketCap desc
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/tradedAssets?limit=15&pageNum=1'
+    # /indices/{slug}:
+  #   get:
+  #     summary: Index data
+  #     description: Returns index data by slug
+  #     responses:
+  #       '200':    # status code
+  #         description: OK
+  #         content:
+  #           application/json:
+  #             #schema:
+  #             examples:
+  #               sampleFile:
+  #                 summary: actual response
+  #                 externalValue: 'https://fda-dev.forbes.com/indices/da-30'
+  # /indices-table:
+  #   get:
+  #     summary: Index table data
+  #     description: Returns index table data after re-balancing
+  #     responses:
+  #       '200':    # status code
+  #         description: OK
+  #         content:
+  #           application/json:
+  #             #schema:
+  #             examples:
+  #               sampleFile:
+  #                 summary: actual response
+  #                 externalValue: 'https://fda-dev.forbes.com/indices-table'
+  /price-explanation:
+    get:
+      summary: Price explanation
+      description: Returns the price explanation from g-sheet
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/price-explanation'
+  /events:
+    get:
+      summary: Events data
+      description: Gets events data from firestore after reading it from the g-sheet. Future events are the events that are coming in the future and it will be sorted by event date from soonest to the current time. The past events are the events that have been past and it will be sorted by event date.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/events'
+  /research:
+    get:
+      summary: Research Data
+      description: Gets and pulls research data from Bertie by Digital Assets Research badge, the analysts data and featured article from the sheet. the pagination is supported for dataFeed by sending the page number. it will keep return 3 articles while the dataFeedPaginated flag is true. the dataFeed data is sorted by publishDate.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/research?pageNum=1'
+  /editorsPick:
+    get:
+      summary: Editors Picks data
+      description: Gets Editors Picks data from firestore after reading it from the g-sheet sorted by publishDate.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/editorsPick'
+
+  /v1/nfts/chains:
+    get:
+      tags:
+      - v1
+      summary: NFTs Chains data
+      description: Gets NFTs Chains data from firestore.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/nfts/chains'
+  /v1/nfts/prices:
+    get:
+      tags:
+      - v1
+      summary: NFT Prices data
+      description: Returns the NFT Prices table data with pagination and sorting through the query params (limit, pageNum, sortBy, direction, query, category, chain_id), it's default to sortBy and direction is volume desc
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                nfts:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/nfts/prices?limit=100&sortBy=price&pageNum=1&direction=desc&query=W&category=nft'
+                nftsChains:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/nfts/prices?limit=100&sortBy=price&pageNum=1&direction=desc&chain_id=arbitrum-one&query=W&category=nftChains'
+  /v1/trending-topics:
+    get:
+      tags:
+      - v1
+      summary: Trending Topics Tags
+      description: Gets List of Trending Topics Tags.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/trending-topics'
+
+  /v1/news-topics/{slug}:
+    get:
+      tags:
+      - v1
+      summary: Get News Topic
+      description: Get news Topic Using Slug from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/news-topic/web3?limit=2'
+  /v1/topics-categories/:
+    get:
+      tags:
+      - v1
+      summary: Get Categories Topics
+      description: Get Categories Topics from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/topics-categories/'
+  /v1/news-topic-bubbles/:
+    get:
+      tags:
+      - v1
+      summary: Get News Topic Bubbles
+      description: Get News Topic Bubbles from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/news-topic-bubbles/'
+  /v1/community/announcements:
+    get:
+      tags:
+      - v1
+      summary: Get Community Page Announcements
+      description: Get Community Page Announcements from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/community/announcements'
+  /v1/community/premium-articles:
+    get:
+      tags:
+      - v1
+      summary: Get Community Page Premium Articles
+      description: Get Community Page Premium Articles from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/community/premium-articles'
+  /v1/community/faq:
+    get:
+      tags:
+      - v1
+      summary: Get Community Page Frequently Asked Questions
+      description: Get Community Page Frequently Asked Questions from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v1/community/faq'
+  /v2/community/announcements:
+    get:
+      tags:
+      - v2
+      summary: Get Community Page Announcements
+      description: Get Community Page Announcements from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/community/announcements'
+  /v2/community/premium-articles:
+    get:
+      tags:
+      - v2
+      summary: Get Community Page Premium Articles
+      description: Get Community Page Premium Articles from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/community/premium-articles'
+  /v2/community/faq:
+    get:
+      tags:
+      - v2
+      summary: Get Community Page Frequently Asked Questions
+      description: Get Community Page Frequently Asked Questions from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/community/faq'
+
+  /v1/rowy-trigger/update-content:
+    post:
+      tags:
+      - v1
+      summary: Updates content in rowy based on the provided article id
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                collection: "{collectionName}"
+                document: "{documentID}"
+                articleID: "{articleID}"
+
+      responses:
+        '200':
+          description: OK
+
+  /tweets:
+    get:
+      summary: Returns a list of Tweet URLs from firestore
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/tweets'
+
+  /v2/tradedAssets:
+    get:
+      tags:
+      - v2
+      summary: Traded assets data
+      description: Returns the traded assets table data with pagination and sorting through the query params (limit, offset, sortBy, direction, query, category, categoryId), its default to sortBy and direction is marketCap desc.
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              examples:
+                AllAssets:
+                  summary: actual response to get all Treaded assets
+                  externalValue: 'https://fda-dev.forbes.com/v2/tradedAssets?limit=100&pageNum=1&sortBy=market_cap&direction=desc'
+                SearchForSpecificAssets:
+                  summary: Actual response with query, we need to provide the category with value (Ft) because we need to search for asset in all assets.
+                  externalValue: 'https://fda-dev.forbes.com/v2/tradedAssets?limit=100&pageNum=1&sortBy=market_cap&direction=desc&query=bit&category=Ft'
+                SearchForCategory:
+                  summary: Actual response with query. We need to provide the category with value (Category) because we need to search for a category.
+                  externalValue: 'https://fda-dev.forbes.com/v2/tradedAssets?limit=100&pageNum=1&sortBy=market_cap&direction=desc&query=layer-1&category=Category'
+                SearchForAssetsInCategory:
+                  summary: Actual response with query. We need to provide the category with value (FTCategory), the query, and categoryId because we need to search for an asset inside a specific category.
+                  externalValue: 'https://fda-dev.forbes.com/v2/tradedAssets?limit=100&pageNum=1&sortBy=market_cap&direction=desc&query=bit&category=FTCategory&categoryId=layer-1'
+
+  /v2/education/:
+    get:
+      tags:
+      - v2
+      summary: Education Data
+      description: We have two valid responses. You can provide the categories you need the data for, or you can leave it empty and it will return all sections with the top 12 latest articles.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                Categories:
+                  summary: actual response with specific categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/education/?categories=Web3,Bitcoin,NFTs'
+                NoCategories:
+                  summary: actual response with all categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/education/'
+
+
+  /v2/chart/{period}/{symbol_pair}:
+    get:
+      tags:
+      - v2
+      summary: Time-series data for price charts
+      description: Valid periods are 24h, 7d, 30d, 90d, 1y, and max. The symbol pair should be a USD pair such as BTCUSD, ETHUSD. We add a new query parameter (assetType) and it takes two values (FT, NFT) so we can determine the type of chart data that we will receive.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                NFTChart:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/chart/24h/castaways-treasure-chests?assetsType=NFT'
+                FTChart:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/chart/24h/bitcoin?assetsType=FT'
+                CATEGORYChart:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/chart/24h/layer-1?assetsType=CATEGORY'
+
+  /v2/dynamic-description:
+    get:
+      tags:
+      - v2
+      summary: Get the Global Dynamic Description for NFTs Or Assets page
+      description: We have two valid responses. You can provide the type of data you need to display. It takes those values (FT) for Assets Page Dynamic description and (NFT) for NFTs for Assets Page Dynamic description.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                NFTChart:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/dynamic-description?type=FT'
+                FTChart:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/dynamic-description?type=NFT'
+
+  /extendedprofile:
+    post:
+      tags:
+      - v2
+      summary: Handles registering and verifying scopes a user has for web3 inititaves.
+      description: "* __SCOPES__: scopes represent the scope we are trying to verify a user has, or register them for\n  * 0 - FDAUser : The user is considered an fda user.\n  * 1 - FDA_BETA_User : The User is part of the Beta program and will recieve special perks.\n* __ACTION__: The action that will be take on the provided scope.\n  * 0 - Verify User Has ALL scopes within the list. If any return false the response will return false. \n  * 1 - Register the user for all scopes in list. If for any reason a scope could not be registered return false.\n                  #magic___^_^___line\n"
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                scopes: [0, 1]
+                action: 1
+                zephrSessionID: 96ad8de5-6cd9-4503-b439-eb1880be27a7
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Date:
+              schema:
+                type: string
+                example: Fri, 19 May 2023 21:50:00 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '23'
+            Content-Type:
+              schema:
+                type: string
+                example: text/plain; charset=utf-8
+          content:
+            text/plain:
+              schema:
+                type: string
+              example: '{"success":true, message: A message about the operation}'
+
+  /v2/watch:
+    post:
+      tags:
+      - v2
+      summary: Add Asset to watchlist
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                symbol: bitcoin
+                sessionID: 96ad8de5-6cd9-4503-b439-eb1880be27a7
+                watchTime: 'Mon, 23 Oct 2023 16:51:43 GM'
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Date:
+              schema:
+                type: string
+                example: Fri, 19 May 2023 21:50:00 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '23'
+            Content-Type:
+              schema:
+                type: string
+                example: text/plain; charset=utf-8
+  /v2/unwatch:
+    post:
+      tags:
+      - v2
+      summary: Add Asset to watchlist
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                symbol: bitcoin
+                sessionID: 96ad8de5-6cd9-4503-b439-eb1880be27a7
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Date:
+              schema:
+                type: string
+                example: Fri, 19 May 2023 21:50:00 GMT
+            Content-Length:
+              schema:
+                type: integer
+                example: '23'
+            Content-Type:
+              schema:
+                type: string
+                example: text/plain; charset=utf-8
+
+  /v2/watchlist:
+    get:
+      tags:
+      - v2
+      summary: Get user watchlist
+      description: Takes a zephr zession cookie. And returns a users watch lise
+      parameters:
+      - name: sessionId
+        in: query
+        schema:
+          type: string
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/content/crypto/bitcoin-btc'
+
+  /v2/portfolios:
+    get:
+      tags:
+      - v2
+      summary: Retrieves All Portfolios associated with a display page. Also limits visibility of data based on a Piano ID, and its permissions.
+      parameters:
+      - name: displaypage
+        in: query
+        schema:
+          type: string
+        example: CryptoAdvisor
+      - name: zephrSession
+        in: query
+        schema:
+          type: string
+        example: xxxxx-xxxxx-xxxxxx
+        description: zephr session
+      - name: clientTime
+        in: query
+        schema:
+          type: integer
+        example: 165409555482
+      - name: fbs_web3_jwt
+        in: query
+        schema:
+          type: string
+        example: eydfkjlhskjhfksjdhkljghklsdjhjglksdhglkhsdklghsdk.......
+        description: A web3 JWT Token
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=60, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Date:
+              schema:
+                type: string
+                example: Mon, 16 May 2022 16:49:20 GMT
+            Transfer-Encoding:
+              schema:
+                type: string
+                example: chunked
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                portfolios:
+                - author: ''
+                  authorImage: >-
+                    https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afd87c55591ea6bcebb1ca%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400
+                  authorNaturalID: blogAuthorId/blog/author/1311599
+                  bioLink: https://www.forbes.com/sites/stevenehrlich/
+                  description: >-
+                    This equity portfolio is geared toward having direct exposure to stocks and securities that are seen as crypto proxies. For the most part you will see that they have a heavy bitcoin focus, but my intention is to diversify this posturing as the market matures.
+                  displayPage:
+                  - page1
+                  followURL: https://www.forbes.com/sites/stevenehrlich/
+                  isPortfolioHidden: false
+                  lastUpdated: ''
+                  portfolioName: Crypto Asset Stock Portfolio
+                  order: '1'
+                  allocations: null
+                - author: ''
+                  authorImage: >-
+                    https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afd87c55591ea6bcebb1ca%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400
+                  authorNaturalID: blogAuthorId/blog/author/1311599
+                  bioLink: https://www.forbes.com/sites/stevenehrlich/
+                  description: >-
+                    This portfolio is intended to provide a guide for investors seeking to gain equity exposure to companies likely to benefit from blockchain technology. Investors should recognize that most equities in this portfolio will not have blockchain as their primary driver for revenues or price appreciation, for that matter. The benefits of integrating blockchain technology may not be realized for many years. Of course, it is important to consider these stocks in the context of your current asset allocations as well as personal goals and risk tolerance.
+                  displayPage:
+                  - page1
+                  followURL: https://www.forbes.com/sites/stevenehrlich/
+                  isPortfolioHidden: false
+                  lastUpdated: ''
+                  portfolioName: Blockchain Equity Portfolio
+                  order: '2'
+                  allocations: null
+                - author: Steven Ehrlich
+                  authorImage: >-
+                    https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afd87c55591ea6bcebb1ca%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400
+                  authorNaturalID: blogAuthorId/blog/author/1311599
+                  bioLink: https://www.forbes.com/sites/stevenehrlich/
+                  description: >-
+                    This portfolio will be used to gain early exposure to less mature tokens and projects that are seen as worthy challengers to tokens in the Crypto Asset Core Portfolio or emerging leaders in new use cases for crypto. You can expect a more evenly distributed portfolio here than the core portfolio, and it will likely be rebalanced and adjusted more frequently. It should be thought of as the higher risk/higher growth category. It will likely be more volatile and the assets less correlated to each other than the core portfolio.
+                  displayPage:
+                  - page1
+                  followURL: https://www.forbes.com/sites/stevenehrlich/
+                  isPortfolioHidden: false
+                  lastUpdated: '2022-04-26T20:27:59Z'
+                  portfolioName: Crypto Accelerator Portfolio
+                  order: '3'
+                  allocations:
+                  - allocation: '20.0'
+                    assetName: DeFi Pulse Index
+                    assetType: crypto
+                    currentPrice: $165.19
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: '2022-04-26T20:27:59Z'
+                    recommendedPrice: $385.76
+                    ticker: DPI
+                  - allocation: '15.0'
+                    assetName: Avalanche
+                    assetType: crypto
+                    currentPrice: $67.66
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $44.91
+                    ticker: AVAX
+                  - allocation: '12.5'
+                    assetName: Decentraland
+                    assetType: crypto
+                    currentPrice: $1.80
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $0.89
+                    ticker: MANA
+                  - allocation: '12.5'
+                    assetName: Zcash
+                    assetType: crypto
+                    currentPrice: $191.79
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $144.00
+                    ticker: ZEC
+                  - allocation: '10.0'
+                    assetName: Algorand
+                    assetType: crypto
+                    currentPrice: $0.67
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $0.56
+                    ticker: ALGO
+                  - allocation: '10.0'
+                    assetName: Filecoin
+                    assetType: crypto
+                    currentPrice: $17.77
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $72.98
+                    ticker: FIL
+                  - allocation: '10.0'
+                    assetName: Stacks
+                    assetType: crypto
+                    currentPrice: $1.04
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $1.38
+                    ticker: STX
+                  - allocation: '5.0'
+                    assetName: Enjin Coin
+                    assetType: crypto
+                    currentPrice: $1.28
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $3.95
+                    ticker: ENJ
+                  - allocation: '3.0'
+                    assetName: Near Protocol
+                    assetType: crypto
+                    currentPrice: $12.46
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $14.02
+                    ticker: NEAR
+                  - allocation: '2.0'
+                    assetName: Graph
+                    assetType: crypto
+                    currentPrice: $0.38
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $0.49
+                    ticker: GRT
+                  - allocation: '1.0'
+                    assetName: Luna
+                    assetType: crypto
+                    currentPrice: $87.94
+                    dateReccomended: ''
+                    portfolioName: Crypto Accelerator Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $107.75
+                    ticker: LUNA
+                - author: Steven Ehrlich
+                  authorImage: >-
+                    https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afd87c55591ea6bcebb1ca%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400
+                  authorNaturalID: blogAuthorId/blog/author/1311599
+                  bioLink: https://www.forbes.com/sites/stevenehrlich/
+                  description: >-
+                    This portfolio is intended to provide a guide for investors seeking to gain equity exposure to companies likely to benefit from blockchain technology. Investors should recognize that most equities in this portfolio will not have blockchain as their primary driver for revenues or price appreciation, for that matter. The benefits of integrating blockchain technology may not be realized for many years. Of course, it is important to consider these stocks in the context of your current asset allocations as well as personal goals and risk tolerance.
+                  displayPage:
+                  - page1
+                  followURL: https://www.forbes.com/sites/stevenehrlich/
+                  isPortfolioHidden: false
+                  lastUpdated: '2022-04-26T20:27:59Z'
+                  portfolioName: Crypto Asset Core Portfolio
+                  order: '4'
+                  allocations:
+                  - allocation: '42.5'
+                    assetName: Bitcoin
+                    assetType: crypto
+                    currentPrice: $47,194
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: '2022-04-26T20:27:59Z'
+                    recommendedPrice: $6,675
+                    ticker: BTC
+                  - allocation: '27.5'
+                    assetName: Ethereum
+                    assetType: crypto
+                    currentPrice: $3,392
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: '2022-04-26T20:27:59Z'
+                    recommendedPrice: $151.17
+                    ticker: ETH
+                  - allocation: '7.5'
+                    assetName: Uniswap
+                    assetType: crypto
+                    currentPrice: $8.10
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $31.50
+                    ticker: UNI
+                  - allocation: '5.0'
+                    assetName: Polygon
+                    assetType: crypto
+                    currentPrice: $1.24
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $1.43
+                    ticker: MATIC
+                  - allocation: '5.0'
+                    assetName: Polkadot
+                    assetType: crypto
+                    currentPrice: $16.87
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $21.18
+                    ticker: DOT
+                  - allocation: '5.0'
+                    assetName: Chainlink
+                    assetType: crypto
+                    currentPrice: $12.52
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $26.27
+                    ticker: LINK
+                  - allocation: '5.0'
+                    assetName: Solana
+                    assetType: crypto
+                    currentPrice: $98.09
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $82.40
+                    ticker: SOL
+                  - allocation: '2.5'
+                    assetName: Cardano
+                    assetType: crypto
+                    currentPrice: $0.83
+                    dateReccomended: ''
+                    portfolioName: Crypto Asset Core Portfolio
+                    priceLastUpdated: ''
+                    recommendedPrice: $1.15
+                    ticker: ADA
+
+  /v2/landing-page/featured-categories-content/:
+    get:
+      tags:
+      - v2
+      summary: Get Landing Page Featured Categories Articles
+      description: Get Landing Page Featured Categories Articles from FS.
+      parameters:
+      - name: categories
+        in: query
+        schema:
+          type: string
+        example: coinbase-coin7,a16z
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/featured-categories-content/'
+                withQueryFilter:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/featured-categories-content/?categories=bitcoin-btc,coinbase-coin7,dogecoin-doge,shiba-inu-shib,xrp-xrp,artificial-intelligence'
+
+
+  /v2/landing-page/articles-content/:
+    get:
+      tags:
+      - v2
+      summary: Get Landing Page Featured Categories Articles
+      description: Get Landing Page Featured Categories Articles from FS.
+      parameters:
+      - name: categories
+        in: query
+        schema:
+          type: string
+        example: coinbase-coin7,a16z,editorsPick,bitcoin-btc,dogecoin-doge,shiba-inu-shib,xrp-xrp,artificial-intelligence,newsfeed
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: default response
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/articles-content/'
+                withOneQueryFilter:
+                  summary: response with one Query Filter
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/articles-content/?categories=newsfeed'
+                withEditorPickQueryFilter:
+                  summary: response with EditorPick Query Filter
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/articles-content/?categories=editorsPick,bitcoin-btc,coinbase-coin7,dogecoin-doge,shiba-inu-shib,xrp-xrp,artificial-intelligence'
+                withNewsFeedQueryFilter:
+                  summary: response with Newsfeed Query Filter
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/articles-content/?categories=newsfeed,bitcoin-btc,coinbase-coin7,dogecoin-doge,shiba-inu-shib,xrp-xrp,artificial-intelligence'
+
+  /v2/landing-page/featured-categories/:
+    get:
+      tags:
+      - v2
+      summary: Get Landing Page Featured Categories
+      description: Get Landing Page Featured Categories from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/landing-page/featured-categories/'
+
+  /v2/crypto/categories:
+    get:
+      tags:
+      - v2
+      summary: Get Crypto Price Categories
+      description: Get Crypto Price Categories from PG.
+      responses:
+        200:
+          description: "A list of cryptocurrency assets"
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2//crypto/categories'
+              schema:
+                type: "array"
+                items:
+                  type: "object"
+                  properties:
+                    symbol:
+                      type: "string"
+                      example: "fishkoin"
+                    displaySymbol:
+                      type: "string"
+                      example: "koin"
+                    name:
+                      type: "string"
+                      example: "Fishkoin"
+                    slug:
+                      type: "string"
+                      example: "fishkoin-koin"
+                    logo:
+                      type: "string"
+                      example: ""
+                    temporaryDataDelay:
+                      type: "boolean"
+                      example: false
+                    price:
+                      type: "number"
+                      format: "float"
+                      example: 1.07374e-7
+                    percentage:
+                      type: "number"
+                      format: "float"
+                      example: 0
+                    percentage_1h:
+                      type: "number"
+                      format: "float"
+                      example: null
+                    percentage_7d:
+                      type: "number"
+                      format: "float"
+                      example: 0
+                    changeValue:
+                      type: "number"
+                      format: "float"
+                      example: 0
+                    marketCap:
+                      type: "number"
+                      format: "float"
+                      example: 2163862
+                    volume:
+                      type: "number"
+                      format: "float"
+                      example: 190355
+                    FullCount:
+                      type: "number"
+                      format: "float"
+                      example: null
+                    rank:
+                      type: "integer"
+                      example: 1932
+                    Status:
+                      type: "string"
+                      example: "active"
+                    market_cap_percent_change_1d:
+                      type: "number"
+                      format: "float"
+                      example: null
+                    date_added:
+                      type: "string"
+                      format: "date-time"
+                      example: "2024-04-01T16:15:18.284Z"
+                    platform_currency_id:
+                      type: "string"
+                      example: ""
+  /v2/content/allExchangeSlugs:
+    get:
+      tags:
+      - v2
+      summary: Get All exchange slugs
+      description: Get list of all exchange slugs from PG.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/allExchangeSlugs'
+  /v2/topics/slugs:
+    get:
+      tags:
+      - v2
+      summary: Get All topic ids & slugs
+      description: Get list of all topic ids & slugs from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/topics/slugs'
+
+  /v2/crypto/featured-categories:
+    get:
+      tags:
+      - v2
+      summary: Get Crypto Featured Categories
+      description: Get Crypto Featured Categories from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/crypto/featured-categories'
+
+  /v2/education/learn/:
+    get:
+      tags:
+      - v2
+      summary: Education Data
+      description: We have two valid responses. You can provide the categories you need the data for, or you can leave it empty and it will return all sections with the top 12 latest articles.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                Categories:
+                  summary: actual response with specific categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/education/learn/?categories=Web3,Bitcoin,NFTs'
+                NoCategories:
+                  summary: actual response with all categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/education/learn/'
+
+  /v2/search/{dataset}:
+    get:
+      tags:
+      - v2
+      summary: >-
+        /v2/search/categories returns data associated with asset categories
+      parameters:
+      - name: dataset
+        in: path
+        required: true
+        schema:
+          type: string
+        example: 'categories'
+      - name: limit
+        in: query
+        schema:
+          type: integer
+        example: '100'
+      - name: direction
+        in: query
+        schema:
+          type: string
+        example: desc
+      - name: query
+        in: query
+        schema:
+          type: string
+        example: layer
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      - name: sortBy
+        in: query
+        schema:
+          type: string
+        example: marketCap
+      - name: is_highlighted
+        in: query
+        schema:
+          type: boolean
+        example: true
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=150, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Date:
+              schema:
+                type: string
+                example: Wed, 24 Jan 2024 13:40:02 GMT
+            Transfer-Encoding:
+              schema:
+                type: string
+                example: chunked
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                categories:
+                - id: layer-1
+                  forbesName: "Layer 1 Crypto"
+                  slug: "/layer-1-crypto"
+                  name: Layer 1 (L1)
+                  total_tokens: 88
+                  percentage_24h: 0.04017586658497978
+                  volume_24h: 48200166091.649994
+                  average_price: 493.0841237381864
+                  market_cap: 1228081665869
+                  is_highlighted: true
+                  top_gainers:
+                  - slug: bitcoin-btc
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400
+                    symbol: bitcoin
+                    market_cap: 785878910595
+                  - slug: ethereum-eth
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/279/large/ethereum.png?1696501628
+                    symbol: ethereum
+                    market_cap: 268780026077
+                  - slug: bnb-bnb
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970
+                    symbol: binancecoin
+                    market_cap: 45371071074
+                  last_updated: '2024-01-24T13:35:25.064713Z'
+                - id: layer-2
+                  name: Layer 2 (L2)
+                  total_tokens: 21
+                  percentage_24h: 0.025228493739006735
+                  volume_24h: 1512619203.28
+                  average_price: 110.87993244904763
+                  market_cap: 15776857490
+                  top_gainers:
+                  - slug: polygon-matic
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745
+                    symbol: matic-network
+                    market_cap: 6781115731
+                  - slug: optimism-op
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1696524385
+                    symbol: optimism
+                    market_cap: 2700075790
+                  - slug: immutable-imx
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787
+                    symbol: immutable-x
+                    market_cap: 2462715765
+                  last_updated: '2024-01-24T13:35:25.167009Z'
+                - id: play-to-earn
+                  name: Play To Earn
+                  total_tokens: 182
+                  percentage_24h: 0.008146948821393834
+                  volume_24h: 590193639.76
+                  average_price: 0.9976247802046747
+                  market_cap: 10730809206.75
+                  top_gainers:
+                  - slug: immutable-imx
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787
+                    symbol: immutable-x
+                    market_cap: 2462715765
+                  - slug: the-sandbox-sand
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971
+                    symbol: the-sandbox
+                    market_cap: 987393757
+                  - slug: axie-infinity-axs
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817
+                    symbol: axie-infinity
+                    market_cap: 980374002
+                  last_updated: '2024-01-24T13:35:24.575906Z'
+                - id: layer-3-l3
+                  name: Layer 3 (L3)
+                  total_tokens: 2
+                  percentage_24h: 0.03584683302720376
+                  volume_24h: 5823843
+                  average_price: 5.766882535
+                  market_cap: 149240145
+                  top_gainers:
+                  - slug: orbs-orbs
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200
+                    symbol: orbs
+                    market_cap: 142331002
+                  - slug: dream-machine-token-dmt
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/30505/large/dmt.png?1696529391
+                    symbol: dream-machine-token
+                    market_cap: 6909143
+                  last_updated: '2024-01-24T13:35:24.864736Z'
+                total: 4
+                hasTemporaryDataDelay: false
+                source: calculated
+
+  /v2/nft/collection/{nftSlug}:
+    get:
+      tags:
+      - v2
+      summary: 'v2/nft/collection/{nftSlug} provides all data related to the NFT collection by its slug'
+      parameters:
+      - name: nftSlug
+        in: path
+        required: true
+        schema:
+          type: string
+        example: 'bored-ape-yacht-club-bayc'
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=60, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Date:
+              schema:
+                type: string
+                example: Tue, 20 Feb 2024 16:34:52 GMT
+            Transfer-Encoding:
+              schema:
+                type: string
+                example: chunked
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                id: bored-ape-yacht-club
+                contract_address: '0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d'
+                asset_platform_id: ethereum
+                name: Bored Ape Yacht Club
+                symbol: BAYC
+                displaySymbol: BAYC
+                image:
+                  small: "https://coin-images.coingecko.com/nft_contracts/images/20/small/bored-ape-yacht-club.png?1707287177"
+                  large: "https://coin-images.coingecko.com/nft_contracts/images/20/large/bored-ape-yacht-club.png?1707287177"
+                description: "<h3>What Is the Bored Ape Yacht Club NFT Collection?</h3>\r\n\r\n<p>The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs, which showcase a series of apes with different characteristics and expressions.</p>\r\n\r\n<p>Often the face of NFTs, the BAYC collection is one of the most well-known NFT collections, with many celebrities holding the collection. Some of these celebrities include Justin Bieber, Eminem, Serena Williams, Stephen Curry, Shaquille O&rsquo;Neal, and Jimmy Fallon. Celebrities and investors were not the only ones interested in the collection, even big corporate companies like Adidas purchased their own Ape.</p>\r\n\r\n<p>Launched in April 2021, the project was available for mint at 0.08 ETH and was sold out within 12 hours. Less than 2 years later, the <a href=\"https://www.coingecko.com/research/publications/10-most-expensive-nfts-ever-sold\" target=\"_blank\">most expensive ape</a> was sold at an astounding 3.4 Million USD.</p>\r\n\r\n<h3>Who Is the Team Behind BAYC?</h3>\r\n\r\n<p>The NFT project was created by Yuga Labs, a team of four individuals who preferred to use their online pseudonyms and only later revealed their identities to the public. The team consists of Greg Solana (<a href=\"https://twitter.com/CryptoGarga\" rel=\"nofollow noopener\" target=\"_blank\">Gargamel</a>), Wyle Aronow (<a href=\"https://twitter.com/GordonGoner\" rel=\"nofollow noopener\" target=\"_blank\">Gordon Goner</a>), Kerem (<a href=\"https://twitter.com/TomatoBAYC\" rel=\"nofollow noopener\" target=\"_blank\">Emperor Tomato Ketchup</a>), and Zesham (<a href=\"https://twitter.com/SassBAYC?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1491151597682180096%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.cnet.com%2Fhow-to%2Fbored-ape-yacht-club-nfts-everything-you-need-to-know%2F\" rel=\"nofollow noopener\" target=\"_blank\">No Sass</a>).</p>\r\n\r\n<p>The artists that designed the BAYC collection are <a href=\"https://www.allseeingseneca.com/\" rel=\"nofollow noopener\" target=\"_blank\">Seneca</a>, Thomas Dagley, Migwashere, and other artists who, to this day, choose to remain anonymous.</p>\r\n\r\n<p>In 2022, the team behind BAYC, Yuga Labs, also acquired 2 popular NFT collections &ndash; <a href=\"https://www.coingecko.com/en/nft/cryptopunks\" target=\"_blank\">CryptoPunks</a> and <a href=\"https://www.coingecko.com/en/nft/meebits\" target=\"_blank\">Meebits</a>, establishing themselves as big players in the NFT space.</p>\r\n\r\n<h3>What Is the Utility of the BAYC Collection?</h3>\r\n\r\n<p>Being a holder of the BAYC collection doubles as a membership card and grants exclusive access to holders. Holding an Ape also allows the owners commercial and branding rights to their NFTs.</p>\r\n\r\n<p>BAYC holders are granted exclusive access to &lsquo;THE BATHROOM&rsquo; and a private Discord server. &lsquo;THE BATHROOM&rsquo; is a collaborative community board where holders are able to draw pixels at intervals of 15 minutes. The Discord server allows BAYC holders to interact with other holders and get access to new features.</p>\r\n\r\n<p>BAYC holders are also granted access to the Yuga Lab&rsquo;s projects. This will include other NFT collections and the BAYC metaverse (Otherside).</p>\r\n\r\n<h3>The Bored Ape Yacht Club Ecosystem</h3>\r\n\r\n<p>As part of the <a href=\"https://www.coingecko.com/learn/what-is-apecoin-ape-ecosystem\" target=\"_blank\">BAYC ecosystem</a>, the team also launched its own native token, <a href=\"https://www.coingecko.com/en/coins/apecoin\" target=\"_blank\">Apecoin</a>, several spin-off NFT collections, and its own <a href=\"https://www.coingecko.com/learn/what-is-metaverse-crypto-blockchain-nft-game\" target=\"_blank\">metaverse</a>.</p>\r\n\r\n<p>Launched in March 2022, Yuga Labs released their native token APE, which functions as a governance token. This ERC-20 token APE allows holders to execute transactions, make governing decisions, and participate in the ecosystem. During the launch, a portion of the token supply was airdropped to BAYC and MAYC owners.</p>\r\n\r\n<p>Yuga Labs also launched spin-off collections such as the <a href=\"https://www.coingecko.com/en/nft/mutant-ape-yacht-club\" target=\"_blank\">Mutant Ape Yacht Club</a> (MAYC) and the <a href=\"https://www.coingecko.com/en/nft/bored-ape-kennel-club\" target=\"_blank\">Bored Ape Kennel Club</a> (BAKC). In August 2021, Yuga Labs airdropped BAYC holders a &ldquo;mutant serum&rdquo;. With the serum, BAYC holders were able to mutate or mint their own Bored Ape into a Mutant Ape.</p>\r\n\r\n<p>In July 2021, BAYC holders were airdropped the BAKC collection. The BAKC collection functions as a companion collection in a bid to reward BAYC holders.</p>\r\n\r\n<p>The BAYC ecosystem also consists of the <a href=\"https://www.coingecko.com/en/nft/otherdeed-for-otherside\" target=\"_blank\">Otherside Metaverse</a>. While the metaverse is still currently under development, when completed, the metaverse will be a virtual world where their NFTs can be used as playable characters.</p>\r\n\r\n<p>In September 2023, Yuga Labs announced the launch of a new game, Legend of the Mara (LotM), a collection-based 2D strategy game. The game is a sub-universe within the broader Otherside metaverse game.</p>\r\n"
+                native_currency: ethereum
+                floor_price_usd: 63842
+                rank: 34
+                prev_ranked_slug: 'prev-collection-slug'
+                next_ranked_slug: 'next-collection-slug'
+                market_cap_usd: 638294322
+                volume_24h_usd: 3857197
+                floor_price_native: 21.82
+                market_cap_native: 218196
+                volume_24h_native: 1318.55
+                floor_price_in_usd_24h_percentage_change: 0.0242068
+                volume_24h_percentage_change_usd: -0.40985466545073634
+                number_of_unique_addresses: 5498
+                number_of_unique_addresses_24h_percentage_change: 0.0003639
+                slug: bored-ape-yacht-club-bayc
+                total_supply: 9998
+                website_url: "http://www.boredapeyachtclub.com/"
+                twitter_url: "https://twitter.com/BoredApeYC"
+                discord_url: "https://discord.gg/3P5K3dzgdB"
+                explorers: [{name: "Etherscan", link: "https://etherscan.io/token/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"}, {name: "Ethplorer", link: "https://ethplorer.io/address/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"}]
+                last_updated: '2024-02-20T16:00:08.880814Z'
+                avg_sale_price:
+                  1d: 21.615609639016395
+                  7d: 22.949114271896928
+                  30d: 27.975083961646728
+                  90d: 27.975083961646728
+                  ytd: 14.255532472555746
+                avg_total_sales_pct_change:
+                  1d: -4.84683242522925
+                  7d: -1.0927857958240792
+                  30d: 10.882607491523522
+                  90d: 10.882607491523522
+                  ytd: 0.7396721062311611
+                total_sales:
+                  1d: 61
+                  7d: 509
+                  30d: 613
+                  90d: 613
+                  ytd: 8122
+                avg_sales_price_change:
+                  1d: -38.3838383838384
+                  7d: 32.25769579314252
+                  30d: 39.13643222811606
+                  90d: 39.13643222811606
+                  ytd: 24.298769578001767
+                volume_usd:
+                  1d: 275781
+                  7d: 5876852
+                  30d: 14807126
+                  90d: 98656284
+                  ytd: 481851755
+                volume_native:
+                  1d: 96.49
+                  7d: 1841.42
+                  30d: 4595.52
+                  90d: 29202.58
+                  ytd: 155460.71000000002
+                volume_percent_change_usd:
+                  1d: -19.588229581431488
+                  7d: -56.780457250234896
+                  30d: -80.94273614435647
+                  90d: -95.51656920077973
+                  ytd: -91.73174092788241
+                volume_percent_change_native:
+                  1d: -23.359712503026362
+                  7d: -60.0238269487964
+                  30d: -82.26841513149591
+                  90d: -95.45059441706125
+                  ytd: -88.85622550599732
+                lowest_floor_price_usd:
+                  1d: 29977
+                  7d: 31080
+                  30d: 34996
+                  90d: 44203
+                  ytd: 60463
+                highest_floor_price_usd:
+                  1d: 32976
+                  7d: 32976
+                  30d: 32976
+                  90d: 32976
+                  ytd: 32976
+                lowest_floor_price_native:
+                  1d: 9.16
+                  7d: 10.1
+                  30d: 10.1
+                  90d: 14.75
+                  ytd: 26.52
+                highest_floor_price_native:
+                  1d: 9.95
+                  7d: 9.95
+                  30d: 9.95
+                  90d: 9.95
+                  ytd: 9.95
+                floor_price_percent_change_usd:
+                  1d: 0.10004336658104547
+                  7d: 0.061003861003861
+                  30d: -0.05772088238655847
+                  90d: -0.25398728593081915
+                  ytd: -0.4546086036088186
+                floor_price_percent_change_native:
+                  1d: 0.08624454148471607
+                  7d: 0.07683982683982674
+                  30d: -0.014851485148514887
+                  90d: -0.32542372881355935
+                  ytd: -0.6248114630467572
+                lowest_floor_price_percentage_change_usd:
+                  1d: -0.008236192753478795
+                  7d: -0.037945049585433266
+                  30d: -0.06317671265220764
+                  90d: -0.06807957612716185
+                  ytd: -0.06807957612716185
+                highest_floor_price_percentage_change_usd:
+                  1d: 0.07072723702297572
+                  7d: 0.07072723702297572
+                  30d: 0.07072723702297572
+                  90d: 0.09326594599653704
+                  ytd: 0.09326594599653704
+                lowest_floor_price_percentage_change_native:
+                  1d: -0.00300601202404821
+                  7d: -0.012765957446808616
+                  30d: -0.052132701421801014
+                  90d: -0.06691729323308275
+                  ytd: -0.06691729323308275
+                highest_floor_price_percentage_change_native:
+                  1d: 0.07692307692307682
+                  7d: 0.07692307692307682
+                  30d: 0.07692307692307682
+                  90d: 0.09768378650553884
+                  ytd: 0.09768378650553884
+                native_currency_symbol: "ETH"
+                market_cap_24h_percentage_change_usd: -0.01376528791008997
+                market_cap_24h_percentage_change_native: -0.0346585117227523
+                volume_24h_percentage_change_native: 3.747494625457785
+                floor_price_24h_percentage_change_native: -0.0731895223420648
+                questions: [{question: "What Is the Bored Ape Yacht Club NFT Collection?", answer: "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs, which showcase a series of apes with different characteristics and expressions.Often the face of NFTs, the BAYC collection is one of the most well-known NFT collections, with many celebrities holding the collection. Some of these celebrities include Justin Bieber, Eminem, Serena Williams, Stephen Curry, Shaquille O&rsquo;Neal, and Jimmy Fallon. Celebrities and investors were not the only ones interested in the collection, even big corporate companies like Adidas purchased their own Ape.Launched in April 2021, the project was available for mint at 0.08 ETH and was sold out within 12 hours. Less than 2 years later, the <a href=\"\" target=\"_blank\">most expensive ape</a> was sold at an astounding 3.4 Million USD."}, {question: "Who Is the Team Behind BAYC?", answer: "The NFT project was created by Yuga Labs, a team of four individuals who preferred to use their online pseudonyms and only later revealed their identities to the public. The team consists of Greg Solana (<a href=\"https://twitter.com/CryptoGarga\" rel=\"nofollow noopener\" target=\"_blank\">Gargamel</a>), Wyle Aronow (<a href=\"https://twitter.com/GordonGoner\" rel=\"nofollow noopener\" target=\"_blank\">Gordon Goner</a>), Kerem (<a href=\"https://twitter.com/TomatoBAYC\" rel=\"nofollow noopener\" target=\"_blank\">Emperor Tomato Ketchup</a>), and Zesham (<a href=\"https://twitter.com/SassBAYC?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1491151597682180096%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.cnet.com%2Fhow-to%2Fbored-ape-yacht-club-nfts-everything-you-need-to-know%2F\" rel=\"nofollow noopener\" target=\"_blank\">No Sass</a>).The artists that designed the BAYC collection are <a href=\"https://www.allseeingseneca.com/\" rel=\"nofollow noopener\" target=\"_blank\">Seneca</a>, Thomas Dagley, Migwashere, and other artists who, to this day, choose to remain anonymous.In 2022, the team behind BAYC, Yuga Labs, also acquired 2 popular NFT collections &ndash; <a href=\"https://wwww.forbes.com/digital-assets/nfts/cryptopunks-punk\" target=\"_blank\">CryptoPunks</a> and <a href=\"https://wwww.forbes.com/digital-assets/nfts/meebits\" target=\"_blank\">Meebits</a>, establishing themselves as big players in the NFT space."}, {question: "What Is the Utility of the BAYC Collection?", answer: "Being a holder of the BAYC collection doubles as a membership card and grants exclusive access to holders. Holding an Ape also allows the owners commercial and branding rights to their NFTs.BAYC holders are granted exclusive access to &lsquo;THE BATHROOM&rsquo; and a private Discord server. &lsquo;THE BATHROOM&rsquo; is a collaborative community board where holders are able to draw pixels at intervals of 15 minutes. The Discord server allows BAYC holders to interact with other holders and get access to new features.BAYC holders are also granted access to the Yuga Lab&rsquo;s projects. This will include other NFT collections and the BAYC metaverse (Otherside)."}, {question: "The Bored Ape Yacht Club Ecosystem", answer: "As part of the <a href=\"\" target=\"_blank\">BAYC ecosystem</a>, the team also launched its own native token, <a href=\"https://www.forbes.com/digital-assets/assets/apecoin-ape\" target=\"_blank\">Apecoin</a>, several spin-off NFT collections, and its own <a href=\"\" target=\"_blank\">metaverse</a>.Launched in March 2022, Yuga Labs released their native token APE, which functions as a governance token. This ERC-20 token APE allows holders to execute transactions, make governing decisions, and participate in the ecosystem. During the launch, a portion of the token supply was airdropped to BAYC and MAYC owners.Yuga Labs also launched spin-off collections such as the <a href=\"https://wwww.forbes.com/digital-assets/nfts/mutant-ape-yacht-club-mayc\" target=\"_blank\">Mutant Ape Yacht Club</a> (MAYC) and the <a href=\"https://wwww.forbes.com/digital-assets/nfts/bored-ape-kennel-club-bakc\" target=\"_blank\">Bored Ape Kennel Club</a> (BAKC). In August 2021, Yuga Labs airdropped BAYC holders a &ldquo;mutant serum&rdquo;. With the serum, BAYC holders were able to mutate or mint their own Bored Ape into a Mutant Ape.In July 2021, BAYC holders were airdropped the BAKC collection. The BAKC collection functions as a companion collection in a bid to reward BAYC holders.The BAYC ecosystem also consists of the <a href=\"https://wwww.forbes.com/digital-assets/nfts/otherdeed-for-otherside-othr\" target=\"_blank\">Otherside Metaverse</a>. While the metaverse is still currently under development, when completed, the metaverse will be a virtual world where their NFTs can be used as playable characters.In September 2023, Yuga Labs announced the launch of a new game, Legend of the Mara (LotM), a collection-based 2D strategy game. The game is a sub-universe within the broader Otherside metaverse game."}]
+                next_up: [{slug: "pudgy-penguins-ppg", rank: 2, name: "Pudgy Penguins", image: {small: "https://coin-images.coingecko.com/nft_contracts/images/38/small/da64989d9762c8a61b3c65917edfdf97.png?1707287183", large: "https://coin-images.coingecko.com/nft_contracts/images/38/large/da64989d9762c8a61b3c65917edfdf97.png?1707287183"}}, {slug: "degods-solana-dgod", rank: 3, name: "DeGods (Solana)", image: {small: "https://coin-images.coingecko.com/nft_contracts/images/2430/small/degods.png?1707288353", large: "https://coin-images.coingecko.com/nft_contracts/images/2430/large/degods.png?1707288353"}}]
+
+
+  /v2/content/newsfeed:
+    get:
+      tags:
+      - v2
+      summary: News and articles
+      description: Returns the latest news and articles about cryptos
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/newsfeed'
+
+  /v2/content/editorsPick:
+    get:
+      tags:
+      - v2
+      summary: News and articles
+      description: Returns the latest news and articles about cryptos
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/editorsPick'
+
+  /v2/topics/trending/:
+    get:
+      tags:
+      - v2
+      summary: Trending Topics Tags
+      description: Gets List of Trending Topics Tags.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/topics/trending/'
+
+  /v2/topics/news/{slug}/:
+    get:
+      tags:
+      - v2
+      summary: Get News Topic
+      description: Get news Topic Using Slug from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/topics/news/web3/?limit=2'
+  /v2/topics/categories/:
+    get:
+      tags:
+      - v2
+      summary: Get Categories Topics
+      description: Get Categories Topics from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/topics/categories/'
+  /v2/topics/bubbles/:
+    get:
+      tags:
+      - v2
+      summary: Get News Topic Bubbles
+      description: Get News Topic Bubbles from FS.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/topics/bubbles/'
+
+  /v2/crypto/carousel:
+    get:
+      tags:
+      - v2
+      summary: Carousel data
+      description: Returns the FDA-30 index and the top 10 assets by marketCap
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/carousel'
+
+
+  /v2/nft/search/{dataset}:
+    get:
+      tags:
+      - v2
+      summary: >-
+        /v2/nft/search/nft returns data associated with asset nft
+      parameters:
+      - name: dataset
+        in: path
+        required: true
+        schema:
+          type: string
+          enum: [nft, nftChains]
+        example: 'nft'
+      - name: limit
+        in: query
+        schema:
+          type: integer
+        example: '100'
+      - name: direction
+        in: query
+        schema:
+          type: string
+        example: desc
+      - name: query
+        in: query
+        schema:
+          type: string
+        example: D
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      - name: sortBy
+        in: query
+        schema:
+          type: string
+        example: marketCap
+      - name: chain_id
+        in: query
+        schema:
+          type: string
+        example: ethereum
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=150, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Date:
+              schema:
+                type: string
+                example: Wed, 24 Jan 2024 13:40:02 GMT
+            Transfer-Encoding:
+              schema:
+                type: string
+                example: chunked
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                nft:
+                - id: adidas-originals-into-the-metaverse
+                  contract_address: 0x28472a58A490c5e09A238847F66A68a47cC76f0f
+                  asset_platform_id: ethereum
+                  name: adidas Originals Into the Metaverse
+                  symbol: ADI
+                  displaySymbol: ADI
+                  logo: https://assets.coingecko.com/nft_contracts/images/1320/small/adidas-originals-into-the-metaverse.jpg?1707287778
+                  description: Bored Ape Yacht Club, PUNKS Comic, and gmoney welcome adidas Originals into the Metaverse. Phase 1 NFT physical product claims have now closed.
+                  native_currency: ethereum
+                  floor_price_usd: 154.93
+                  market_cap_usd: 309.85
+                  volume_24h_usd: 0
+                  floor_price_native: 0.044999
+                  market_cap_native: 0.089998
+                  volume_24h_native: 0
+                  floor_price_in_usd_24h_percentage_change: -0.075145
+                  volume_24h_percentage_change_usd: 0
+                  number_of_unique_addresses: 7724
+                  number_of_unique_addresses_24h_percentage_change: 0
+                  slug: adidas-originals-into-the-metaverse-adi
+                  total_supply: 2
+                  last_updated: 2024-02-29T18:00:09.808437Z
+                  FullCount: 3864
+                  uuid:
+                - id: afrodroids-by-owo
+                  contract_address: 0x77aa555c8a518b56a1ed57b7b4b85ee2ad479d06
+                  asset_platform_id: ethereum
+                  name: AfroDroids By Owo
+                  symbol: AD
+                  displaySymbol: AD
+                  logo: https://assets.coingecko.com/nft_contracts/images/826/small/afrodroids-by-owo.jpg?1707287519
+                  description: It's 3045…The year everything changed.\r\nHumanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. AfroDroids is a collection of 12,117 unique NFTs—unique digital collectibles living on the Ethereum blockchain. These designs have a narrative impact in our storyline. Visit <a rel=\"nofollow\" target=\"_blank\" href=\"https://afrodroids.io\">AfroDroids</a> for more details.
+                  native_currency: ethereum
+                  floor_price_usd: 16.91
+                  market_cap_usd: 204562
+                  volume_24h_usd: 0
+                  floor_price_native: 0.0049
+                  market_cap_native: 59.28
+                  volume_24h_native: 0
+                  floor_price_in_usd_24h_percentage_change: 0.0053948
+                  volume_24h_percentage_change_usd: 0
+                  number_of_unique_addresses: 3697
+                  number_of_unique_addresses_24h_percentage_change: 0
+                  slug: afrodroids-by-owo-ad
+                  total_supply: 12098
+                  last_updated: 2024-02-29T18:00:09.560867Z
+                  FullCount: 3864
+                  uuid:
+                - id: nyandogs
+                  contract_address: 0x50763f62Ecbc202f4D41B4C93E28F76b81d05D04
+                  asset_platform_id: arbitrum-one
+                  name: Arbitrum Odyssey Nyans
+                  symbol: NDG
+                  displaySymbol: NDG
+                  logo: https://assets.coingecko.com/nft_contracts/images/1849/small/https-fanbase-1-s3-amazonaws-com-quixotic-collection-profile-q2njikes_400x400-jpg.jpg?1707288075
+                  description: The Nyan Dogs Collection has been revealed in Arbitrum, the Etherum Layer 2 network. It is a meme concept project consisting of completely unique Nyans. It is aimed to increase the market value by animating Meme Nyans.
+                  native_currency: ethereum
+                  floor_price_usd: 17.17
+                  market_cap_usd: 4206.72
+                  volume_24h_usd: 0
+                  floor_price_native: 0.004995
+                  market_cap_native: 1.22
+                  volume_24h_native: 0
+                  floor_price_in_usd_24h_percentage_change: -0.0118825
+                  volume_24h_percentage_change_usd: 0
+                  number_of_unique_addresses: 87
+                  number_of_unique_addresses_24h_percentage_change: 0
+                  slug: arbitrum-odyssey-nyans-ndg
+                  total_supply: 245
+                  last_updated: 2024-02-29T18:00:09.804894Z
+                  FullCount: 3864
+                  uuid:
+                total: 3
+                hasTemporaryDataDelay: false
+                source: calculated
+
+
+  /v2/content/dynamic-description:
+    get:
+      tags:
+      - v2
+      summary: Get the Global Dynamic Description for NFTs Or Assets page
+      description: We have two valid responses. You can provide the type of data you need to display. It takes those values (FT) for Assets Page Dynamic description and (NFT) for NFTs for Assets Page Dynamic description.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              examples:
+                NFTDynamicDescription:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/dynamic-description?type=FT'
+                FTDynamicDescription:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/dynamic-description?type=NFT'
+  /v2/content/events:
+    get:
+      tags:
+      - v2
+      summary: News and articles
+      description: Returns the latest news and articles about cryptos
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              #schema:
+              examples:
+                sampleFile:
+                  summary: actual response
+                  externalValue: 'https://fda-dev.forbes.com/v2/content/events'
+
+  /v2/build/videos:
+    get:
+      tags:
+      - v2
+      summary: Pulls video data from forbes api and stores it to firestore
+      responses:
+        '200':
+          description: OK
+
+  /v2/content/allProfiles:
+    get:
+      tags:
+      - v2
+      summary: >-
+        /v2/content/allProfiles returns all profiles data
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          type: integer
+        example: '10'
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      description: Returns the Profiles data
+      responses:
+        '200': # status code
+          description: OK
+          example:
+            default:
+              summary: actual response
+              externalValue: 'https://fda-dev.forbes.com/v2/content/allProfiles'
+            withQueryParams:
+              summary: actual response with params
+              externalValue: 'https://fda-dev.forbes.com/v2/content/allProfiles?limit=10&pageNum=1'
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                name: Bitcoin
+                symbol: BTC
+                slug: bitcoin-btc
+                logo: https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400
+                profileLink: https://www.forbes.com/digital-assets/assets/bitcoin-btc/
+  /v2/content/research:
+    get:
+      tags:
+      - v2
+      summary: >-
+        /v2/content/research returns research data
+      parameters:
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      description: Returns the research data
+      responses:
+        '200': # status code
+          description: OK
+          example:
+            default:
+              summary: actual response
+              externalValue: 'https://fda-dev.forbes.com/v2/content/research?pageNum=1'
+
+  /v2/crypto/category/{slug}:
+    get:
+      tags:
+      - v2
+      summary: >-
+        /v2/search/categories returns data associated with asset categories
+      parameters:
+      - name: dataset
+        in: path
+        required: true
+        schema:
+          type: string
+        example: 'categories'
+      - name: limit
+        in: query
+        schema:
+          type: integer
+        example: '100'
+      - name: direction
+        in: query
+        schema:
+          type: string
+        example: desc
+      - name: query
+        in: query
+        schema:
+          type: string
+        example: layer
+      - name: pageNum
+        in: query
+        schema:
+          type: integer
+        example: '1'
+      - name: sortBy
+        in: query
+        schema:
+          type: string
+        example: marketCap
+      - name: is_highlighted
+        in: query
+        schema:
+          type: boolean
+        example: true
+      responses:
+        '200':
+          description: OK
+          headers:
+            Access-Control-Allow-Headers:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Methods:
+              schema:
+                type: string
+                example: '*'
+            Access-Control-Allow-Origin:
+              schema:
+                type: string
+                example: '*'
+            Cache-Control:
+              schema:
+                type: string
+                example: max-age=150, public
+            Content-Type:
+              schema:
+                type: string
+                example: application/json
+            Date:
+              schema:
+                type: string
+                example: Wed, 24 Jan 2024 13:40:02 GMT
+            Transfer-Encoding:
+              schema:
+                type: string
+                example: chunked
+          content:
+            application/json:
+              schema:
+                type: object
+              example:
+                categories:
+                - id: layer-1
+                  forbesName: "Layer 1 Crypto"
+                  slug: "/layer-1-crypto"
+                  name: Layer 1 (L1)
+                  total_tokens: 88
+                  percentage_24h: 0.04017586658497978
+                  volume_24h: 48200166091.649994
+                  average_price: 493.0841237381864
+                  market_cap: 1228081665869
+                  is_highlighted: true
+                  top_gainers:
+                  - slug: bitcoin-btc
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400
+                    symbol: bitcoin
+                    market_cap: 785878910595
+                  - slug: ethereum-eth
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/279/large/ethereum.png?1696501628
+                    symbol: ethereum
+                    market_cap: 268780026077
+                  - slug: bnb-bnb
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970
+                    symbol: binancecoin
+                    market_cap: 45371071074
+                  last_updated: '2024-01-24T13:35:25.064713Z'
+                - id: layer-2
+                  name: Layer 2 (L2)
+                  total_tokens: 21
+                  percentage_24h: 0.025228493739006735
+                  volume_24h: 1512619203.28
+                  average_price: 110.87993244904763
+                  market_cap: 15776857490
+                  top_gainers:
+                  - slug: polygon-matic
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745
+                    symbol: matic-network
+                    market_cap: 6781115731
+                  - slug: optimism-op
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1696524385
+                    symbol: optimism
+                    market_cap: 2700075790
+                  - slug: immutable-imx
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787
+                    symbol: immutable-x
+                    market_cap: 2462715765
+                  last_updated: '2024-01-24T13:35:25.167009Z'
+                - id: play-to-earn
+                  name: Play To Earn
+                  total_tokens: 182
+                  percentage_24h: 0.008146948821393834
+                  volume_24h: 590193639.76
+                  average_price: 0.9976247802046747
+                  market_cap: 10730809206.75
+                  top_gainers:
+                  - slug: immutable-imx
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787
+                    symbol: immutable-x
+                    market_cap: 2462715765
+                  - slug: the-sandbox-sand
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971
+                    symbol: the-sandbox
+                    market_cap: 987393757
+                  - slug: axie-infinity-axs
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817
+                    symbol: axie-infinity
+                    market_cap: 980374002
+                  last_updated: '2024-01-24T13:35:24.575906Z'
+                - id: layer-3-l3
+                  name: Layer 3 (L3)
+                  total_tokens: 2
+                  percentage_24h: 0.03584683302720376
+                  volume_24h: 5823843
+                  average_price: 5.766882535
+                  market_cap: 149240145
+                  top_gainers:
+                  - slug: orbs-orbs
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200
+                    symbol: orbs
+                    market_cap: 142331002
+                  - slug: dream-machine-token-dmt
+                    logo: >-
+                      https://assets.coingecko.com/coins/images/30505/large/dmt.png?1696529391
+                    symbol: dream-machine-token
+                    market_cap: 6909143
+                  last_updated: '2024-01-24T13:35:24.864736Z'
+                total: 4
+                hasTemporaryDataDelay: false
+                source: calculated
+
+  /v2/categories/custom-categories:
+    get:
+      tags:
+      - v2
+      summary: Custom Categories Data
+      description: Returns the Custom Categories data with markets data for each Custom Categories
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              examples:
+                AllAssets:
+                  summary: actual response to get all FT Custom Categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/categories/custom-categories?type=FT'
+                SearchForSpecificAssets:
+                  summary: actual response to get all NFT Custom Categories
+                  externalValue: 'https://fda-dev.forbes.com/v2/categories/custom-categories?type=NFT'
+                SearchForCategory:
+                  summary: actual response to get all Category Custom Categories
+                  externalValue:  'https://fda-dev.forbes.com/v2/categories/custom-categories?type=CATEGORY'
+
+  /v2/crypto/assets:
+    get:
+      tags:
+      - v2
+      summary: Assets Data
+      description: Returns the active assets data
+      responses:
+        '200': # status code
+          description: OK
+          content:
+            application/json:
+              examples:
+                AllAssets:
+                  summary: actual response to get all active assets from PG
+                  externalValue: 'https://fda-dev.forbes.com/v2/crypto/assets'
+

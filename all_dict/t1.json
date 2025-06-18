@@ -1,0 +1,276 @@
+{
+    "authorGroup": {
+      "primaryAuthor": {
+        "id": "659e70c3acb2f5246e76d0a0",
+        "naturalId": "blogAuthorId/blog/author/95",
+        "name": "John Dobosz",
+        "avatars": [
+          {
+            "size": 40,
+            "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/40x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+          },
+          {
+            "size": 62,
+            "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/62x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+          },
+          {
+            "size": 136,
+            "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/136x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+          },
+          {
+            "size": 400,
+            "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/400x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+          }
+        ],
+        "url": "https://www.forbes.com/sites/johndobosz",
+        "type": "Forbes Staff",
+        "profileUrl": "/sites/johndobosz/",
+        "twitterName": "doboszj",
+        "authorType": "individual",
+        "linkedIn": "https://www.linkedin.com/in/johndobosz/",
+        "blog": false,
+        "timestamp": 1683560360682,
+        "shortBio": "I focus on dividends, options income, and billionaires.",
+        "blogName": "John Dobosz",
+        "topics": [
+          "markets",
+          "stocks",
+          "investing",
+          "intelligent-investing",
+          "etfs",
+          "wall-street",
+          "business",
+          "international",
+          "small-business-roundtable",
+          "powering-productivity",
+          "options"
+        ],
+        "recentFlag": false,
+        "description": "<p>I am the editor of three Forbes investment newsletters: <a href=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\"><em>Forbes Dividend Investor</em></a>, <a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\"><em>Forbes Billionaire Investor</em></a> and covered call writing advisory service,&nbsp;<a href=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\"><em>Forbes Premium Income Report</em></a>.   Prior to joining Forbes in 2001, I was a producer and reporter at CNN Financial News, focusing on stories about entrepreneurship.&nbsp; I've also worked as a field producer for Bloomberg TV in New York, and as a reporter/researcher at Inc. Magazine in Boston. Born in Tampa and raised across the bay, I graduated&nbsp;n 1990 from the University of Florida with a B.S. in business administration with a concentration in finance.&nbsp;</p>",
+        "recentActivityCount": 0,
+        "latestActivityDate": 1443116400000,
+        "dailyActivityCount": 0,
+        "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-974",
+        "shortUri": "http://onforb.es/12liPxY",
+        "displayChannel": "investing",
+        "displaySection": "markets",
+        "contributorSince": 1264037180000,
+        "slug": "johndobosz",
+        "showNoVestPocket": false,
+        "embargo": false,
+        "primaryChannelId": "channel_72",
+        "primarySectionId": "section_1089",
+        "enableContribContact": true,
+        "enableTwitterFeed": false,
+        "instagramHandle": "johndobosz",
+        "disableCanonical": false,
+        "disableDigest": false,
+        "forbesTwitterProfile": {
+          "screenName": "doboszj",
+          "name": "doboszj",
+          "profileImageUrl": "http://pbs.twimg.com/profile_images/226991363/MVI_0706.jpg",
+          "description": "Markets editor, Forbes; Been at Bloomberg, CNN, Inc. Magazine and love 'em all.",
+          "createdDate": 1228580838000,
+          "location": "",
+          "url": "http://t.co/uMl1fOK09D",
+          "expandedUrl": "http://blogs.forbes.com/johndobosz/",
+          "displayUrl": "blogs.forbes.com/johndobosz/",
+          "verified": false
+        },
+        "inactive": true,
+        "division": "FC",
+        "allowEmail": false,
+        "disabled": false
+      },
+      "publication": {
+        "id": "659e70c3acb2f5246e76d0a1",
+        "naturalId": "blogAuthorId/blog/author/blog-51525",
+        "name": "Forbes Billionaire Investor",
+        "avatars": [
+          {
+            "size": 136,
+            "image": "https://specials-images.forbesimg.com/imageserve/6321defaf046166930c1fa0b/136x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+          },
+          {
+            "size": 40,
+            "image": "https://specials-images.forbesimg.com/imageserve/6321defaf046166930c1fa0b/40x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+          },
+          {
+            "size": 400,
+            "image": "https://specials-images.forbesimg.com/imageserve/6321defaf046166930c1fa0b/400x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+          },
+          {
+            "size": 62,
+            "image": "https://specials-images.forbesimg.com/imageserve/6321defaf046166930c1fa0b/62x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+          }
+        ],
+        "url": "https://www.forbes.com/newsletters/forbes-billionaire-investor",
+        "type": "Newsletter",
+        "subType": "investing",
+        "authorType": "newsletter",
+        "blog": true,
+        "timestamp": 1682626686703,
+        "blogName": "Forbes Billionaire Investor",
+        "authors": [
+          "5009546"
+        ],
+        "description": "Tapping into Forbes' 105-year record of chronicling the world’s great wealth creators, Forbes Billionaire Investor explicitly shows you the stocks billionaire investors are buying. Following these billionaires can help you achieve your financial goals. By piggybacking on Wall Street's most successful investors you can share in their gains.",
+        "primaryContributor": "blogAuthorId/blog/author/5009546",
+        "primaryContributorData": {
+          "id": "659e70c3acb2f5246e76d0a2",
+          "naturalId": "blogAuthorId/blog/author/5009546",
+          "name": "Forbes Billionaire Investor",
+          "avatars": [
+            {
+              "size": 136,
+              "image": "https://specials-images.forbesimg.com/imageserve/630691f9e6226d25b74fdc03/136x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+            },
+            {
+              "size": 40,
+              "image": "https://specials-images.forbesimg.com/imageserve/630691f9e6226d25b74fdc03/40x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+            },
+            {
+              "size": 400,
+              "image": "https://specials-images.forbesimg.com/imageserve/630691f9e6226d25b74fdc03/400x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+            },
+            {
+              "size": 62,
+              "image": "https://specials-images.forbesimg.com/imageserve/630691f9e6226d25b74fdc03/62x0.jpg?cropX1=0&cropX2=1440&cropY1=0&cropY2=1440"
+            }
+          ],
+          "url": "https://www.forbes.com/newsletters/forbes-billionaire-investor",
+          "type": "Newsletter",
+          "profileUrl": "/sites/forbes-billionaire-investor/",
+          "authorType": "newsletter",
+          "blog": false,
+          "timestamp": 1664570244827,
+          "shortBio": "We deliver timely investment ideas of the top billionaire investors. ",
+          "blogName": "Forbes Billionaire Investor",
+          "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-51525",
+          "slug": "forbes-billionaire-investor",
+          "showNoVestPocket": false,
+          "embargo": false,
+          "primaryChannelId": "channel_11",
+          "primarySectionId": "section_1914",
+          "enableContribContact": false,
+          "enableTwitterFeed": false,
+          "disableCanonical": false,
+          "disableDigest": false,
+          "inactive": false,
+          "division": "FC",
+          "allowEmail": false,
+          "disabled": false
+        },
+        "contributorSince": 1661349499557,
+        "slug": "forbes-billionaire-investor",
+        "embargo": false,
+        "primaryChannelId": "channel_11",
+        "primarySectionId": "section_1914",
+        "pubCode": "F",
+        "fullTextEmail": true,
+        "inactive": false,
+        "bvProgramTypes": [
+          "membership"
+        ],
+        "allowEmail": false,
+        "adExDesktop": "regular",
+        "adExMobile": "regular",
+        "previousAuthorData": {
+          "blog": false,
+          "allowEmail": false
+        },
+        "staticPages": [
+          {
+            "id": "6321e54258e42c00016b07fc",
+            "url": "https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/",
+            "label": "Full Portfolio"
+          }
+        ],
+        "resourceId": "FIN_FBI",
+        "pianoModalIds": {
+          "lander": {
+            "offerId": "",
+            "templateId": "",
+            "templateVariantId": ""
+          },
+          "article": {
+            "offerId": "OF6X12WP5YA3",
+            "templateId": "OT9RV5A7OMZV",
+            "templateVariantId": "OTVFTNFPL7UJF"
+          }
+        },
+        "emails": {
+          "welcome-preview": {
+            "isDefault": false,
+            "type": "welcome",
+            "subject": "Welcome To Forbes Billionaire Investor",
+            "title": "Welcome To Forbes Billionaire Investor",
+            "body": "<p>Thank you for joining<strong><em> Forbes Billionaire Investor</em></strong>, our newest flagship advisory service that will deliver timely investment ideas from the world’s most successful and influential investors.&nbsp;</p><p>Leveraging our 105-year record of reporting on the world’s best investors, we dive deep into the investment thesis of some of the sharpest minds in investing, identifying what investment assets they’re buying, how much they are purchasing and track any material changes in their positions.&nbsp;</p><p>What makes this advisory unique is we do not simply identify the most attractive assets these influential investors acquire. To make the cut, we look for companies that pay reliable dividends. Why? Because we recognize how dividends have accounted for 40% of stock market returns since 1930 and during decades of inflation (like we’re in now), it’s a whopping 54%.</p><p>To help you make the most of your subscription, here are some quick guides to the advisory to help you&nbsp; put it to work for you right away:</p><ol><li><strong>Download our </strong><a href=\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\" target=\"_blank\" class=\"color-link\" title=\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\"><strong>23-page Inaugural Issue</strong></a>. In it, you will find a detailed description of our methodology, two portfolios, our spotlight research of four of the 20-plus companies currently in our buy list and an exclusive profile of a billionaire who made a lot of money in real estate (his last name is not Trump).</li><li><strong>Review our </strong><a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\"><strong>Two Model Portfolios</strong></a><strong> and make your first stock purchase.</strong> Every investor’s goal is different. That’s why we created a Large-Cap and Small/Mid-Cap portfolio. Some of us may be looking to round out our holdings by adding a mega energy stock poised to continuously rise or a high yielding tech stock. Our portfolios are diversified and feature one stock per S&amp;P sector to give you a wide-range of ideas and options from some of the best billionaire investors.</li><li>Download your <a href=\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\" target=\"_blank\" class=\"color-link\" title=\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\"><strong>exclusive report</strong></a>. The free report you received with your subscription is a great companion to the service highlighting some of our favorite stocks to buy now.&nbsp;&nbsp;</li><li>Check out <a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\"><strong>your stream</strong></a><strong> </strong>to read the latest market and billionaire stock update from John Dobosz and the Forbes Wealth Team.&nbsp;</li></ol><p>Thank you again for subscribing to <strong><em>Forbes Billionaire Investor</em></strong>!</p><p>Warm Regards,</p><p>The <strong><em>Forbes Billionaire Investor </em></strong>Team</p>",
+            "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Thank you for joining\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Billionaire Investor\"},{\"insert\":\", our newest flagship advisory service that will deliver timely investment ideas from the world’s most successful and influential investors. \\nLeveraging our 105-year record of reporting on the world’s best investors, we dive deep into the investment thesis of some of the sharpest minds in investing, identifying what investment assets they’re buying, how much they are purchasing and track any material changes in their positions. \\nWhat makes this advisory unique is we do not simply identify the most attractive assets these influential investors acquire. To make the cut, we look for companies that pay reliable dividends. Why? Because we recognize how dividends have accounted for 40% of stock market returns since 1930 and during decades of inflation (like we’re in now), it’s a whopping 54%.\\nTo help you make the most of your subscription, here are some quick guides to the advisory to help you  put it to work for you right away:\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Download our \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\"},\"insert\":\"23-page Inaugural Issue\"},{\"insert\":\". In it, you will find a detailed description of our methodology, two portfolios, our spotlight research of four of the 20-plus companies currently in our buy list and an exclusive profile of a billionaire who made a lot of money in real estate (his last name is not Trump).\"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Review our \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\"},\"insert\":\"Two Model Portfolios\"},{\"attributes\":{\"bold\":true},\"insert\":\" and make your first stock purchase.\"},{\"insert\":\" Every investor’s goal is different. That’s why we created a Large-Cap and Small/Mid-Cap portfolio. Some of us may be looking to round out our holdings by adding a mega energy stock poised to continuously rise or a high yielding tech stock. Our portfolios are diversified and feature one stock per S&P sector to give you a wide-range of ideas and options from some of the best billionaire investors.\"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Download your \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\"},\"insert\":\"exclusive report\"},{\"insert\":\". The free report you received with your subscription is a great companion to the service highlighting some of our favorite stocks to buy now.  \"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Check out \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\"},\"insert\":\"your stream\"},{\"attributes\":{\"bold\":true},\"insert\":\" \"},{\"insert\":\"to read the latest market and billionaire stock update from John Dobosz and the Forbes Wealth Team. \"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Thank you again for subscribing to \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Billionaire Investor\"},{\"insert\":\"!\\nWarm Regards,\\nThe \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Billionaire Investor \"},{\"insert\":\"Team\\n\"}]}",
+            "source": "forbespress"
+          },
+          "welcome": {
+            "isDefault": false,
+            "type": "welcome",
+            "subject": "Welcome To Forbes Billionaire Investor",
+            "title": "Welcome To Forbes Billionaire Investor",
+            "body": "<p>Thank you for joining<strong><em> Forbes Billionaire Investor</em></strong>, our newest flagship advisory service that will deliver timely investment ideas from the world’s most successful and influential investors.&nbsp;</p><p>Leveraging our 105-year record of reporting on the world’s best investors, we dive deep into the investment thesis of some of the sharpest minds in investing, identifying what investment assets they’re buying, how much they are purchasing and track any material changes in their positions.&nbsp;</p><p>What makes this advisory unique is we do not simply identify the most attractive assets these influential investors acquire. To make the cut, we look for companies that pay reliable dividends. Why? Because we recognize how dividends have accounted for 40% of stock market returns since 1930 and during decades of inflation (like we’re in now), it’s a whopping 54%.</p><p>To help you make the most of your subscription, here are some quick guides to the advisory to help you&nbsp; put it to work for you right away:</p><ol><li><strong>Download our </strong><a href=\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\" target=\"_blank\" class=\"color-link\" title=\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\"><strong>23-page Inaugural Issue</strong></a>. In it, you will find a detailed description of our methodology, two portfolios, our spotlight research of four of the 20-plus companies currently in our buy list and an exclusive profile of a billionaire who made a lot of money in real estate (his last name is not Trump).</li><li><strong>Review our </strong><a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\"><strong>Two Model Portfolios</strong></a><strong> and make your first stock purchase.</strong> Every investor’s goal is different. That’s why we created a Large-Cap and Small/Mid-Cap portfolio. Some of us may be looking to round out our holdings by adding a mega energy stock poised to continuously rise or a high yielding tech stock. Our portfolios are diversified and feature one stock per S&amp;P sector to give you a wide-range of ideas and options from some of the best billionaire investors.</li><li>Download your <a href=\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\" target=\"_blank\" class=\"color-link\" title=\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\"><strong>exclusive report</strong></a>. The free report you received with your subscription is a great companion to the service highlighting some of our favorite stocks to buy now.&nbsp;&nbsp;</li><li>Check out <a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\"><strong>your stream</strong></a><strong> </strong>to read the latest market and billionaire stock update from John Dobosz and the Forbes Wealth Team.&nbsp;</li></ol><p>Thank you again for subscribing to <strong><em>Forbes Billionaire Investor</em></strong>!</p><p>Warm Regards,</p><p>The <strong><em>Forbes Billionaire Investor </em></strong>Team</p>",
+            "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Thank you for joining\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Billionaire Investor\"},{\"insert\":\", our newest flagship advisory service that will deliver timely investment ideas from the world’s most successful and influential investors. \\nLeveraging our 105-year record of reporting on the world’s best investors, we dive deep into the investment thesis of some of the sharpest minds in investing, identifying what investment assets they’re buying, how much they are purchasing and track any material changes in their positions. \\nWhat makes this advisory unique is we do not simply identify the most attractive assets these influential investors acquire. To make the cut, we look for companies that pay reliable dividends. Why? Because we recognize how dividends have accounted for 40% of stock market returns since 1930 and during decades of inflation (like we’re in now), it’s a whopping 54%.\\nTo help you make the most of your subscription, here are some quick guides to the advisory to help you  put it to work for you right away:\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Download our \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://specials-images.forbesimg.com/forbes-billionaire-investor/files/2022/633b27c4432d6b9cf678b215/FBI_october22.pdf\"},\"insert\":\"23-page Inaugural Issue\"},{\"insert\":\". In it, you will find a detailed description of our methodology, two portfolios, our spotlight research of four of the 20-plus companies currently in our buy list and an exclusive profile of a billionaire who made a lot of money in real estate (his last name is not Trump).\"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Review our \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://www.forbes.com/newsletters/forbes-billionaire-investor/2022/09/30/forbes-billionaire-investor-portfolios/\"},\"insert\":\"Two Model Portfolios\"},{\"attributes\":{\"bold\":true},\"insert\":\" and make your first stock purchase.\"},{\"insert\":\" Every investor’s goal is different. That’s why we created a Large-Cap and Small/Mid-Cap portfolio. Some of us may be looking to round out our holdings by adding a mega energy stock poised to continuously rise or a high yielding tech stock. Our portfolios are diversified and feature one stock per S&P sector to give you a wide-range of ideas and options from some of the best billionaire investors.\"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Download your \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://image.read.forbes.com/lib/fe3a11717164047e751775/m/3/29157869-c208-4c5a-86dd-cf2d7c82e162.pdf\"},\"insert\":\"exclusive report\"},{\"insert\":\". The free report you received with your subscription is a great companion to the service highlighting some of our favorite stocks to buy now.  \"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Check out \"},{\"attributes\":{\"bold\":true,\"color\":\"\",\"link\":\"https://www.forbes.com/newsletters/forbes-billionaire-investor/\"},\"insert\":\"your stream\"},{\"attributes\":{\"bold\":true},\"insert\":\" \"},{\"insert\":\"to read the latest market and billionaire stock update from John Dobosz and the Forbes Wealth Team. \"},{\"attributes\":{\"list\":\"ordered\"},\"insert\":\"\\n\"},{\"insert\":\"Thank you again for subscribing to \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Billionaire Investor\"},{\"insert\":\"!\\nWarm Regards,\\nThe \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Billionaire Investor \"},{\"insert\":\"Team\\n\"}]}",
+            "source": "forbespress"
+          }
+        },
+        "freeNewsletter": false,
+        "contentPaywall": "metered"
+      },
+      "coAuthors": [
+        
+      ]
+    },
+    "authors": [
+      
+    ],
+    "bertieBadges": [
+      
+    ],
+    "comments": [
+      
+    ],
+    "date": 1702678766557,
+    "description": "The U.S. economy broke the fever of rising interest rates when the 10-year Treasury yield topped out in late October at 5% and tumbled to 3.93% over the next two months. As rates receded, stocks surged. ",
+    "doNotPaginate": false,
+    "image": "https://specials-images.forbesimg.com/imageserve/657cc89e340d43bb87726c85/960x0.jpg",
+    "primaryChannel": {
+      "id": "channel_11",
+      "channelId": "channel_11",
+      "channelName": "Newsletters",
+      "url": "/newsletters-old",
+      "showAds": false,
+      "showLicenseOptions": false,
+      "showSpreadsheetButton": false,
+      "enableComments": false,
+      "badges": [
+        
+      ],
+      "hexValue": "#887411",
+      "secondaryHexValue": "#e1d599",
+      "showQotd": false
+    },
+    "primaryChannelId": "channel_11",
+    "type": "newsletter",
+    "uri": "http://www.forbes.com/newsletters/forbes-billionaire-investor/2023/12/15/stocks-celebrate-as-fed-calls-it-quits-on-rate-hikes-december-issue/",
+    "author": "John Dobosz",
+    "channelSection": [
+      {
+        "channelId": "channel_11"
+      },
+      {
+        "channelId": "channel_11",
+        "sectionId": "section_1914"
+      }
+    ],
+    "hideDescription": false,
+    "id": "content_657cbaedd43d090514df6e79",
+    "naturalId": "blogAndPostId/blog/post/51525-657cbaedd43d090514df6e79",
+    "sponsored": false,
+    "title": "Stocks Celebrate As Fed Calls It Quits On Rate Hikes (December Issue)"
+  }

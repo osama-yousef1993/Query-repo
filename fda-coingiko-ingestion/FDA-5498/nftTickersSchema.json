@@ -1,0 +1,53 @@
+[
+    {
+        "name": "id",
+        "type": "STRING"
+    },
+    {
+        "name": "tickers",
+        "type": "RECORD",
+        "mode": "REPEATED",
+        "fields": [
+            {
+                "name": "floor_price_in_native_currency",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "h24_volume_in_native_currency",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "native_currency",
+                "type": "STRING"
+            },
+            {
+                "name": "native_currency_symbol",
+                "type": "STRING"
+            },
+            {
+                "name": "updated_at",
+                "type": "TIMESTAMP"
+            },
+            {
+                "name": "nft_marketplace_id",
+                "type": "STRING"
+            },
+            {
+                "name": "name",
+                "type": "STRING"
+            },
+            {
+                "name": "image",
+                "type": "STRING"
+            },
+            {
+                "name": "nft_collection_url",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "name": "row_last_updated",
+        "type": "TIMESTAMP"
+    }
+]

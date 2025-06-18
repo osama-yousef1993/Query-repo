@@ -1,0 +1,38 @@
+[
+    {
+        "id": "BTC",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "coingecko_id": null,
+        "coinpaprika_id": "bitcoin",
+        "contract_address": "",
+        "last_updated": "2023-03-03T15:53:36.955953Z"
+    },
+    {
+        "id": "ETH",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "coingecko_id": null,
+        "coinpaprika_id": "ethereum",
+        "contract_address": "",
+        "last_updated": "2023-03-03T15:53:36.955953Z"
+    },
+    {
+        "id": "USDT",
+        "name": "Tether",
+        "symbol": "USDT",
+        "coingecko_id": "tether",
+        "coinpaprika_id": null,
+        "contract_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "last_updated": "2023-03-03T15:53:36.955953Z"
+    },
+    {
+        "id": "BNB",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "coingecko_id": "binancecoin",
+        "coinpaprika_id": null,
+        "contract_address": "",
+        "last_updated": "2023-03-03T15:53:36.955953Z"
+    }
+]

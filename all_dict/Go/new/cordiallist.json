@@ -1,0 +1,1316 @@
+[
+    {
+        "_id": "5cc06abf1802c8c524866f81",
+        "attributes": {
+            "lastModified": "2022-12-19T14:35:17+0000",
+            "createdAt": "2019-04-24T13:55:11+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 14027,
+            "mdtLastSent": {
+                "5f1ee33a6be319c3c3801468": "2022-03-21T20:03:58+00:00",
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:17:29+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:03:41+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-06T11:33:11+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-04-02T13:15:47+00:00",
+                "60450018fe2c195e910e5c94": "2021-09-28T17:58:49+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-14T18:08:57+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-01-26T20:17:12+00:00",
+                "5e611d1afc818275eac8faa1": "2022-03-02T21:05:36+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-11-24T16:18:51+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-04-18T22:00:03+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:34:41+00:00"
+            },
+            "sourcearray": [
+                "presidentsday2022NL-content"
+            ],
+            "lists": [
+                "Under30",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-78.375",
+                    "lat": "36.6534"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "city": "Warrington",
+                "tz": "America/New_York",
+                "state": "VA",
+                "postal_code": "23917"
+            },
+            "ID": "5cc06abf1802c8c524866f81",
+            "listJoinDate": {
+                "Announcements": "2021-09-23T18:36:38+0000",
+                "Under30": "2019-04-24T13:55:11+0000"
+            },
+            "cID": "5cc06abf1802c8c524866f81"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "brjaronski@loyola.edu",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5cc06a9a1802c8c52482b4cd",
+        "attributes": {
+            "lastModified": "2022-12-19T14:34:40+0000",
+            "createdAt": "2019-04-24T13:54:34+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 24900,
+            "mdtLastSent": {
+                "5f1ee33a6be319c3c3801468": "2022-03-21T20:03:59+00:00",
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:08:32+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:03:42+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-06T11:33:23+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-04-02T13:13:39+00:00",
+                "60450018fe2c195e910e5c94": "2021-09-28T17:59:25+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-14T18:07:02+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-02-05T20:19:55+00:00",
+                "5e611d1afc818275eac8faa1": "2022-03-02T21:08:33+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-11-24T16:19:28+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-04-18T21:58:43+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:34:04+00:00"
+            },
+            "lists": [
+                "Under30",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-108.5457",
+                    "lat": "39.0783"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "city": "Grand Junction",
+                "tz": "America/Denver",
+                "state": "CO",
+                "postal_code": "81501"
+            },
+            "ID": "5cc06a9a1802c8c52482b4cd",
+            "listJoinDate": {
+                "Announcements": "2021-09-23T18:36:53+0000",
+                "Under30": "2019-04-24T13:54:34+0000"
+            },
+            "cID": "5cc06a9a1802c8c52482b4cd"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "todd@pnciconstruction.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5cc06ab61802c8c524858f8d",
+        "attributes": {
+            "lastModified": "2022-12-19T14:35:08+0000",
+            "FirstName": "Kate",
+            "mdtLastSent": {
+                "5f1ee33a6be319c3c3801468": "2022-03-21T20:04:15+00:00",
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:16:46+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:05:08+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-06T11:33:42+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-04-03T22:52:03+00:00",
+                "60450018fe2c195e910e5c94": "2021-09-28T17:57:10+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-14T18:06:57+00:00",
+                "5f93336d6be319c3c3f3fe09": "2021-10-22T13:02:35+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-01-26T20:16:53+00:00",
+                "5e611d1afc818275eac8faa1": "2022-03-07T18:05:17+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-11-08T16:19:08+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:33:23+00:00"
+            },
+            "fuse": [
+                "Business and Finance"
+            ],
+            "sourcearray": [
+                "presidentsday2022NL-content"
+            ],
+            "fuse2": [
+                "Economy"
+            ],
+            "fuse3": [
+                "Financial Regulation"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-118.3414",
+                    "lat": "34.0124"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "city": "Los Angeles",
+                "tz": "America/Los_Angeles",
+                "state": "CA",
+                "postal_code": "90008"
+            },
+            "createdAt": "2019-04-24T13:55:02+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 31622,
+            "lists": [
+                "Under30",
+                "Announcements",
+                "ForbesLive"
+            ],
+            "flag": "smb",
+            "company": "Hello Design",
+            "LastName": "Chapman",
+            "ID": "5cc06ab61802c8c524858f8d",
+            "listJoinDate": {
+                "Announcements": "2021-09-23T18:36:13+0000",
+                "Under30": "2019-04-24T13:55:02+0000",
+                "ForbesLive": "2022-03-16T14:42:27+0000"
+            },
+            "cID": "5cc06ab61802c8c524858f8d"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "kate@hellodesign.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5d16711b1802c8c524dd6336",
+        "attributes": {
+            "lastModified": "2022-12-19T14:47:31+0000",
+            "createdAt": "2019-06-28T19:57:15+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 3221,
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:10:37+00:00",
+                "60a2802ffe2c195e916693fc": "2021-11-24T16:05:03+00:00",
+                "62fe7c89f9c34d13109a5d88": "2022-12-19T14:47:14+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-07T18:10:54+00:00",
+                "5efe1b7ef414222e419b7226": "2020-12-04T19:02:38+00:00",
+                "60a41870fe2c195e91590bb5": "2021-06-17T16:03:27+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-03-07T15:35:03+00:00",
+                "5f1ee33a6be319c3c3801468": "2022-04-09T14:06:53+00:00",
+                "5d4c5e23195063fa4f1ee51b": "2019-08-17T19:50:49+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:04:10+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-03-26T13:17:40+00:00",
+                "6178356d521306d489d825d6": "2021-10-26T19:38:21+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-06-22T19:24:59+00:00",
+                "5e611d1afc818275eac8faa1": "2021-03-03T19:03:53+00:00",
+                "60d4d21bfe2c195e9128345c": "2022-07-28T16:09:07+00:00",
+                "5d31eaa1953109375ef63a3e": "2021-03-04T15:48:31+00:00",
+                "5d7a8c0c195063fa4f7f5cfe": "2021-03-07T16:03:32+00:00"
+            },
+            "Source": "justuno-desktop",
+            "lists": [
+                "DailyDozen",
+                "Announcements",
+                "ForbesWomen"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-97.822",
+                    "lat": "37.751"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/Chicago",
+                "state": "",
+                "postal_code": ""
+            },
+            "ID": "5d16711b1802c8c524dd6336",
+            "listJoinDate": {
+                "ForbesWomen": "2021-03-04T15:48:30+0000",
+                "Announcements": "2019-08-01T19:52:01+0000",
+                "DailyDozen": "2019-06-28T20:34:25+0000"
+            },
+            "cID": "5d16711b1802c8c524dd6336"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "amy.taylor02@cardinalhealth.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5e59369afc818275eaccb0d2",
+        "attributes": {
+            "lastModified": "2022-12-19T14:47:33+0000",
+            "createdAt": "2020-02-28T15:49:46+0000",
+            "lastUpdateSource": "bulk-import",
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:09:52+00:00",
+                "60a2802ffe2c195e916693fc": "2021-10-07T15:05:03+00:00",
+                "62fe7c89f9c34d13109a5d88": "2022-12-19T14:47:14+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-24T18:03:14+00:00",
+                "608c8c33fe2c195e91a4cf43": "2021-09-29T12:34:13+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-02-05T20:22:00+00:00",
+                "5efe1b7ef414222e419b7226": "2021-04-02T18:03:45+00:00",
+                "5f89d5fb6be319c3c37c9e62": "2021-11-03T13:02:34+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-04-18T21:58:50+00:00",
+                "5f1ee33a6be319c3c3801468": "2022-08-27T14:05:03+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:06:04+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-03-26T13:21:14+00:00",
+                "5dd5caa696566e58de6b693b": "2020-02-28T16:50:11+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-06-22T19:25:45+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-11-24T16:18:21+00:00",
+                "5d31eaa1953109375ef63a3e": "2020-02-28T15:49:47+00:00",
+                "5d7a8c0c195063fa4f7f5cfe": "2020-03-01T16:03:33+00:00"
+            },
+            "sourcearray": [
+                "presidentsday2022NL-content"
+            ],
+            "Source": "overlay-inline",
+            "lists": [
+                "ForbesWomen",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "Germany",
+                "loc": {
+                    "lon": "11.5768",
+                    "lat": "48.2804"
+                },
+                "street_address": "",
+                "auto": true,
+                "city": "Unterschleißheim",
+                "countryISO": "DE",
+                "tz": "Europe/Berlin",
+                "state": "BY",
+                "postal_code": "85716"
+            },
+            "ID": "5e59369afc818275eaccb0d2",
+            "listJoinDate": {
+                "ForbesWomen": "2020-02-28T15:49:46+0000",
+                "Announcements": "2020-02-28T15:49:46+0000"
+            },
+            "cID": "5e59369afc818275eaccb0d2"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "lvolquartz@politico.eu",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5f9a7ead6be319c3c3bebf80",
+        "attributes": {
+            "lastModified": "2022-12-19T15:03:44+0000",
+            "createdAt": "2020-10-29T08:34:53+0000",
+            "lastUpdateSource": "bulk-import",
+            "sourcearray": [
+                "presidentsday2022NL-nocontent"
+            ],
+            "follow_source": [
+                "article"
+            ],
+            "followed_natural_id": [
+                "blogAuthorId/blog/author/1159873"
+            ],
+            "followed_author_slug": [
+                "tomaspremuzic"
+            ],
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-12-19T15:02:54+00:00",
+                "5df3a521a806e278173ddb2e": "2020-10-29T08:34:55+00:00",
+                "5df3a796a806e2781760c8d7": "2022-08-12T15:38:26+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-03-26T13:21:04+00:00",
+                "62fbdbe0f9c34d1310a5f4a4": "2022-11-14T15:07:13+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-07T18:06:51+00:00",
+                "5dd5caa696566e58de6b693b": "2020-10-29T09:36:29+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-06-22T19:23:44+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-05-21T20:35:41+00:00"
+            },
+            "lists": [
+                "Follow",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "Singapore",
+                "loc": {
+                    "lon": "103.8547",
+                    "lat": "1.2929"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "SG",
+                "tz": "Asia/Singapore",
+                "state": "",
+                "postal_code": ""
+            },
+            "ID": "5f9a7ead6be319c3c3bebf80",
+            "listJoinDate": {
+                "Announcements": "2020-10-29T08:34:53+0000",
+                "Follow": "2020-10-29T08:34:53+0000"
+            },
+            "cID": "5f9a7ead6be319c3c3bebf80"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "charu.madan@siemens.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2020-10-29T08:34:53+00:00"
+            }
+        }
+    },
+    {
+        "_id": "615a832b521306d489cbbca7",
+        "attributes": {
+            "lastModified": "2022-12-19T15:05:05+0000",
+            "createdAt": "2021-10-04T04:29:31+0000",
+            "lastUpdateSource": "bulk-import",
+            "fuse": [
+                "Technology & Computing"
+            ],
+            "sourcearray": [
+                "presidentsday2022NL-content"
+            ],
+            "follow_source": [
+                "article"
+            ],
+            "unsubscribe": [],
+            "fuse2": [
+                "Computing"
+            ],
+            "fuse3": [
+                "Computer Software and Applications"
+            ],
+            "followed_natural_id": [
+                "blogAuthorId/blog/author/1017581"
+            ],
+            "followed_author_slug": [
+                "gordonkelly"
+            ],
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-12-19T15:04:44+00:00",
+                "5eb31360fc818275ea32dc48": "2021-12-07T20:13:44+00:00",
+                "5df3a796a806e2781760c8d7": "2022-08-12T15:39:37+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-06T11:34:01+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-08-08T18:10:48+00:00",
+                "62fbdbe0f9c34d1310a5f4a4": "2022-11-14T15:06:56+00:00",
+                "613f623d521306d489fdd29d": "2021-10-26T17:03:36+00:00",
+                "5efe1b7ef414222e419b7226": "2021-11-24T17:10:46+00:00",
+                "5fab1573b52f2e83d7aa787b": "2021-12-10T15:04:05+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-05-21T20:38:56+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-11-14T14:34:54+00:00"
+            },
+            "lists": [
+                "Follow",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "Philippines",
+                "loc": {
+                    "lon": "120.9721",
+                    "lat": "14.5955"
+                },
+                "auto": true,
+                "countryISO": "PH",
+                "tz": "Asia/Manila",
+                "state": "",
+                "postal_code": ""
+            },
+            "ID": "615a832b521306d489cbbca7",
+            "listJoinDate": {
+                "Announcements": "2021-10-04T04:29:43+0000",
+                "Follow": "2021-10-04T04:29:31+0000"
+            },
+            "cID": "615a832b521306d489cbbca7"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "angelmontanez112379@yahoo.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2021-10-04T04:29:43+00:00"
+            }
+        }
+    },
+    {
+        "_id": "61216786521306d48951d3a8",
+        "attributes": {
+            "lastModified": "2022-12-19T14:34:14+0000",
+            "createdAt": "2021-08-21T20:52:22+0000",
+            "lastUpdateSource": "cordial",
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:19:08+00:00",
+                "60a2802ffe2c195e916693fc": "2021-11-24T16:07:22+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-07T18:10:27+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-02-05T20:21:08+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-04-18T21:59:37+00:00",
+                "6255f00d6e1a1d121175dfd6": "2022-07-27T14:03:00+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:03:19+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-03-26T13:18:20+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-18T11:32:54+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-08-24T19:24:05+00:00",
+                "5e611d1afc818275eac8faa1": "2022-03-07T18:07:59+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-12-06T16:17:38+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:33:51+00:00",
+                "5f189c966be319c3c3f5370d": "2021-08-21T20:52:23+00:00"
+            },
+            "title": "Owner",
+            "lists": [
+                "ForbesTheCulture",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-97.822",
+                    "lat": "37.751"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/Chicago",
+                "state": "",
+                "postal_code": ""
+            },
+            "ID": "61216786521306d48951d3a8",
+            "listJoinDate": {
+                "Announcements": "2021-08-21T20:52:22+0000",
+                "ForbesTheCulture": "2021-08-21T20:52:22+0000"
+            },
+            "cID": "61216786521306d48951d3a8"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "kapitalvisions_llc@execs.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2021-08-21T20:52:22+00:00"
+            }
+        }
+    },
+    {
+        "_id": "5cc06abc1802c8c5248626e4",
+        "attributes": {
+            "lastModified": "2022-12-19T14:33:50+0000",
+            "createdAt": "2019-04-24T13:55:08+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 402,
+            "mdtLastSent": {
+                "5f1ee33a6be319c3c3801468": "2022-03-21T20:04:40+00:00",
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:18:32+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:03:45+00:00",
+                "5fd144afb52f2e83d770b437": "2021-10-06T11:33:29+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-04-02T13:14:12+00:00",
+                "60450018fe2c195e910e5c94": "2021-09-28T17:58:23+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-14T18:07:12+00:00",
+                "61f199c26e1a1d1211e54e94": "2022-02-05T20:20:19+00:00",
+                "5e611d1afc818275eac8faa1": "2022-03-02T21:11:29+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-11-24T16:18:43+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-04-18T21:59:00+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:33:33+00:00"
+            },
+            "sourcearray": [
+                "presidentsday2022NL-content"
+            ],
+            "lists": [
+                "Under30",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States of America",
+                "loc": {
+                    "lon": "-76.7447",
+                    "lat": "39.2694"
+                },
+                "auto": true,
+                "countryISO": "US",
+                "city": "Catonsville",
+                "tz": "America/New_York",
+                "state": "MD",
+                "postal_code": "21228"
+            },
+            "ID": "5cc06abc1802c8c5248626e4",
+            "listJoinDate": {
+                "Announcements": "2021-09-23T18:36:11+0000",
+                "Under30": "2019-04-24T13:55:08+0000"
+            },
+            "cID": "5cc06abc1802c8c5248626e4"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "jalokones17@boyslatinmd.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5f1067526be319c3c342dcab",
+        "attributes": {
+            "lastModified": "2022-12-19T14:34:04+0000",
+            "createdAt": "2020-07-16T14:42:26+0000",
+            "ramp_number": 72621,
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:15:26+00:00",
+                "607d9ecafe2c195e91f9fd26": "2021-04-20T20:34:47+00:00",
+                "5ed56c11f414222e41f355d7": "2022-08-26T14:42:50+00:00",
+                "60c231d0fe2c195e91200bd4": "2022-09-12T15:07:16+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:05:42+00:00",
+                "5fd144afb52f2e83d770b437": "2022-01-31T12:35:19+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-11-28T19:03:31+00:00",
+                "5dd5caa696566e58de6b693b": "2020-07-16T17:01:13+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-06-22T19:28:16+00:00",
+                "60a41870fe2c195e91590bb5": "2022-02-26T17:06:05+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:33:45+00:00"
+            },
+            "lists": [
+                "InvestingDigest",
+                "Sound-Money",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-78.0359",
+                    "lat": "33.9654"
+                },
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/New_York",
+                "state": "NC",
+                "postal_code": "28461"
+            },
+            "ID": "5f1067526be319c3c342dcab",
+            "listJoinDate": {
+                "Announcements": "2021-01-26T21:21:47+0000",
+                "InvestingDigest": "2020-09-18T18:00:31+0000",
+                "Sound-Money": "2020-09-18T18:00:31+0000"
+            },
+            "cID": "5f1067526be319c3c342dcab"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "wmontminy@ec.rr.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "60ef1b40fe2c195e91e0e7a2",
+        "attributes": {
+            "lastModified": "2022-12-19T14:34:28+0000",
+            "FirstName": "e.martinez@airemgmt.com",
+            "sourcearray": [
+                "{}-{}-{}",
+                "presidentsday2022NL-content",
+                "defi-event-bc"
+            ],
+            "follow_source": [
+                "chps"
+            ],
+            "followed_natural_id": [
+                "blogAuthorId/blog/author/557670"
+            ],
+            "followed_author_slug": [
+                "alexkonrad"
+            ],
+            "mdtLastSent": {
+                "608acf79fe2c195e91e07f4e": "2022-01-29T13:12:55+00:00",
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:12:01+00:00",
+                "607d9ecafe2c195e91f9fd26": "2021-08-03T20:32:54+00:00",
+                "62446c766e1a1d12117a0bae": "2022-04-09T14:07:27+00:00",
+                "5eb31360fc818275ea32dc48": "2021-07-20T19:12:45+00:00",
+                "60a2843efe2c195e9141096d": "2022-02-23T19:03:27+00:00",
+                "6061dd5bfe2c195e91570485": "2021-08-04T19:16:30+00:00",
+                "60c123ccfe2c195e9186e223": "2022-03-16T20:33:44+00:00",
+                "5f89d5fb6be319c3c37c9e62": "2021-10-20T13:04:16+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-03-03T17:10:21+00:00",
+                "606cb90dfe2c195e913f21ca": "2022-05-19T18:04:23+00:00",
+                "60393080fe2c195e91496592": "2021-07-14T18:02:10+00:00",
+                "5ed56c11f414222e41f355d7": "2022-08-26T14:41:25+00:00",
+                "62faaac7f9c34d13100fe937": "2022-11-14T14:04:43+00:00",
+                "5df3a796a806e2781760c8d7": "2022-08-12T15:37:26+00:00",
+                "5fd144afb52f2e83d770b437": "2021-09-29T11:33:58+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-08-01T18:07:30+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-07-27T19:22:28+00:00",
+                "60773e2cfe2c195e9194d2f5": "2021-08-06T19:26:14+00:00",
+                "603e6689fe2c195e91436217": "2022-02-05T13:02:36+00:00",
+                "608c8ecefe2c195e91c5b966": "2021-10-11T15:17:26+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-12-19T14:34:05+00:00"
+            },
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-95.2301",
+                    "lat": "29.7842"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/Chicago",
+                "state": "TX",
+                "postal_code": "77013"
+            },
+            "createdAt": "2021-07-14T17:13:36+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 254,
+            "lists": [
+                "Registration",
+                "Announcements",
+                "Follow",
+                "dealflow-free"
+            ],
+            "flag": "regsync",
+            "pianoId": "PNIywAWMhqw8vyy",
+            "ID": "60ef1b40fe2c195e91e0e7a2",
+            "listJoinDate": {
+                "Announcements": "2021-07-14T17:13:40+0000",
+                "dealflow-free": "2022-02-14T21:12:46+0000",
+                "Registration": "2021-07-14T17:13:36+0000",
+                "Follow": "2021-07-14T17:16:16+0000"
+            },
+            "cID": "60ef1b40fe2c195e91e0e7a2"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "e.martinez@airemgmt.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2021-07-14T17:13:36+00:00"
+            }
+        }
+    },
+    {
+        "_id": "5d67fdbe195063fa4f95c3ac",
+        "attributes": {
+            "lastModified": "2022-12-19T15:08:49+0000",
+            "createdAt": "2019-08-29T16:30:54+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 72621,
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-08-29T14:21:45+00:00",
+                "5d52ca2b195063fa4f8cd1b3": "2019-09-02T21:02:21+00:00",
+                "60c231d0fe2c195e91200bd4": "2021-10-18T12:12:04+00:00",
+                "62fe7c89f9c34d13109a5d88": "2022-11-14T14:48:46+00:00",
+                "62fbdbe0f9c34d1310a5f4a4": "2022-12-19T15:08:29+00:00",
+                "60a2843efe2c195e9141096d": "2021-10-07T18:13:35+00:00",
+                "5efe1b7ef414222e419b7226": "2021-10-05T16:08:48+00:00",
+                "61b2751f6e1a1d121193b79f": "2022-05-04T14:06:20+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-05-21T20:36:11+00:00",
+                "5d4c5e23195063fa4f1ee51b": "2019-09-28T20:25:36+00:00",
+                "5ed56c11f414222e41f355d7": "2020-08-06T17:36:31+00:00",
+                "5d6470bb195063fa4fdda165": "2019-08-29T16:38:00+00:00",
+                "5fd144afb52f2e83d770b437": "2022-01-31T12:34:33+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-05-18T19:34:15+00:00",
+                "5e611d1afc818275eac8faa1": "2021-12-08T19:09:17+00:00",
+                "62fba5e2f9c34d1310a207a5": "2022-11-14T14:36:48+00:00"
+            },
+            "sourcearray": [],
+            "lists": [
+                "Announcements",
+                "Billionaires"
+            ],
+            "ID": "5d67fdbe195063fa4f95c3ac",
+            "listJoinDate": {
+                "Announcements": "2019-08-29T16:30:54+0000"
+            },
+            "cID": "5d67fdbe195063fa4f95c3ac"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "bdanclark7@gmail.com",
+                "subscribeStatus": "subscribed"
+            }
+        }
+    },
+    {
+        "_id": "5f9fafcb6be319c3c320d47d",
+        "attributes": {
+            "lastModified": "2022-12-19T15:20:31+0000",
+            "createdAt": "2020-11-02T07:05:47+0000",
+            "lastUpdateSource": "bulk-import",
+            "sourcearray": [
+                "presidentsday2022NL-nocontent"
+            ],
+            "follow_source": [
+                "CHPS"
+            ],
+            "followed_natural_id": [
+                "blogAuthorId/blog/author/3338193"
+            ],
+            "followed_author_slug": [
+                "jamiecartereurope"
+            ],
+            "mdtLastSent": {
+                "62f27b3cf9c34d13107d0a35": "2022-12-19T15:04:36+00:00",
+                "5df3a521a806e278173ddb2e": "2020-11-02T07:05:49+00:00",
+                "5df3a796a806e2781760c8d7": "2022-08-19T13:41:09+00:00",
+                "5d5ee150195063fa4fa1145c": "2022-08-08T18:07:28+00:00",
+                "62fbdbe0f9c34d1310a5f4a4": "2022-11-14T15:07:32+00:00",
+                "5dd5caa696566e58de6b693b": "2020-11-02T08:06:05+00:00",
+                "6051e7f9fe2c195e9151d676": "2021-06-22T19:26:19+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-05-21T20:36:28+00:00"
+            },
+            "lists": [
+                "Follow",
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-73.5561",
+                    "lat": "40.7149"
+                },
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/New_York",
+                "state": "NY",
+                "postal_code": "11554"
+            },
+            "ID": "5f9fafcb6be319c3c320d47d",
+            "listJoinDate": {
+                "Announcements": "2020-11-02T07:05:47+0000",
+                "Follow": "2020-11-02T07:05:47+0000"
+            },
+            "cID": "5f9fafcb6be319c3c320d47d"
+        },
+        "channels": {
+            "email": {
+                "address": "kermit888@gmail.com",
+                "subscribeStatus": "unsubscribed",
+                "unsubscribedAt": "2022-12-19T15:20:31+0000"
+            }
+        }
+    },
+    {
+        "_id": "63915587f9c34d131031885a",
+        "attributes": {
+            "createdAt": "2022-12-08T03:09:59+0000",
+            "lastModified": "2022-12-08T03:09:59+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "ForbesLive",
+                "Announcements"
+            ],
+            "ID": "63915587f9c34d131031885a",
+            "listJoinDate": {
+                "Announcements": "2022-12-08T03:09:59+0000",
+                "ForbesLive": "2022-12-08T03:09:59+0000"
+            },
+            "cID": "63915587f9c34d131031885a"
+        },
+        "channels": {
+            "email": {
+                "address": "chinhnguyen@kpmg.com.vn",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-08T03:09:59+00:00"
+            }
+        }
+    },
+    {
+        "_id": "638ff102f9c34d131005a7c1",
+        "attributes": {
+            "lastModified": "2022-12-07T01:50:56+0000",
+            "createdAt": "2022-12-07T01:48:50+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "mdtLastSent": {
+                "5d1ca3921802c8c5243d4e66": "2022-12-07T01:50:27+00:00"
+            },
+            "lists": [
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "638ff102f9c34d131005a7c1",
+            "listJoinDate": {
+                "Announcements": "2022-12-07T01:48:50+0000",
+                "DailyDozen": "2022-12-07T01:48:50+0000"
+            },
+            "cID": "638ff102f9c34d131005a7c1"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "lasikdjdnfndjdjd@gmail.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-07T01:48:50+00:00"
+            }
+        }
+    },
+    {
+        "_id": "63915a1ff9c34d1310df95b0",
+        "attributes": {
+            "createdAt": "2022-12-08T03:29:35+0000",
+            "lastModified": "2022-12-08T03:29:35+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "63915a1ff9c34d1310df95b0",
+            "listJoinDate": {
+                "Announcements": "2022-12-08T03:29:35+0000",
+                "DailyDozen": "2022-12-08T03:29:35+0000"
+            },
+            "cID": "63915a1ff9c34d1310df95b0"
+        },
+        "channels": {
+            "email": {
+                "address": "phamvandinh@gmail.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-08T03:29:35+00:00"
+            }
+        }
+    },
+    {
+        "_id": "639171d4f9c34d1310bfb4fa",
+        "attributes": {
+            "createdAt": "2022-12-08T05:10:44+0000",
+            "lastModified": "2022-12-08T05:10:44+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "639171d4f9c34d1310bfb4fa",
+            "listJoinDate": {
+                "Announcements": "2022-12-08T05:10:44+0000",
+                "DailyDozen": "2022-12-08T05:10:44+0000"
+            },
+            "cID": "639171d4f9c34d1310bfb4fa"
+        },
+        "channels": {
+            "email": {
+                "address": "paleta1980@hotmail.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-08T05:10:44+00:00"
+            }
+        }
+    },
+    {
+        "_id": "6391dfd4f9c34d1310c68655",
+        "attributes": {
+            "createdAt": "2022-12-08T13:00:04+0000",
+            "lastModified": "2022-12-08T13:00:04+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "Careers",
+                "Announcements"
+            ],
+            "ID": "6391dfd4f9c34d1310c68655",
+            "listJoinDate": {
+                "Announcements": "2022-12-08T13:00:04+0000",
+                "Careers": "2022-12-08T13:00:04+0000"
+            },
+            "cID": "6391dfd4f9c34d1310c68655"
+        },
+        "channels": {
+            "email": {
+                "address": "designsbyyinkaadebanjo@gmail.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-08T13:00:04+00:00"
+            }
+        }
+    },
+    {
+        "_id": "61f8498f6e1a1d12118b655f",
+        "attributes": {
+            "lastModified": "2022-12-08T00:35:21+0000",
+            "FirstName": "Arvin",
+            "sourcearray": [
+                "R8W03AS",
+                "april-mm-eng-off",
+                "UA-Careers-A",
+                "ua-active",
+                "bf-bundle-suppress"
+            ],
+            "ua_status": [
+                "ua-active"
+            ],
+            "unsubscribe": [],
+            "mdtLastSent": {
+                "5e3f03705b099ce02f2ea284": "2022-01-31T20:43:33+00:00",
+                "61b24df96e1a1d12112f08bc": "2022-02-02T20:44:20+00:00",
+                "61561d43521306d489d44d60": "2022-02-01T08:42:16+00:00"
+            },
+            "blueconic_data_date": "2022-08-16T04:00:00+00:00",
+            "geolocation": {
+                "country": "United States",
+                "loc": {
+                    "lon": "-118.244",
+                    "lat": "34.0544"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "US",
+                "tz": "America/Los_Angeles",
+                "state": "CA",
+                "postal_code": "90013"
+            },
+            "createdAt": "2022-01-31T20:41:51+0000",
+            "lastUpdateSource": "cordial",
+            "pianoId": "PNImPhVJFr6ldbk",
+            "LastName": "Ng",
+            "lists": [
+                "Registration",
+                "UnlimitedAccess",
+                "optout-marketing-consumermarketing"
+            ],
+            "ID": "61f8498f6e1a1d12118b655f",
+            "listJoinDate": {
+                "Registration": "2022-01-31T20:41:51+0000",
+                "UnlimitedAccess": "2022-01-31T20:41:58+0000",
+                "optout-marketing-consumermarketing": "2022-03-12T21:13:35+0000"
+            },
+            "cID": "61f8498f6e1a1d12118b655f"
+        },
+        "channels": {
+            "email": {
+                "address": "ayn1034@gmail.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-01-31T20:41:51+00:00"
+            }
+        }
+    },
+    {
+        "_id": "639157c9f9c34d1310a4eada",
+        "attributes": {
+            "createdAt": "2022-12-08T03:19:37+0000",
+            "lastModified": "2022-12-08T03:19:37+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "ForbesWomen",
+                "Announcements"
+            ],
+            "ID": "639157c9f9c34d1310a4eada",
+            "listJoinDate": {
+                "ForbesWomen": "2022-12-08T03:19:37+0000",
+                "Announcements": "2022-12-08T03:19:37+0000"
+            },
+            "cID": "639157c9f9c34d1310a4eada"
+        },
+        "channels": {
+            "email": {
+                "address": "sbirgen@telus.net",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-08T03:19:37+00:00"
+            }
+        }
+    },
+    {
+        "_id": "6370de21f9c34d1310d8e49d",
+        "attributes": {
+            "lastModified": "2022-12-08T12:52:24+0000",
+            "createdAt": "2022-11-13T12:08:01+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{ForbesMainTwitter}-{social}-{socialflowForbesMainTwitter}"
+            ],
+            "mdtLastSent": {
+                "5d1ca3921802c8c5243d4e66": "2022-11-13T12:08:36+00:00"
+            },
+            "lists": [
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "6370de21f9c34d1310d8e49d",
+            "listJoinDate": {
+                "Announcements": "2022-11-13T12:08:01+0000",
+                "DailyDozen": "2022-11-13T12:08:01+0000"
+            },
+            "cID": "6370de21f9c34d1310d8e49d"
+        },
+        "channels": {
+            "email": {
+                "invalid": true,
+                "address": "info@youngaccountingservice.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-11-13T12:08:01+00:00"
+            }
+        }
+    },
+    {
+        "_id": "61cc59186e1a1d12113d4369",
+        "attributes": {
+            "lastModified": "2022-12-13T11:34:42+0000",
+            "FirstName": "Gerald",
+            "mdtLastSent": {
+                "5e3f03705b099ce02f2ea284": "2021-12-29T12:50:24+00:00",
+                "5df3a796a806e2781760c8d7": "2022-09-22T12:07:18+00:00",
+                "618c4a446e1a1d12112f40d7": "2021-12-31T12:49:15+00:00",
+                "5ff4abd0b52f2e83d787f763": "2022-06-18T20:33:51+00:00",
+                "6273f86d6e1a1d121168703a": "2022-06-18T20:07:25+00:00"
+            },
+            "sourcearray": [
+                "{firefox_pocket_save_button}-{}-{}"
+            ],
+            "follow_source": [
+                "article"
+            ],
+            "followed_natural_id": [
+                "blogAuthorId/blog/author/12001"
+            ],
+            "followed_author_slug": [
+                "berniekent"
+            ],
+            "geolocation": {
+                "country": "United Kingdom",
+                "loc": {
+                    "lon": "-0.1224",
+                    "lat": "51.4964"
+                },
+                "street_address": "",
+                "auto": true,
+                "countryISO": "GB",
+                "tz": "Europe/London",
+                "state": "",
+                "postal_code": ""
+            },
+            "createdAt": "2021-12-29T12:48:24+0000",
+            "lastUpdateSource": "js",
+            "pianoId": "PNIEoXAuJr4vnix",
+            "LastName": "Mcenhill",
+            "lists": [
+                "Registration",
+                "Follow",
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "61cc59186e1a1d12113d4369",
+            "listJoinDate": {
+                "Announcements": "2022-12-13T11:34:42+0000",
+                "Registration": "2021-12-29T12:48:24+0000",
+                "Follow": "2022-06-18T20:05:24+0000",
+                "DailyDozen": "2022-12-13T11:34:42+0000"
+            },
+            "cID": "61cc59186e1a1d12113d4369"
+        },
+        "channels": {
+            "email": {
+                "address": "mcenhig@aol.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2021-12-29T12:48:24+00:00"
+            }
+        }
+    },
+    {
+        "_id": "63986657f9c34d1310edba64",
+        "attributes": {
+            "createdAt": "2022-12-13T11:47:35+0000",
+            "lastModified": "2022-12-13T11:47:35+0000",
+            "lastUpdateSource": "js",
+            "sourcearray": [
+                "{}-{}-{}"
+            ],
+            "lists": [
+                "DailyDozen",
+                "Announcements"
+            ],
+            "ID": "63986657f9c34d1310edba64",
+            "listJoinDate": {
+                "Announcements": "2022-12-13T11:47:35+0000",
+                "DailyDozen": "2022-12-13T11:47:35+0000"
+            },
+            "cID": "63986657f9c34d1310edba64"
+        },
+        "channels": {
+            "email": {
+                "address": "sjwinkler@msn.com",
+                "subscribeStatus": "subscribed",
+                "subscribedAt": "2022-12-13T11:47:35+00:00"
+            }
+        }
+    },
+    {
+        "_id": "617beecf521306d489557dfd",
+        "attributes": {
+            "lastModified": "2022-12-12T01:28:00+0000",
+            "createdAt": "2021-10-29T12:53:35+0000",
+            "lastUpdateSource": "bulk-import",
+            "ramp_number": 102921,
+            "sourcearray": [
+                "print-lapsed",
+                "print-lapsed-mem-1",
+                "print-lapsed-ld-b",
+                "print-sss-oct-lapsed-b"
+            ],
+            "print_status": [
+                "Print-Lapsed"
+            ],
+            "mdtLastSent": {
+                "5d5ee150195063fa4fa1145c": "2022-02-26T14:16:33+00:00"
+            },
+            "lists": [
+                "Announcements"
+            ],
+            "geolocation": {
+                "country": "United States of America",
+                "loc": {
+                    "lon": "-119.9521",
+                    "lat": "39.2564"
+                },
+                "auto": false,
+                "city": "Incline Village",
+                "countryISO": "US",
+                "tz": "America/Los_Angeles",
+                "state": "NV",
+                "postal_code": "89451"
+            },
+            "ID": "617beecf521306d489557dfd",
+            "listJoinDate": {
+                "Announcements": "2022-02-04T20:44:12+0000"
+            },
+            "cID": "617beecf521306d489557dfd"
+        },
+        "channels": {
+            "email": {
+                "address": "hsvp2000@msn.com",
+                "subscribeStatus": "unsubscribed",
+                "unsubscribedAt": "2022-12-12T01:28:00+0000",
+                "subscribedAt": "2021-10-29T12:53:35+00:00"
+            }
+        }
+    },
+    {
+        "_id": "637e8dc38f67e193378caf77",
+        "attributes": {
+            "createdAt": "2022-11-23T21:16:51+0000",
+            "lastModified": "2022-12-12T03:27:07+0000",
+            "lastUpdateSource": "bulk-import",
+            "mdtLastSent": {
+                "60a45495fe2c195e9174dfa8": "2022-11-23T21:16:52+00:00",
+                "5df15513a806e27817262fcf": "2022-11-23T21:20:31+00:00"
+            },
+            "lists": [
+                "Announcements",
+                "Shopping",
+                "Deals"
+            ],
+            "ID": "637e8dc38f67e193378caf77",
+            "listJoinDate": {
+                "Shopping": "2022-11-23T21:16:51+0000",
+                "Announcements": "2022-11-23T21:16:51+0000",
+                "Deals": "2022-11-23T21:16:51+0000"
+            },
+            "cID": "637e8dc38f67e193378caf77"
+        },
+        "channels": {
+            "email": {
+                "address": "ronburg65@yahoo.com",
+                "subscribeStatus": "unsubscribed",
+                "unsubscribedAt": "2022-12-12T03:27:07+0000"
+            }
+        }
+    }
+]
+
+{
+    "error": true,
+    "errorKey": "RECORD_NOT_FOUND",
+    "message": "record not found"
+}
+
+
+{
+    "_id": "617beecf521306d489557dfd",
+    "attributes": {
+        "cID": "617beecf521306d489557dfd",
+        "createdAt": "2021-10-29T12:53:35+0000",
+        "geolocation": {
+            "auto": false,
+            "city": "Incline Village",
+            "country": "United States of America",
+            "countryISO": "US",
+            "loc": {
+                "lat": "39.2564",
+                "lon": "-119.9521"
+            },
+            "postal_code": "89451",
+            "state": "NV",
+            "tz": "America/Los_Angeles"
+        },
+        "lastModified": "2022-12-12T01:28:00+0000",
+        "lastUpdateSource": "bulk-import",
+        "listJoinDate": {
+            "Announcements": "2022-02-04T20:44:12+0000",
+            "Web3_FDA_Users": "2023-11-08T07:51:39.265Z"
+        },
+        "lists": [
+            "Announcements",
+            "Web3_FDA_Users"
+        ],
+        "mdtLastSent": {
+            "5d5ee150195063fa4fa1145c": {
+                "sec": 1645884993,
+                "usec": 0
+            }
+        },
+        "print_status": [
+            "Print-Lapsed"
+        ],
+        "ramp_number": 102921,
+        "sourcearray": [
+            "print-lapsed",
+            "print-lapsed-mem-1",
+            "print-lapsed-ld-b",
+            "print-sss-oct-lapsed-b"
+        ]
+    },
+    "channels": {
+        "email": {
+            "address": "hsvp2000@msn.com",
+            "subscribeStatus": "unsubscribed",
+            "subscribedAt": "2021-10-29T12:53:35+0000",
+            "unsubscribedAt": "2022-12-12T01:28:00+0000"
+        }
+    }
+}
+
+
+// create user in cordial
+{
+    "channels": {
+      "email": {
+        "address": "",
+        "subscribeStatus": "string"
+      }
+    },
+    "attribute_key": "string",
+    "list_name": true,
+    "suppressTriggers": true,
+    "identifyBy": [
+      "email",
+      "channels.sms.address",
+      "custID"
+    ],
+    "lists": [
+        "Web3_FDA_Users"
+    ],
+}

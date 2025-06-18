@@ -1,0 +1,269 @@
+{
+    "authorGroup": {
+      "primaryAuthor": {
+        "id": "659e70c3acb2f5246e76d0a3",
+        "naturalId": "blogAuthorId/blog/author/1311599",
+        "name": "Steven Ehrlich",
+        "avatars": [
+          {
+            "size": 136,
+            "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+          },
+          {
+            "size": 40,
+            "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+          },
+          {
+            "size": 400,
+            "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+          },
+          {
+            "size": 62,
+            "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+          }
+        ],
+        "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+        "type": "Forbes Staff",
+        "profileUrl": "/sites/forbescryptoassetadvisor/",
+        "twitterName": "Steven_ehrlich",
+        "authorType": "individual",
+        "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+        "blog": false,
+        "timestamp": 1700502890865,
+        "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+        "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+        "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+        "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+        "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+        "shortUri": "http://bit.ly/2MdKvkP",
+        "contributorSince": 1406065322000,
+        "slug": "forbescryptoassetadvisor",
+        "showNoVestPocket": false,
+        "embargo": false,
+        "primaryChannelId": "channel_11",
+        "primarySectionId": "section_1914",
+        "enableContribContact": true,
+        "enableTwitterFeed": false,
+        "disableCanonical": false,
+        "disableDigest": false,
+        "inactive": false,
+        "division": "FC",
+        "allowEmail": false,
+        "seniorContributor": false,
+        "disabled": false,
+        "vendor": "EHRLST01",
+        "department": "null",
+        "acceptedVersion": "1",
+        "acceptedAt": 1606048858104,
+        "acceptedVersionV2": "2",
+        "acceptedAtV2": 1615243027555
+      },
+      "publication": {
+        "id": "659e70c3acb2f5246e76d0a4",
+        "naturalId": "blogAuthorId/blog/author/blog-6227",
+        "name": "Forbes CryptoAsset & Blockchain Advisor",
+        "avatars": [
+          {
+            "size": 40,
+            "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/40x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+          },
+          {
+            "size": 62,
+            "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/62x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+          },
+          {
+            "size": 136,
+            "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/136x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+          },
+          {
+            "size": 400,
+            "image": "https://specials-images.forbesimg.com/imageserve/60afd87c55591ea6bcebb1ca/400x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+          }
+        ],
+        "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+        "type": "Newsletter",
+        "subType": "investing",
+        "profileUrl": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+        "authorType": "newsletter",
+        "blog": true,
+        "timestamp": 1703204920677,
+        "authors": [
+          "1311599",
+          "5003018",
+          "5003987"
+        ],
+        "description": "I am director of research for digital assets at Forbes. I was recently at Kraken, a cryptocurrency exchange based in the United States. Before joining Kraken I served as Chief Operating Officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).",
+        "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-6227",
+        "primaryContributor": "blogAuthorId/blog/author/1311599",
+        "primaryContributorData": {
+          "id": "659e70c3acb2f5246e76d0a3",
+          "naturalId": "blogAuthorId/blog/author/1311599",
+          "name": "Steven Ehrlich",
+          "avatars": [
+            {
+              "size": 136,
+              "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-136x136.jpg"
+            },
+            {
+              "size": 40,
+              "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-40x40.jpg"
+            },
+            {
+              "size": 400,
+              "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-400x400.jpg"
+            },
+            {
+              "size": 62,
+              "image": "https://blogs-images.forbes.com/forbescryptoassetadvisor/files/2020/09/Steven-Ehrlich_avatar_1600885578-62x62.jpg"
+            }
+          ],
+          "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor",
+          "type": "Forbes Staff",
+          "profileUrl": "/sites/forbescryptoassetadvisor/",
+          "twitterName": "Steven_ehrlich",
+          "authorType": "individual",
+          "linkedIn": "https://www.linkedin.com/in/steven-ehrlich-57a4b772/",
+          "blog": false,
+          "timestamp": 1700502890865,
+          "shortBio": "Director of FDA; Editor, Forbes CryptoAsset & Blockchain Advisor.",
+          "webSite": "https://www.forbes.com/sites/stevenehrlich/?sh=7745746d2ce4",
+          "blogName": "Forbes CryptoAsset & Blockchain Advisor",
+          "description": "<p>I am director of research for digital assets at Forbes and editor of <a href=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbescryptoassetadvisor/\"><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></a><em>. </em>Prior to this I was at Kraken, a cryptocurrency exchange based in the U.S. Before joining Kraken I served as chief operating officer at the Wall Street Blockchain Alliance, a non-profit trade association dedicated to the comprehensive adoption of cryptocurrencies and blockchain technologies across global markets. Before joining the WSBA, I was the Lead Associate within the Emerging Technologies practice at Spitzberg Partners, a boutique corporate advisory firm that advises leading firms across industries on blockchain technology. Previously I was Vice President/Lead Strategy Analyst at Citi FinTech, where I drove strategic and new business development initiatives for Citigroup’s Global Retail and Consumer Bank business across 20 countries. I also served five years as a Senior Intelligence Analyst at Booz Allen Hamilton supporting the U.S. Department of Defense. I have a B.S. in Business Administration from the Tepper School of Business at Carnegie Mellon University and a M.A. in International Affairs from Columbia University's School of International and Public Affairs. Additionally, I am a Certified Information Privacy Professional (United States, Canada, and the European Union) and a Certified Information Privacy Technologist at the International Association of Privacy Professionals (IAPP).</p>",
+          "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-7442",
+          "shortUri": "http://bit.ly/2MdKvkP",
+          "contributorSince": 1406065322000,
+          "slug": "forbescryptoassetadvisor",
+          "showNoVestPocket": false,
+          "embargo": false,
+          "primaryChannelId": "channel_11",
+          "primarySectionId": "section_1914",
+          "enableContribContact": true,
+          "enableTwitterFeed": false,
+          "disableCanonical": false,
+          "disableDigest": false,
+          "inactive": false,
+          "division": "FC",
+          "allowEmail": false,
+          "seniorContributor": false,
+          "disabled": false,
+          "vendor": "EHRLST01",
+          "department": "null",
+          "acceptedVersion": "1",
+          "acceptedAt": 1606048858104,
+          "acceptedVersionV2": "2",
+          "acceptedAtV2": 1615243027555
+        },
+        "shortUri": "http://bit.ly/2Li4i1i",
+        "contributorSince": 1534963320000,
+        "slug": "forbescryptoassetadvisor",
+        "showNoVestPocket": false,
+        "embargo": false,
+        "primaryChannelId": "channel_11",
+        "primarySectionId": "section_1914",
+        "enableContribContact": false,
+        "pubCode": "F8",
+        "enableTwitterFeed": false,
+        "disableCanonical": false,
+        "disableDigest": false,
+        "freeESPNewsletter": false,
+        "fullTextEmail": false,
+        "inactive": false,
+        "allowEmail": false,
+        "previousAuthorData": {
+          "blog": false,
+          "allowEmail": false
+        },
+        "staticPages": [
+          {
+            "id": "607d8dc09d9fd3000601d121",
+            "url": "https://www.forbes.com/newsletters/forbescryptoassetadvisor/2021/04/19/forbes-cryptoasset--blockchain-advisor-portfolio-tracker/",
+            "label": "Full Portfolio"
+          }
+        ],
+        "resourceId": "FIN_CRY",
+        "pianoModalIds": {
+          "lander": {
+            "offerId": "",
+            "templateId": "",
+            "templateVariantId": ""
+          },
+          "article": {
+            "offerId": "OFPFJ5BTBW1B",
+            "templateId": "OT9RV5A7OMZV",
+            "templateVariantId": "OTVTLN0D1JL1Q"
+          }
+        },
+        "emails": {
+          "welcome-preview": {
+            "isDefault": false,
+            "type": "welcome",
+            "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+            "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+            "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+            "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+            "source": "forbespress"
+          },
+          "welcome": {
+            "isDefault": false,
+            "type": "welcome",
+            "subject": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+            "title": "Welcome To Forbes CryptoAsset & Blockchain Advisor",
+            "body": "<p>Congratulations! By subscribing to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>&nbsp;you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.</p><p>As editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. </p><p>We're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.</p><p>By becoming a subscriber to the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>, you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.</p><p>Each issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.</p><p>I hope you enjoy the&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong>. Welcome aboard!</p><p>Sincerely,</p><p>Steve Ehrlich</p><p>Editor,&nbsp;<strong><em>Forbes CryptoAsset &amp; Blockchain Advisor</em></strong></p>",
+            "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Congratulations! By subscribing to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\" you've taken a bold step towards financial success and improving your knowledge of bitcoin, crypto assets and blockchain technology.\\nAs editor of the advisory, I'd like to personally thank you for your support and confidence in our publication. I'd also like to congratulate you on your timing as our team believes we're entering an exciting and potentially very profitable phase in the evolution and acceptance of crypto assets and blockchain technology in society. \\nWe're now seeing increased acceptance of bitcoin and other crypto assets, such as ether, which is driving the new decentralized finance (DeFi) movement. This is a growing space where, as of this writing, more than $80 billion has been transacted in a new financial system that provides activities for borrowing, lending and earning interest on crypto assets. We're also seeing established firms like Walmart, Amazon and IBM implementing blockchain-based projects for critical business operations such as supply chain, food safety and improved record keeping.\\nBy becoming a subscriber to the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\", you'll get access to in-depth information on topics and events not being covered by mainstream financial outlets so you can benefit as both a crypto asset and equity investor.\\nEach issue provides insight and comprehensive content on the activities in this space, plus interviews with the movers and shakers driving innovation and our proprietary research that drives the decision making process around our crypto asset blockchain portfolios.\\nI hope you enjoy the \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\". Welcome aboard!\\nSincerely,\\nSteve Ehrlich\\nEditor, \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes CryptoAsset & Blockchain Advisor\"},{\"insert\":\"\\n\"}]}",
+            "source": "forbespress"
+          }
+        },
+        "contentPaywall": "metered"
+      },
+      "coAuthors": [
+        
+      ]
+    },
+    "authors": [
+      
+    ],
+    "bertieBadges": [
+      
+    ],
+    "comments": [
+      
+    ],
+    "date": 1702651913664,
+    "description": "Solana ecosystem tokens are surging, but that does not mean that you should dive in.",
+    "doNotPaginate": false,
+    "image": "https://specials-images.forbesimg.com/imageserve/657c58ed88e798230898bf36/960x0.jpg",
+    "primaryChannel": {
+      "id": "channel_11",
+      "channelId": "channel_11",
+      "channelName": "Newsletters",
+      "url": "/newsletters-old",
+      "showAds": false,
+      "showLicenseOptions": false,
+      "showSpreadsheetButton": false,
+      "enableComments": false,
+      "badges": [
+        
+      ],
+      "hexValue": "#887411",
+      "secondaryHexValue": "#e1d599",
+      "showQotd": false
+    },
+    "primaryChannelId": "channel_11",
+    "type": "newsletter",
+    "uri": "http://www.forbes.com/newsletters/forbescryptoassetadvisor/2023/12/15/sol-and-steady-wins-the-race/",
+    "author": "Steven Ehrlich",
+    "channelSection": [
+      {
+        "channelId": "channel_11"
+      },
+      {
+        "channelId": "channel_11",
+        "sectionId": "section_1914"
+      }
+    ],
+    "hideDescription": false,
+    "id": "content_657c58cd888a6f4d2a96dd32",
+    "naturalId": "blogAndPostId/blog/post/6227-657c58cd888a6f4d2a96dd32",
+    "sponsored": false,
+    "title": "SOL And Steady Wins The Race"
+  }

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "id",
+        "type": "STRING"
+    },
+    {
+        "name": "name",
+        "type": "STRING"
+    },
+    {
+        "name": "total_tokens",
+        "type": "INTEGER"
+    },
+    {
+        "name": "percentage_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "volume_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "price_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "market_cap_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "market_cap_percentage_change",
+        "type": "FLOAT"
+    },
+    {
+        "name": "index_price_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "market_cap_weight_index",
+        "type": "FLOAT"
+    },
+    {
+        "name": "market_cap_24h_index",
+        "type": "FLOAT"
+    },
+    {
+        "name": "market_cap_index_percentage_24h",
+        "type": "FLOAT"
+    },
+    {
+        "name": "divisor",
+        "type": "FLOAT"
+    },
+    {
+        "name": "top_gainers",
+        "type": "RECORD",
+        "mode": "REPEATED",
+        "fields": [
+            {
+                "name": "logo",
+                "type": "STRING"
+            },
+            {
+                "name": "symbol",
+                "type": "STRING"
+            },
+            {
+                "name": "slug",
+                "type": "STRING"
+            },
+            {
+                "name": "market_cap",
+                "type": "FLOAT"
+            }
+        ]
+        
+    },
+    {
+        "name": "Date",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "row_last_updated",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "created_at",
+        "type": "TIMESTAMP"
+    }
+]

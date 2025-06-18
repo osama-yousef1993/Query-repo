@@ -1,0 +1,109 @@
+
+input EntityTypesAggregateIn {
+  labels: [EntityLabels]
+  mostRelevantLabel: String
+  _profileComplete: Boolean
+  allowAccolades: Boolean
+  altDescription: String
+  cars: String
+  ceoCompensations: Float
+  ceoName: String
+  ceoTitle: String
+  cfoName: String
+  championships: String
+  changeBy: String
+  changeDate: Float
+  city: String
+  coachImageUrl: String
+  coachName: String
+  collegeMediaWebsite: String
+  country: String
+  crewChiefImageUrl: String
+  crewChiefName: String
+  dailyContentCount: BigInt
+  daylifeId: String
+  description: String
+  email: String
+  embargo: Boolean
+  employees: BigInt
+  exchange: String
+  fuelId: String
+  geoLocationLatitude: Float
+  geoLocationLongitude: Float
+  image: String
+  industries: String
+  industry: String
+  keyPlayerImageUrl: String
+  keyPlayerName: String
+  landscapeImage: String
+  latestContentDate: BigInt
+  latitude: Float
+  league: String
+  longitude: Float
+  manufacturer: String
+  name: String
+  naturalId: String
+  parentOrganizationNaturalId: String
+  partnerBrandSlug: String
+  phoneNumber: String
+  placeUri: String
+  portraitImage: String
+  premiumProfile: Boolean
+  quantalyticsBasket: String
+  quantalyticsExchange: String
+  quantalyticsFactorScore: String
+  quantalyticsGrowth: String
+  quantalyticsMomentumVolatility: String
+  quantalyticsQualityValue: String
+  quantalyticsTechnical: String
+  quantalyticsTicker: String
+  quantalyticsTimestamp: BigInt
+  recentContentCount: BigInt
+  relatedVisible: Boolean
+  squareImage: String
+  state: String
+  stateCode: String
+  street: String
+  street2: String
+  street3: String
+  subType: String
+  ticker: String
+  typeLabel: [String]
+  typeSlug: [String]
+  uri: String
+  uris: [String]
+  venueAvgTicketPrice: Float
+  venueCapacity: BigInt
+  venueConcessionaire: String
+  venueCostToBuild: Float
+  venueImageUrl: String
+  venueName: String
+  venueOwner: String
+  venueRenovated: Boolean
+  venueYearOpened: BigInt
+  visible: Boolean
+  webSite: String
+  yearFounded: BigInt
+  youTubePlayList: String
+  zipCode: String
+}
+
+type AttributeUpdateResult {
+  attributeName: String! # The name of the attribute being updated
+  result: String!        # The result of the update (e.g., "success")
+}
+
+
+type updateEntitiesResponse {
+  result: [AttributeUpdateResult!]! # A list of attribute update results
+  success: Boolean!                 # The success status of the query
+}
+
+
+type Mutation {
+  updateEntityRelationship(
+    sourceFuelId: String!
+    targetFuelId: String!
+    relationshipType: String!
+  ): updateEntitiesResponse!
+}

@@ -1,0 +1,9 @@
+name: Deploy to Dev
+on:
+    push:
+        branches:
+            - main
+jobs:
+    deploy-dev:
+        name: Deploy
+        runs-on: ubuntu-latest

@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Direct TS Debug",
+      "program": "${workspaceFolder}/workspace/containers/api/app/src/index.ts",
+      "cwd": "${workspaceFolder}/workspace/containers/api/app",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "sourceMaps": true,
+      "internalConsoleOptions": "openOnSessionStart",
+      "skipFiles": ["<node_internals>/"],
+      "outFiles": ["${workspaceFolder}/workspace/containers/api/app/dist//*.js"]
+    }
+  ]
+}

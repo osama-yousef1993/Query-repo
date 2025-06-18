@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Id",
+        "type": "STRING"
+    },
+    {
+        "name": "OriginalSymbol",
+        "type": "STRING"
+    },
+    {
+        "name": "Name",
+        "type": "STRING"
+    },
+    {
+        "name": "Description",
+        "type": "STRING"
+    },
+    {
+        "name": "WebsiteUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "LogoUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "BlogUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "DiscordUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "FacebookUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "GithubUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "MediumUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "RedditUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "TelegramUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "TwitterUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "WhitepaperUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "YoutubeUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "LinkedinUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "BitcointalkUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "BlockExplorerUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "ReplacedBy",
+        "type": "STRING"
+    },
+    {
+        "name": "MarketsCount",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "CryptocontrolCoinId",
+        "type": "STRING"
+    },
+    {
+        "name": "UsedForPricing",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "PlatformCurrencyId",
+        "type": "STRING"
+    }
+]

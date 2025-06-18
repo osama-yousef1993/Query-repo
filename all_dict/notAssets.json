@@ -1,0 +1,505 @@
+[
+    {
+        "Topics": {
+            "Binance": [
+                {
+                    "symbol": "binance-usd",
+                    "name": "Binance USD",
+                    "slug": "binance-usd-busd"
+                },
+                {
+                    "symbol": "binance-multi-chain-capital",
+                    "name": "Binance Multi-Chain Capital",
+                    "slug": "binance-multi-chain-capital-bmcc"
+                },
+                {
+                    "symbol": "binance-eth",
+                    "name": "Binance ETH staking",
+                    "slug": "binance-eth-staking-beth"
+                },
+                {
+                    "symbol": "binance-peg-litecoin",
+                    "name": "Binance-Peg Litecoin",
+                    "slug": "binance-peg-litecoin-ltc"
+                },
+                {
+                    "symbol": "binance-peg-busd",
+                    "name": "Binance-Peg BUSD",
+                    "slug": "binance-peg-busd-busd"
+                },
+                {
+                    "symbol": "binance-bitcoin",
+                    "name": "Binance Bitcoin",
+                    "slug": "binance-bitcoin-btcb"
+                },
+                {
+                    "symbol": "binance-peg-firo",
+                    "name": "Binance-Peg Firo",
+                    "slug": "binance-peg-firo-firo"
+                },
+                {
+                    "symbol": "binance-peg-bitcoin-cash",
+                    "name": "Binance-Peg Bitcoin Cash",
+                    "slug": "binance-peg-bitcoin-cash-bch"
+                },
+                {
+                    "symbol": "binance-wrapped-dot",
+                    "name": "Binance Wrapped DOT",
+                    "slug": "binance-wrapped-dot-bdot"
+                },
+                {
+                    "symbol": "binance-peg-avalanche",
+                    "name": "Binance-Peg Avalanche",
+                    "slug": "binance-peg-avalanche-avax"
+                },
+                {
+                    "symbol": "binance-peg-cardano",
+                    "name": "Binance-Peg Cardano",
+                    "slug": "binance-peg-cardano-ada"
+                },
+                {
+                    "symbol": "binance-smart-chain-girl",
+                    "name": "Binance Smart Chain Girl",
+                    "slug": "binance-smart-chain-girl-bscgirl"
+                },
+                {
+                    "symbol": "binance-peg-eos",
+                    "name": "Binance-Peg EOS",
+                    "slug": "binance-peg-eos-eos"
+                },
+                {
+                    "symbol": "binance-peg-polkadot",
+                    "name": "Binance-Peg Polkadot",
+                    "slug": "binance-peg-polkadot-dot"
+                },
+                {
+                    "symbol": "binance-wrapped-btc",
+                    "name": "Binance Wrapped BTC",
+                    "slug": "binance-wrapped-btc-bbtc"
+                },
+                {
+                    "symbol": "binance-peg-iotex",
+                    "name": "Binance-Peg IoTeX",
+                    "slug": "binance-peg-iotex-iotx"
+                },
+                {
+                    "symbol": "binance-coin-wormhole",
+                    "name": "Binance Coin (Wormhole)",
+                    "slug": "binance-coin-(wormhole)-bnb"
+                },
+                {
+                    "symbol": "binance-peg-ontology",
+                    "name": "Binance-Peg Ontology",
+                    "slug": "binance-peg-ontology-ont"
+                },
+                {
+                    "symbol": "binance-peg-filecoin",
+                    "name": "Binance-Peg Filecoin",
+                    "slug": "binance-peg-filecoin-fil"
+                },
+                {
+                    "symbol": "binance-peg-xrp",
+                    "name": "Binance-Peg XRP",
+                    "slug": "binance-peg-xrp-xrp"
+                },
+                {
+                    "symbol": "binance-peg-dogecoin",
+                    "name": "Binance-Peg Dogecoin",
+                    "slug": "binance-peg-dogecoin-doge"
+                }
+            ]
+        },
+        "resultLength": 21
+    },
+    {
+        "Topics": {
+            "Circle": [
+                {
+                    "symbol": "circlepod",
+                    "name": "Circlepod",
+                    "slug": "circlepod-cpx"
+                },
+                {
+                    "symbol": "circleswap",
+                    "name": "CircleSwap",
+                    "slug": "circleswap-cir"
+                }
+            ]
+        },
+        "resultLength": 2
+    },
+    {
+        "Topics": {
+            "Gaming": [
+                {
+                    "symbol": "gaming-stars",
+                    "name": "Gaming Stars",
+                    "slug": "gaming-stars-games"
+                },
+                {
+                    "symbol": "gaming-doge",
+                    "name": "Gaming Doge",
+                    "slug": "gaming-doge-gamingdoge"
+                },
+                {
+                    "symbol": "gamingshiba",
+                    "name": "GamingShiba",
+                    "slug": "gamingshiba-gamingshiba"
+                }
+            ]
+        },
+        "resultLength": 3
+    },
+    {
+        "Topics": {
+            "Miners": [
+                {
+                    "symbol": "minersdefi",
+                    "name": "MinersDefi",
+                    "slug": "minersdefi-miners"
+                },
+                {
+                    "symbol": "miners-of-kadenia",
+                    "name": "Miners of Kadenia",
+                    "slug": "miners-of-kadenia-mok"
+                }
+            ]
+        },
+        "resultLength": 2
+    },
+    {
+        "Topics": {
+            "NFT": [
+                {
+                    "symbol": "nft-worlds",
+                    "name": "NFT Worlds",
+                    "slug": "nft-worlds-wrld"
+                },
+                {
+                    "symbol": "nftx",
+                    "name": "NFTX",
+                    "slug": "nftx-nftx"
+                },
+                {
+                    "symbol": "nftbooks",
+                    "name": "NFTBooks",
+                    "slug": "nftbooks-nftbs"
+                },
+                {
+                    "symbol": "nftb",
+                    "name": "NFTb",
+                    "slug": "nftb-nftb"
+                },
+                {
+                    "symbol": "nft-index",
+                    "name": "NFT Index",
+                    "slug": "nft-index-nfti"
+                },
+                {
+                    "symbol": "nfty-token",
+                    "name": "NFTY",
+                    "slug": "nfty-nfty"
+                },
+                {
+                    "symbol": "nft-art-finance",
+                    "name": "NFT Art Finance",
+                    "slug": "nft-art-finance-nftart"
+                },
+                {
+                    "symbol": "nftrade",
+                    "name": "NFTrade",
+                    "slug": "nftrade-nftd"
+                },
+                {
+                    "symbol": "nftlaunch",
+                    "name": "NFTLaunch",
+                    "slug": "nftlaunch-nftl"
+                },
+                {
+                    "symbol": "nft-protocol",
+                    "name": "NFT Protocol",
+                    "slug": "nft-protocol-nft"
+                },
+                {
+                    "symbol": "nft-platform-index",
+                    "name": "NFT Platform Index",
+                    "slug": "nft-platform-index-nftp"
+                },
+                {
+                    "symbol": "nftify",
+                    "name": "NFTify",
+                    "slug": "nftify-n1"
+                },
+                {
+                    "symbol": "nft-stars",
+                    "name": "NFT Stars",
+                    "slug": "nft-stars-nfts"
+                },
+                {
+                    "symbol": "nftmall",
+                    "name": "NFTmall",
+                    "slug": "nftmall-gem"
+                },
+                {
+                    "symbol": "nft-soccer-games",
+                    "name": "NFT Soccer Games",
+                    "slug": "nft-soccer-games-nfsg"
+                },
+                {
+                    "symbol": "nft-alley",
+                    "name": "NFT Alley",
+                    "slug": "nft-alley-alley"
+                },
+                {
+                    "symbol": "nftblackmarket",
+                    "name": "NFTBlackmarket",
+                    "slug": "nftblackmarket-nbm"
+                },
+                {
+                    "symbol": "nft-tone",
+                    "name": "NFT Tone",
+                    "slug": "nft-tone-tone"
+                },
+                {
+                    "symbol": "nft2stake",
+                    "name": "NFT2STAKE",
+                    "slug": "nft2stake-nft2$"
+                },
+                {
+                    "symbol": "nft-tech",
+                    "name": "NFT Tech",
+                    "slug": "nft-tech-nftt"
+                },
+                {
+                    "symbol": "nftfundart",
+                    "name": "NFTFundArt",
+                    "slug": "nftfundart-nfa"
+                },
+                {
+                    "symbol": "nft-starter",
+                    "name": "NFT Starter",
+                    "slug": "nft-starter-nst"
+                },
+                {
+                    "symbol": "nft-champions",
+                    "name": "NFT Champions",
+                    "slug": "nft-champions-champ"
+                },
+                {
+                    "symbol": "nft11",
+                    "name": "NFT11",
+                    "slug": "nft11-nft11"
+                },
+                {
+                    "symbol": "nftbomb",
+                    "name": "NFTBomb",
+                    "slug": "nftbomb-nbp"
+                },
+                {
+                    "symbol": "nftpunk-finance",
+                    "name": "NFTPunk.Finance",
+                    "slug": "nftpunk.finance-nftpunk"
+                },
+                {
+                    "symbol": "nftearth",
+                    "name": "NFTEarth",
+                    "slug": "nftearth-nfte"
+                },
+                {
+                    "symbol": "nftcloud",
+                    "name": "NFTCloud",
+                    "slug": "nftcloud-cloud"
+                },
+                {
+                    "symbol": "nftpad",
+                    "name": "NFTPad",
+                    "slug": "nftpad-nftpad"
+                },
+                {
+                    "symbol": "nifty-token",
+                    "name": "NFTY DeFi Protocol",
+                    "slug": "nfty-defi-protocol-nfty"
+                },
+                {
+                    "symbol": "nftascii",
+                    "name": "NFTASCII",
+                    "slug": "nftascii-nftascii"
+                },
+                {
+                    "symbol": "nftmart-token",
+                    "name": "NFTMart",
+                    "slug": "nftmart-nmt"
+                },
+                {
+                    "symbol": "nftdeli",
+                    "name": "NFTDeli",
+                    "slug": "nftdeli-deli"
+                },
+                {
+                    "symbol": "nftstyle",
+                    "name": "NFTStyle",
+                    "slug": "nftstyle-nftstyle"
+                },
+                {
+                    "symbol": "nft-global-platform",
+                    "name": "NFT Global Platform",
+                    "slug": "nft-global-platform-nftg"
+                },
+                {
+                    "symbol": "nftwiki",
+                    "name": "NFTWiki",
+                    "slug": "nftwiki-nftk"
+                },
+                {
+                    "symbol": "nftcircle",
+                    "name": "NFTCircle",
+                    "slug": "nftcircle-nftc"
+                },
+                {
+                    "symbol": "nftdao",
+                    "name": "NFTDAO",
+                    "slug": "nftdao-nao"
+                }
+            ]
+        },
+        "resultLength": 38
+    },
+    {
+        "Topics": {
+            "Polychain": [
+                {
+                    "symbol": "polychain-monsters",
+                    "name": "Polychain Monsters",
+                    "slug": "polychain-monsters-pmon"
+                },
+                {
+                    "symbol": "polychain-monsters-genesis",
+                    "name": "Polychain Monsters Genesis",
+                    "slug": "polychain-monsters-genesis-pmlg"
+                }
+            ]
+        },
+        "resultLength": 2
+    },
+    {
+        "Topics": {
+            "Web3": [
+                {
+                    "symbol": "web3tools",
+                    "name": "Web3Tools",
+                    "slug": "web3tools-web3t"
+                },
+                {
+                    "symbol": "web3-doge",
+                    "name": "Web3 Doge",
+                    "slug": "web3-doge-web3"
+                },
+                {
+                    "symbol": "web3-betting",
+                    "name": "Web3 Betting",
+                    "slug": "web3-betting-w3b"
+                },
+                {
+                    "symbol": "web3shot",
+                    "name": "Web3Shot",
+                    "slug": "web3shot-w3s"
+                },
+                {
+                    "symbol": "web3gold",
+                    "name": "Web3Gold",
+                    "slug": "web3gold-wrb3g"
+                },
+                {
+                    "symbol": "web3camp",
+                    "name": "Web3Camp",
+                    "slug": "web3camp-3p"
+                }
+            ]
+        },
+        "resultLength": 6
+    },
+    {
+        "Topics": {
+            "Cosmos": [
+                {
+                    "symbol": "cosmos",
+                    "name": "Cosmos Hub",
+                    "slug": "cosmos-hub-atom"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "USDT": [
+                {
+                    "symbol": "usdt-yvault",
+                    "name": "USDT yVault",
+                    "slug": "usdt-yvault-yvusdt"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "USDC": [
+                {
+                    "symbol": "usdc-yvault",
+                    "name": "USDC yVault",
+                    "slug": "usdc-yvault-yvusdc"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "Riot": [
+                {
+                    "symbol": "riot-racers",
+                    "name": "Riot Racers",
+                    "slug": "riot-racers-riot"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "Microsoft": [
+                {
+                    "symbol": "microsoft-tokenized-stock-defichain",
+                    "name": "Microsoft Tokenized Stock Defichain",
+                    "slug": "microsoft-tokenized-stock-defichain-dmsft"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "Kraken": [
+                {
+                    "symbol": "krakenpad",
+                    "name": "Krakenpad",
+                    "slug": "krakenpad-krp"
+                }
+            ]
+        },
+        "resultLength": 1
+    },
+    {
+        "Topics": {
+            "Gemini": [
+                {
+                    "symbol": "gemini-dollar",
+                    "name": "Gemini Dollar",
+                    "slug": "gemini-dollar-gusd"
+                }
+            ]
+        },
+        "resultLength": 1
+    }
+]

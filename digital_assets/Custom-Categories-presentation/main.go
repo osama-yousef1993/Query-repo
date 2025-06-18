@@ -1,0 +1,1 @@
+build.Handle("/custom-categories-fs", oidcAuthMiddleware.Middleware(http.HandlerFunc(microservices.BuildCustomCategoriesDataFSTest))).Methods(http.MethodPost)

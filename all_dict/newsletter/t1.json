@@ -1,0 +1,1657 @@
+{
+    "authorGroup": {
+        "primaryAuthor": {
+            "id": "659faec6acb2f5246e5a3858",
+            "naturalId": "blogAuthorId/blog/author/95",
+            "name": "John Dobosz",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/40x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/62x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/136x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/400x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                }
+            ],
+            "url": "https://www.forbes.com/sites/johndobosz",
+            "type": "Forbes Staff",
+            "profileUrl": "/sites/johndobosz/",
+            "twitterName": "doboszj",
+            "authorType": "individual",
+            "linkedIn": "https://www.linkedin.com/in/johndobosz/",
+            "blog": false,
+            "timestamp": 1683560360682,
+            "shortBio": "I focus on dividends, options income, and billionaires.",
+            "blogName": "John Dobosz",
+            "topics": [
+                "markets",
+                "stocks",
+                "investing",
+                "intelligent-investing",
+                "etfs",
+                "wall-street",
+                "business",
+                "international",
+                "small-business-roundtable",
+                "powering-productivity",
+                "options"
+            ],
+            "recentFlag": false,
+            "description": "<p>I am the editor of three Forbes investment newsletters: <a href=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\"><em>Forbes Dividend Investor</em></a>, <a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\"><em>Forbes Billionaire Investor</em></a> and covered call writing advisory service,&nbsp;<a href=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\"><em>Forbes Premium Income Report</em></a>.   Prior to joining Forbes in 2001, I was a producer and reporter at CNN Financial News, focusing on stories about entrepreneurship.&nbsp; I've also worked as a field producer for Bloomberg TV in New York, and as a reporter/researcher at Inc. Magazine in Boston. Born in Tampa and raised across the bay, I graduated&nbsp;n 1990 from the University of Florida with a B.S. in business administration with a concentration in finance.&nbsp;</p>",
+            "recentActivityCount": 0,
+            "latestActivityDate": 1443116400000,
+            "dailyActivityCount": 0,
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-974",
+            "shortUri": "http://onforb.es/12liPxY",
+            "displayChannel": "investing",
+            "displaySection": "markets",
+            "contributorSince": 1264037180000,
+            "slug": "johndobosz",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_72",
+            "primarySectionId": "section_1089",
+            "enableContribContact": true,
+            "enableTwitterFeed": false,
+            "instagramHandle": "johndobosz",
+            "disableCanonical": false,
+            "disableDigest": false,
+            "forbesTwitterProfile": {
+                "screenName": "doboszj",
+                "name": "doboszj",
+                "profileImageUrl": "http://pbs.twimg.com/profile_images/226991363/MVI_0706.jpg",
+                "description": "Markets editor, Forbes; Been at Bloomberg, CNN, Inc. Magazine and love 'em all.",
+                "createdDate": 1228580838000,
+                "location": "",
+                "url": "http://t.co/uMl1fOK09D",
+                "expandedUrl": "http://blogs.forbes.com/johndobosz/",
+                "displayUrl": "blogs.forbes.com/johndobosz/",
+                "verified": false
+            },
+            "inactive": true,
+            "division": "FC",
+            "allowEmail": false,
+            "disabled": false
+        },
+        "publication": {
+            "id": "659faec6acb2f5246e5a3859",
+            "naturalId": "blogAuthorId/blog/author/blog-3198",
+            "name": "Forbes Premium Income Report",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/40x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/62x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/136x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/400x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+            "type": "Newsletter",
+            "subType": "investing",
+            "profileUrl": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+            "authorType": "newsletter",
+            "tagName": "Forbes Premium Income Report alerts readers to opportunities to earn income from selling equity options.",
+            "blog": true,
+            "timestamp": 1682626555196,
+            "webSite": "https://false",
+            "topics": [
+                "powering-productivity",
+                "markets",
+                "personal-finance",
+                "stocks",
+                "options",
+                "investing"
+            ],
+            "authors": [
+                "95"
+            ],
+            "description": "<p>Not a day passes that I don’t scour the market for opportunities in stocks and equity options. As editor of the Forbes Dividend Investor newsletter service, I send out new rankings every Friday with the best 25 current buys. These stocks have safe and generous yields, usually near 4%. My picks have beaten the market since I started sending them out in July 2012. On Tuesday and Thursday, as editor of Forbes Premium Income Report I send out two income-generating options trades.\nOutside of newsletters, I'm also responsible for money and investing coverage on Forbes.com. In 2003 I launched Forbes Stock of the Week and made more than 350 picks through 2010 based on fundamental and technical analysis. I’ve been at Forbes since 2001, originally coming here to do e-learning. I spent five years with CNN Financial News working with Lou Dobbs, where I produced long-form pieces and reported on management, entrepreneurship and financial markets. I've also worked at Bloomberg TV and Inc. magazine. I’m a native Floridian and graduated from the University of Florida with a bachelor of science degree in finance.\n\nThree years ago we introduced a breakthrough advisory for options investors and Forbes Premium Income Report has proven to be a grand–slam winner with…\n\n• $10,810 on an Aetna trade\n• $8,075 on a Valero Energy trade\n• $6,340 on a Gilead Sciences trade\n• $4,620 on an Abercrombie & Fitch trade\n• $4,820 on a Wells Fargo & Co trade\n• $3,590 on a Hi–Crush Partners LP trade\n• $2,750 on an Expedia trade\n• $2,710 on a Facebook trade\n\nThese are actual Forbes Premium Income Report trades.\n\nIn 2016, we made money on 111 out of 112 closed trades. That's more than a 99% success rate!\n\nThe results have exceeded our highest expectations and have made a real difference in the financial success of our subscribers.\n\nBut you haven't been with us to enjoy this phenomenal success. Today, I want to change that. To celebrate our market–stomping gains, we've decided to reopen our Founding Member offer for a very limited time.\n\nForbes Premium Income Report invests in quality stocks only—stocks that we don't mind owning in the first place. As a member, you get two exceptional investments every Tuesday and Thursday. We make our money by selling call and put options on these investments.\n\nSee for yourself the kind of cash Forbes Premium Income Report can bring you without risking a dime. If, after exploring the service for a month, you decide it's not for you, simply let us know and we'll refund the entire balance of your subscription. No hassles, no questions asked.</p>",
+            "showRelated": true,
+            "recentActivityCount": 0,
+            "dailyActivityCount": 0,
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-3198",
+            "primaryContributor": "blogAuthorId/blog/author/1250778",
+            "primaryContributorData": {
+                "id": "659faec6acb2f5246e5a385a",
+                "naturalId": "blogAuthorId/blog/author/1250778",
+                "name": "John Dobosz",
+                "avatars": [
+                    {
+                        "size": 136,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-136x136.jpg"
+                    },
+                    {
+                        "size": 40,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-40x40.jpg"
+                    },
+                    {
+                        "size": 400,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-400x400.jpg"
+                    },
+                    {
+                        "size": 62,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-62x62.jpg"
+                    }
+                ],
+                "url": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+                "type": "Newsletter",
+                "profileUrl": "/sites/forbes-premium-income-report/",
+                "authorType": "newsletter",
+                "tagName": "Forbes Dividend Investor identifies undervalued stocks with above-average dividend yields.",
+                "blog": false,
+                "timestamp": 1601656657579,
+                "webSite": "http://www.forbes.com/sites/johndobosz/",
+                "blogName": "Forbes Premium Income Report",
+                "topics": [
+                    "powering-productivity",
+                    "markets",
+                    "stocks",
+                    "investing"
+                ],
+                "description": "Not a day passes that I don’t scour the market for opportunities in stocks and equity options. As editor of the <i>Forbes Dividend Investor</i> newsletter service, I send out new rankings every Friday with the best 25 current buys. These stocks have safe and generous yields, usually averaging 4.5%. My picks have beaten the market since I started sending them out in July 2012. On Tuesday and Thursday, as editor of <i>Forbes Premium Income Report</i> I recommend income-generating options trades. <p><p>\r\nOutside of newsletters, I'm also responsible for money and investing coverage on Forbes.com. In 2003 I launched <i>Forbes Stock of the Week</i> and made more than 350 picks through 2010 based on fundamental and technical analysis. I’ve been at Forbes since 2001, originally coming here to do e-learning. I spent five years with CNN Financial News working with Lou Dobbs, where I produced long-form pieces and reported on management, entrepreneurship and financial markets. I've also worked at Bloomberg TV and <i>Inc</i>. magazine. I’m a native Floridian and graduated from the University of Florida with a bachelor of science degree in finance.<p><p>\r\n\r\nThree years ago we introduced a breakthrough advisory for options investors and <em>Forbes Premium Income Report</em> has proven to be a grand–slam winner with… <p><p>\r\n\r\n• $10,810 on an Aetna trade<br>\r\n• $8,075 on a Valero Energy trade<br>\r\n• $6,340 on a Gilead Sciences trade<br>\r\n• $4,620 on an Abercrombie &amp; Fitch trade<br>\r\n• $4,820 on a Wells Fargo &amp; Co trade<br>\r\n• $3,590 on a Hi–Crush Partners LP trade<br>\r\n• $2,750 on an Expedia trade<br>\r\n• $2,710 on a Facebook trade<br><p><p>\r\n\r\nThese are actual <em>Forbes Premium Income Report</em> trades. <p><p>\r\n\r\nIn 2016, we made money on 111 out of 112 closed trades. That's more than a 99% success rate! <p><p>\r\n\r\nThe results have exceeded our highest expectations and have made a real difference in the financial success of our subscribers.<p><p>\r\n\r\nBut you haven't been with us to enjoy this phenomenal success. Today, I want to change that. To celebrate our market–stomping gains, we've decided to reopen our Founding Member offer for a very limited time.<p><p>\r\n\r\n<em>Forbes Premium Income Report</em> invests in quality stocks only—stocks that we don't mind owning in the first place. As a member, you get two exceptional investments every Tuesday and Thursday—one conservative and one aggressive—a total of 4 opportunities a week. <p><p>\r\n\r\nYou can invest in as many or as few as you want. Each pick is rigorously scrutinized by the well–respected Forbes team and ranked by risk. <p><p>\r\nConservative stocks are companies that pay dividends reliably over a long timeframe. Aggressive stocks are usually companies with a strong growth profile. Quite simply, we make our money by selling call and put options on these investments. <p><p>\r\n\r\nJoin our service today and you'll start collecting cash payment up to four times a month. \r\n\r\nOur Founding Members who joined us last year would agree. All of them started by simply accepting our 30–day risk–free Founding Member offer.\r\n<p><p>\r\n\r\nNow it's your turn to see for yourself the kind of cash <em>Forbes Premium Income Report</em> can bring you without risking a dime. If, after exploring the service for a month, you decide it's not for you, simply let us know and we'll refund the entire balance of your subscription. No hassles, no questions asked.  <p><p>",
+                "recentActivityCount": 0,
+                "dailyActivityCount": 0,
+                "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-3197",
+                "shortUri": "http://onforb.es/1p1Aarb",
+                "contributorSince": 1401744761000,
+                "slug": "forbes-premium-income-report",
+                "showNoVestPocket": false,
+                "embargo": false,
+                "primaryChannelId": "channel_11",
+                "primarySectionId": "section_1914",
+                "enableContribContact": true,
+                "pubCode": "FV",
+                "quote": "My job is to make you a better investor.",
+                "enableTwitterFeed": false,
+                "disableCanonical": false,
+                "disableDigest": false,
+                "freeESPNewsletter": false,
+                "inactive": true,
+                "division": "FC",
+                "allowEmail": false,
+                "seniorContributor": false
+            },
+            "shortUri": "http://onforb.es/1l1iA5T",
+            "contributorSince": 1380381840000,
+            "slug": "forbes-premium-income-report",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": false,
+            "pubCode": "PU",
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "freeESPNewsletter": false,
+            "fullTextEmail": false,
+            "inactive": false,
+            "allowEmail": false,
+            "previousAuthorData": {
+                "blog": false,
+                "primarySectionId": "",
+                "allowEmail": false
+            },
+            "staticPages": [
+                {
+                    "id": "60b7f5c22c2826000660954d",
+                    "url": "http://www.forbes.com/newsletters/forbes-premium-income-report/2021/06/02/using-forbes-premium-income-report-for-options-income/",
+                    "label": "Getting Started"
+                },
+                {
+                    "id": "60b7f5294d8ce80006503a66",
+                    "url": "http://www.forbes.com/newsletters/forbes-premium-income-report/2021/06/02/forbes-premium-income-report-short-options-positions/",
+                    "label": "Full Portfolio"
+                }
+            ],
+            "resourceId": "FIN_FPR",
+            "pianoModalIds": {
+                "lander": {
+                    "offerId": "",
+                    "templateId": "",
+                    "templateVariantId": ""
+                },
+                "article": {
+                    "offerId": "OF36F3X6QC2B",
+                    "templateId": "OT9RV5A7OMZV",
+                    "templateVariantId": "OTVT2TM4J01ST"
+                }
+            },
+            "emails": {
+                "welcome-preview": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes Premium Income Report",
+                    "title": "Welcome To Forbes Premium Income Report",
+                    "body": "<p>Dear Fellow Investor,</p><p>It is my great pleasure to welcome you aboard as a <em>Forbes Premium Income Report</em> member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. </p><p><strong>What Happens Now: </strong>Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades <a href=\"https://www.mobilepages.co/6959/fpiroptinpage\" target=\"_blank\" class=\"color-link\" title=\"https://www.mobilepages.co/6959/fpiroptinpage\" rel=\"nofollow noopener\"><u>by clicking here to sign up</u></a> with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. </p><p>We are trying to generate income and short-term capital gains in <strong><em>Forbes Premium Income Report</em></strong>. Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.</p><p><strong>The Buy Write: </strong>The bulk of our trades are <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">buy writes</a>: buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. </p><p>Owning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate.&nbsp;</p><p><strong>Selling Puts: </strong>A less frequent part of our repertoire is <a href=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">selling cash-secured puts</a>, which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. </p><p><strong>Credit Spreads: </strong>From time to time, we so do credit spreads, usually a “<a href=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" rel=\"nofollow noopener\">bull put spread</a>,” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. </p><p><strong>After Expiration: </strong>With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">write covered calls</a>, and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid.&nbsp;</p><p>We end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. </p><p>With 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.</p><p><strong>Tracking Trades: </strong>At the end of every trading day, I update the <strong>FPIR Master Trade Log</strong> on <a href=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" target=\"_blank\" class=\"color-link\" title=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" rel=\"nofollow noopener\">this Google Sheet which I share with members</a>. You’ll see total returns and cost basis of previous trades, with links to the write-ups. </p><p>The FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. </p><p><strong>Always Here to Help</strong></p><p>If you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (<a href=\"mailto:jdobosz@forbes.com\" target=\"_blank\" class=\"color-link\" title=\"mailto:jdobosz@forbes.com\">jdobosz@forbes.com</a>). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.</p><p>Thanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. </p><p>All the best,</p><p>John Dobosz</p><p>Editor,<strong><em> Forbes Premium Income Report </em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Dear Fellow Investor,\\nIt is my great pleasure to welcome you aboard as a \"},{\"attributes\":{\"italic\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\" member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"What Happens Now: \"},{\"insert\":\"Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades \"},{\"attributes\":{\"underline\":true,\"color\":\"\",\"link\":\"https://www.mobilepages.co/6959/fpiroptinpage\"},\"insert\":\"by clicking here to sign up\"},{\"insert\":\" with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. \\nWe are trying to generate income and short-term capital gains in \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\". Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"The Buy Write: \"},{\"insert\":\"The bulk of our trades are \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"buy writes\"},{\"insert\":\": buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. \\nOwning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Selling Puts: \"},{\"insert\":\"A less frequent part of our repertoire is \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"selling cash-secured puts\"},{\"insert\":\", which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Credit Spreads: \"},{\"insert\":\"From time to time, we so do credit spreads, usually a “\"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\"},\"insert\":\"bull put spread\"},{\"insert\":\",” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"After Expiration: \"},{\"insert\":\"With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"write covered calls\"},{\"insert\":\", and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid. \\nWe end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. \\nWith 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Tracking Trades: \"},{\"insert\":\"At the end of every trading day, I update the \"},{\"attributes\":{\"bold\":true},\"insert\":\"FPIR Master Trade Log\"},{\"insert\":\" on \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\"},\"insert\":\"this Google Sheet which I share with members\"},{\"insert\":\". You’ll see total returns and cost basis of previous trades, with links to the write-ups. \\nThe FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Always Here to Help\"},{\"insert\":\"\\nIf you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (\"},{\"attributes\":{\"color\":\"\",\"link\":\"mailto:jdobosz@forbes.com\"},\"insert\":\"jdobosz@forbes.com\"},{\"insert\":\"). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.\\nThanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. \\nAll the best,\\nJohn Dobosz\\nEditor,\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Premium Income Report \"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                },
+                "welcome": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes Premium Income Report",
+                    "title": "Welcome To Forbes Premium Income Report",
+                    "body": "<p>Dear Fellow Investor,</p><p>It is my great pleasure to welcome you aboard as a <em>Forbes Premium Income Report</em> member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. </p><p><strong>What Happens Now: </strong>Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades <a href=\"https://www.mobilepages.co/6959/fpiroptinpage\" target=\"_blank\" class=\"color-link\" title=\"https://www.mobilepages.co/6959/fpiroptinpage\" rel=\"nofollow noopener\"><u>by clicking here to sign up</u></a> with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. </p><p>We are trying to generate income and short-term capital gains in <strong><em>Forbes Premium Income Report</em></strong>. Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.</p><p><strong>The Buy Write: </strong>The bulk of our trades are <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">buy writes</a>: buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. </p><p>Owning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate.&nbsp;</p><p><strong>Selling Puts: </strong>A less frequent part of our repertoire is <a href=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">selling cash-secured puts</a>, which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. </p><p><strong>Credit Spreads: </strong>From time to time, we so do credit spreads, usually a “<a href=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" rel=\"nofollow noopener\">bull put spread</a>,” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. </p><p><strong>After Expiration: </strong>With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">write covered calls</a>, and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid.&nbsp;</p><p>We end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. </p><p>With 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.</p><p><strong>Tracking Trades: </strong>At the end of every trading day, I update the <strong>FPIR Master Trade Log</strong> on <a href=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" target=\"_blank\" class=\"color-link\" title=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" rel=\"nofollow noopener\">this Google Sheet which I share with members</a>. You’ll see total returns and cost basis of previous trades, with links to the write-ups. </p><p>The FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. </p><p><strong>Always Here to Help</strong></p><p>If you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (<a href=\"mailto:jdobosz@forbes.com\" target=\"_blank\" class=\"color-link\" title=\"mailto:jdobosz@forbes.com\">jdobosz@forbes.com</a>). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.</p><p>Thanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. </p><p>All the best,</p><p>John Dobosz</p><p>Editor,<strong><em> Forbes Premium Income Report </em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Dear Fellow Investor,\\nIt is my great pleasure to welcome you aboard as a \"},{\"attributes\":{\"italic\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\" member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"What Happens Now: \"},{\"insert\":\"Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades \"},{\"attributes\":{\"underline\":true,\"color\":\"\",\"link\":\"https://www.mobilepages.co/6959/fpiroptinpage\"},\"insert\":\"by clicking here to sign up\"},{\"insert\":\" with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. \\nWe are trying to generate income and short-term capital gains in \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\". Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"The Buy Write: \"},{\"insert\":\"The bulk of our trades are \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"buy writes\"},{\"insert\":\": buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. \\nOwning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Selling Puts: \"},{\"insert\":\"A less frequent part of our repertoire is \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"selling cash-secured puts\"},{\"insert\":\", which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Credit Spreads: \"},{\"insert\":\"From time to time, we so do credit spreads, usually a “\"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\"},\"insert\":\"bull put spread\"},{\"insert\":\",” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"After Expiration: \"},{\"insert\":\"With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"write covered calls\"},{\"insert\":\", and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid. \\nWe end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. \\nWith 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Tracking Trades: \"},{\"insert\":\"At the end of every trading day, I update the \"},{\"attributes\":{\"bold\":true},\"insert\":\"FPIR Master Trade Log\"},{\"insert\":\" on \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\"},\"insert\":\"this Google Sheet which I share with members\"},{\"insert\":\". You’ll see total returns and cost basis of previous trades, with links to the write-ups. \\nThe FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Always Here to Help\"},{\"insert\":\"\\nIf you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (\"},{\"attributes\":{\"color\":\"\",\"link\":\"mailto:jdobosz@forbes.com\"},\"insert\":\"jdobosz@forbes.com\"},{\"insert\":\"). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.\\nThanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. \\nAll the best,\\nJohn Dobosz\\nEditor,\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Premium Income Report \"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                }
+            },
+            "contentPaywall": "metered"
+        },
+        "coAuthors": []
+    },
+    "authors": [
+        {
+            "id": "659faec6acb2f5246e5a3858",
+            "naturalId": "blogAuthorId/blog/author/95",
+            "name": "John Dobosz",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/40x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/62x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/136x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/601b716fb03d66cacf90cc8e/400x0.jpg?cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+                }
+            ],
+            "url": "https://www.forbes.com/sites/johndobosz",
+            "type": "Forbes Staff",
+            "profileUrl": "/sites/johndobosz/",
+            "twitterName": "doboszj",
+            "authorType": "individual",
+            "linkedIn": "https://www.linkedin.com/in/johndobosz/",
+            "blog": false,
+            "timestamp": 1683560360682,
+            "shortBio": "I focus on dividends, options income, and billionaires.",
+            "blogName": "John Dobosz",
+            "topics": [
+                "markets",
+                "stocks",
+                "investing",
+                "intelligent-investing",
+                "etfs",
+                "wall-street",
+                "business",
+                "international",
+                "small-business-roundtable",
+                "powering-productivity",
+                "options"
+            ],
+            "recentFlag": false,
+            "description": "<p>I am the editor of three Forbes investment newsletters: <a href=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-dividend-investor/?sh=17179bca586a\"><em>Forbes Dividend Investor</em></a>, <a href=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-billionaire-investor/?sh=3156ead659c6\"><em>Forbes Billionaire Investor</em></a> and covered call writing advisory service,&nbsp;<a href=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\" target=\"_blank\" class=\"color-link\" title=\"https://www.forbes.com/newsletters/forbes-premium-income-report/?sh=1b887a357e17\"><em>Forbes Premium Income Report</em></a>.   Prior to joining Forbes in 2001, I was a producer and reporter at CNN Financial News, focusing on stories about entrepreneurship.&nbsp; I've also worked as a field producer for Bloomberg TV in New York, and as a reporter/researcher at Inc. Magazine in Boston. Born in Tampa and raised across the bay, I graduated&nbsp;n 1990 from the University of Florida with a B.S. in business administration with a concentration in finance.&nbsp;</p>",
+            "recentActivityCount": 0,
+            "latestActivityDate": 1443116400000,
+            "dailyActivityCount": 0,
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-974",
+            "shortUri": "http://onforb.es/12liPxY",
+            "displayChannel": "investing",
+            "displaySection": "markets",
+            "contributorSince": 1264037180000,
+            "slug": "johndobosz",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_72",
+            "primarySectionId": "section_1089",
+            "enableContribContact": true,
+            "enableTwitterFeed": false,
+            "instagramHandle": "johndobosz",
+            "disableCanonical": false,
+            "disableDigest": false,
+            "forbesTwitterProfile": {
+                "screenName": "doboszj",
+                "name": "doboszj",
+                "profileImageUrl": "http://pbs.twimg.com/profile_images/226991363/MVI_0706.jpg",
+                "description": "Markets editor, Forbes; Been at Bloomberg, CNN, Inc. Magazine and love 'em all.",
+                "createdDate": 1228580838000,
+                "location": "",
+                "url": "http://t.co/uMl1fOK09D",
+                "expandedUrl": "http://blogs.forbes.com/johndobosz/",
+                "displayUrl": "blogs.forbes.com/johndobosz/",
+                "verified": false
+            },
+            "inactive": true,
+            "division": "FC",
+            "allowEmail": false,
+            "disabled": false
+        },
+        {
+            "id": "659faec6acb2f5246e5a3859",
+            "naturalId": "blogAuthorId/blog/author/blog-3198",
+            "name": "Forbes Premium Income Report",
+            "avatars": [
+                {
+                    "size": 40,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/40x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 62,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/62x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 136,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/136x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                },
+                {
+                    "size": 400,
+                    "image": "https://specials-images.forbesimg.com/imageserve/60afd6f34ec58a04fbebb1ca/400x0.jpg?cropX1=0&cropX2=400&cropY1=0&cropY2=400"
+                }
+            ],
+            "url": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+            "type": "Newsletter",
+            "subType": "investing",
+            "profileUrl": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+            "authorType": "newsletter",
+            "tagName": "Forbes Premium Income Report alerts readers to opportunities to earn income from selling equity options.",
+            "blog": true,
+            "timestamp": 1682626555196,
+            "webSite": "https://false",
+            "topics": [
+                "powering-productivity",
+                "markets",
+                "personal-finance",
+                "stocks",
+                "options",
+                "investing"
+            ],
+            "authors": [
+                "95"
+            ],
+            "description": "<p>Not a day passes that I don’t scour the market for opportunities in stocks and equity options. As editor of the Forbes Dividend Investor newsletter service, I send out new rankings every Friday with the best 25 current buys. These stocks have safe and generous yields, usually near 4%. My picks have beaten the market since I started sending them out in July 2012. On Tuesday and Thursday, as editor of Forbes Premium Income Report I send out two income-generating options trades.\nOutside of newsletters, I'm also responsible for money and investing coverage on Forbes.com. In 2003 I launched Forbes Stock of the Week and made more than 350 picks through 2010 based on fundamental and technical analysis. I’ve been at Forbes since 2001, originally coming here to do e-learning. I spent five years with CNN Financial News working with Lou Dobbs, where I produced long-form pieces and reported on management, entrepreneurship and financial markets. I've also worked at Bloomberg TV and Inc. magazine. I’m a native Floridian and graduated from the University of Florida with a bachelor of science degree in finance.\n\nThree years ago we introduced a breakthrough advisory for options investors and Forbes Premium Income Report has proven to be a grand–slam winner with…\n\n• $10,810 on an Aetna trade\n• $8,075 on a Valero Energy trade\n• $6,340 on a Gilead Sciences trade\n• $4,620 on an Abercrombie & Fitch trade\n• $4,820 on a Wells Fargo & Co trade\n• $3,590 on a Hi–Crush Partners LP trade\n• $2,750 on an Expedia trade\n• $2,710 on a Facebook trade\n\nThese are actual Forbes Premium Income Report trades.\n\nIn 2016, we made money on 111 out of 112 closed trades. That's more than a 99% success rate!\n\nThe results have exceeded our highest expectations and have made a real difference in the financial success of our subscribers.\n\nBut you haven't been with us to enjoy this phenomenal success. Today, I want to change that. To celebrate our market–stomping gains, we've decided to reopen our Founding Member offer for a very limited time.\n\nForbes Premium Income Report invests in quality stocks only—stocks that we don't mind owning in the first place. As a member, you get two exceptional investments every Tuesday and Thursday. We make our money by selling call and put options on these investments.\n\nSee for yourself the kind of cash Forbes Premium Income Report can bring you without risking a dime. If, after exploring the service for a month, you decide it's not for you, simply let us know and we'll refund the entire balance of your subscription. No hassles, no questions asked.</p>",
+            "showRelated": true,
+            "recentActivityCount": 0,
+            "dailyActivityCount": 0,
+            "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-3198",
+            "primaryContributor": "blogAuthorId/blog/author/1250778",
+            "primaryContributorData": {
+                "id": "659faec6acb2f5246e5a385a",
+                "naturalId": "blogAuthorId/blog/author/1250778",
+                "name": "John Dobosz",
+                "avatars": [
+                    {
+                        "size": 136,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-136x136.jpg"
+                    },
+                    {
+                        "size": 40,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-40x40.jpg"
+                    },
+                    {
+                        "size": 400,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-400x400.jpg"
+                    },
+                    {
+                        "size": 62,
+                        "image": "https://blogs-images.forbes.com/forbes-dividend-investor/files/2020/10/John-Dobosz_avatar_1601656651-62x62.jpg"
+                    }
+                ],
+                "url": "https://www.forbes.com/newsletters/forbes-premium-income-report",
+                "type": "Newsletter",
+                "profileUrl": "/sites/forbes-premium-income-report/",
+                "authorType": "newsletter",
+                "tagName": "Forbes Dividend Investor identifies undervalued stocks with above-average dividend yields.",
+                "blog": false,
+                "timestamp": 1601656657579,
+                "webSite": "http://www.forbes.com/sites/johndobosz/",
+                "blogName": "Forbes Premium Income Report",
+                "topics": [
+                    "powering-productivity",
+                    "markets",
+                    "stocks",
+                    "investing"
+                ],
+                "description": "Not a day passes that I don’t scour the market for opportunities in stocks and equity options. As editor of the <i>Forbes Dividend Investor</i> newsletter service, I send out new rankings every Friday with the best 25 current buys. These stocks have safe and generous yields, usually averaging 4.5%. My picks have beaten the market since I started sending them out in July 2012. On Tuesday and Thursday, as editor of <i>Forbes Premium Income Report</i> I recommend income-generating options trades. <p><p>\r\nOutside of newsletters, I'm also responsible for money and investing coverage on Forbes.com. In 2003 I launched <i>Forbes Stock of the Week</i> and made more than 350 picks through 2010 based on fundamental and technical analysis. I’ve been at Forbes since 2001, originally coming here to do e-learning. I spent five years with CNN Financial News working with Lou Dobbs, where I produced long-form pieces and reported on management, entrepreneurship and financial markets. I've also worked at Bloomberg TV and <i>Inc</i>. magazine. I’m a native Floridian and graduated from the University of Florida with a bachelor of science degree in finance.<p><p>\r\n\r\nThree years ago we introduced a breakthrough advisory for options investors and <em>Forbes Premium Income Report</em> has proven to be a grand–slam winner with… <p><p>\r\n\r\n• $10,810 on an Aetna trade<br>\r\n• $8,075 on a Valero Energy trade<br>\r\n• $6,340 on a Gilead Sciences trade<br>\r\n• $4,620 on an Abercrombie &amp; Fitch trade<br>\r\n• $4,820 on a Wells Fargo &amp; Co trade<br>\r\n• $3,590 on a Hi–Crush Partners LP trade<br>\r\n• $2,750 on an Expedia trade<br>\r\n• $2,710 on a Facebook trade<br><p><p>\r\n\r\nThese are actual <em>Forbes Premium Income Report</em> trades. <p><p>\r\n\r\nIn 2016, we made money on 111 out of 112 closed trades. That's more than a 99% success rate! <p><p>\r\n\r\nThe results have exceeded our highest expectations and have made a real difference in the financial success of our subscribers.<p><p>\r\n\r\nBut you haven't been with us to enjoy this phenomenal success. Today, I want to change that. To celebrate our market–stomping gains, we've decided to reopen our Founding Member offer for a very limited time.<p><p>\r\n\r\n<em>Forbes Premium Income Report</em> invests in quality stocks only—stocks that we don't mind owning in the first place. As a member, you get two exceptional investments every Tuesday and Thursday—one conservative and one aggressive—a total of 4 opportunities a week. <p><p>\r\n\r\nYou can invest in as many or as few as you want. Each pick is rigorously scrutinized by the well–respected Forbes team and ranked by risk. <p><p>\r\nConservative stocks are companies that pay dividends reliably over a long timeframe. Aggressive stocks are usually companies with a strong growth profile. Quite simply, we make our money by selling call and put options on these investments. <p><p>\r\n\r\nJoin our service today and you'll start collecting cash payment up to four times a month. \r\n\r\nOur Founding Members who joined us last year would agree. All of them started by simply accepting our 30–day risk–free Founding Member offer.\r\n<p><p>\r\n\r\nNow it's your turn to see for yourself the kind of cash <em>Forbes Premium Income Report</em> can bring you without risking a dime. If, after exploring the service for a month, you decide it's not for you, simply let us know and we'll refund the entire balance of your subscription. No hassles, no questions asked.  <p><p>",
+                "recentActivityCount": 0,
+                "dailyActivityCount": 0,
+                "primaryBlogNaturalId": "blogAuthorId/blog/author/blog-3197",
+                "shortUri": "http://onforb.es/1p1Aarb",
+                "contributorSince": 1401744761000,
+                "slug": "forbes-premium-income-report",
+                "showNoVestPocket": false,
+                "embargo": false,
+                "primaryChannelId": "channel_11",
+                "primarySectionId": "section_1914",
+                "enableContribContact": true,
+                "pubCode": "FV",
+                "quote": "My job is to make you a better investor.",
+                "enableTwitterFeed": false,
+                "disableCanonical": false,
+                "disableDigest": false,
+                "freeESPNewsletter": false,
+                "inactive": true,
+                "division": "FC",
+                "allowEmail": false,
+                "seniorContributor": false
+            },
+            "shortUri": "http://onforb.es/1l1iA5T",
+            "contributorSince": 1380381840000,
+            "slug": "forbes-premium-income-report",
+            "showNoVestPocket": false,
+            "embargo": false,
+            "primaryChannelId": "channel_11",
+            "primarySectionId": "section_1914",
+            "enableContribContact": false,
+            "pubCode": "PU",
+            "enableTwitterFeed": false,
+            "disableCanonical": false,
+            "disableDigest": false,
+            "freeESPNewsletter": false,
+            "fullTextEmail": false,
+            "inactive": false,
+            "allowEmail": false,
+            "previousAuthorData": {
+                "blog": false,
+                "primarySectionId": "",
+                "allowEmail": false
+            },
+            "staticPages": [
+                {
+                    "id": "60b7f5c22c2826000660954d",
+                    "url": "http://www.forbes.com/newsletters/forbes-premium-income-report/2021/06/02/using-forbes-premium-income-report-for-options-income/",
+                    "label": "Getting Started"
+                },
+                {
+                    "id": "60b7f5294d8ce80006503a66",
+                    "url": "http://www.forbes.com/newsletters/forbes-premium-income-report/2021/06/02/forbes-premium-income-report-short-options-positions/",
+                    "label": "Full Portfolio"
+                }
+            ],
+            "resourceId": "FIN_FPR",
+            "pianoModalIds": {
+                "lander": {
+                    "offerId": "",
+                    "templateId": "",
+                    "templateVariantId": ""
+                },
+                "article": {
+                    "offerId": "OF36F3X6QC2B",
+                    "templateId": "OT9RV5A7OMZV",
+                    "templateVariantId": "OTVT2TM4J01ST"
+                }
+            },
+            "emails": {
+                "welcome-preview": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes Premium Income Report",
+                    "title": "Welcome To Forbes Premium Income Report",
+                    "body": "<p>Dear Fellow Investor,</p><p>It is my great pleasure to welcome you aboard as a <em>Forbes Premium Income Report</em> member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. </p><p><strong>What Happens Now: </strong>Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades <a href=\"https://www.mobilepages.co/6959/fpiroptinpage\" target=\"_blank\" class=\"color-link\" title=\"https://www.mobilepages.co/6959/fpiroptinpage\" rel=\"nofollow noopener\"><u>by clicking here to sign up</u></a> with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. </p><p>We are trying to generate income and short-term capital gains in <strong><em>Forbes Premium Income Report</em></strong>. Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.</p><p><strong>The Buy Write: </strong>The bulk of our trades are <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">buy writes</a>: buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. </p><p>Owning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate.&nbsp;</p><p><strong>Selling Puts: </strong>A less frequent part of our repertoire is <a href=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">selling cash-secured puts</a>, which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. </p><p><strong>Credit Spreads: </strong>From time to time, we so do credit spreads, usually a “<a href=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" rel=\"nofollow noopener\">bull put spread</a>,” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. </p><p><strong>After Expiration: </strong>With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">write covered calls</a>, and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid.&nbsp;</p><p>We end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. </p><p>With 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.</p><p><strong>Tracking Trades: </strong>At the end of every trading day, I update the <strong>FPIR Master Trade Log</strong> on <a href=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" target=\"_blank\" class=\"color-link\" title=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" rel=\"nofollow noopener\">this Google Sheet which I share with members</a>. You’ll see total returns and cost basis of previous trades, with links to the write-ups. </p><p>The FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. </p><p><strong>Always Here to Help</strong></p><p>If you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (<a href=\"mailto:jdobosz@forbes.com\" target=\"_blank\" class=\"color-link\" title=\"mailto:jdobosz@forbes.com\">jdobosz@forbes.com</a>). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.</p><p>Thanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. </p><p>All the best,</p><p>John Dobosz</p><p>Editor,<strong><em> Forbes Premium Income Report </em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Dear Fellow Investor,\\nIt is my great pleasure to welcome you aboard as a \"},{\"attributes\":{\"italic\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\" member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"What Happens Now: \"},{\"insert\":\"Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades \"},{\"attributes\":{\"underline\":true,\"color\":\"\",\"link\":\"https://www.mobilepages.co/6959/fpiroptinpage\"},\"insert\":\"by clicking here to sign up\"},{\"insert\":\" with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. \\nWe are trying to generate income and short-term capital gains in \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\". Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"The Buy Write: \"},{\"insert\":\"The bulk of our trades are \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"buy writes\"},{\"insert\":\": buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. \\nOwning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Selling Puts: \"},{\"insert\":\"A less frequent part of our repertoire is \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"selling cash-secured puts\"},{\"insert\":\", which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Credit Spreads: \"},{\"insert\":\"From time to time, we so do credit spreads, usually a “\"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\"},\"insert\":\"bull put spread\"},{\"insert\":\",” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"After Expiration: \"},{\"insert\":\"With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"write covered calls\"},{\"insert\":\", and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid. \\nWe end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. \\nWith 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Tracking Trades: \"},{\"insert\":\"At the end of every trading day, I update the \"},{\"attributes\":{\"bold\":true},\"insert\":\"FPIR Master Trade Log\"},{\"insert\":\" on \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\"},\"insert\":\"this Google Sheet which I share with members\"},{\"insert\":\". You’ll see total returns and cost basis of previous trades, with links to the write-ups. \\nThe FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Always Here to Help\"},{\"insert\":\"\\nIf you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (\"},{\"attributes\":{\"color\":\"\",\"link\":\"mailto:jdobosz@forbes.com\"},\"insert\":\"jdobosz@forbes.com\"},{\"insert\":\"). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.\\nThanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. \\nAll the best,\\nJohn Dobosz\\nEditor,\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Premium Income Report \"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                },
+                "welcome": {
+                    "isDefault": false,
+                    "type": "welcome",
+                    "subject": "Welcome To Forbes Premium Income Report",
+                    "title": "Welcome To Forbes Premium Income Report",
+                    "body": "<p>Dear Fellow Investor,</p><p>It is my great pleasure to welcome you aboard as a <em>Forbes Premium Income Report</em> member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. </p><p><strong>What Happens Now: </strong>Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades <a href=\"https://www.mobilepages.co/6959/fpiroptinpage\" target=\"_blank\" class=\"color-link\" title=\"https://www.mobilepages.co/6959/fpiroptinpage\" rel=\"nofollow noopener\"><u>by clicking here to sign up</u></a> with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. </p><p>We are trying to generate income and short-term capital gains in <strong><em>Forbes Premium Income Report</em></strong>. Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.</p><p><strong>The Buy Write: </strong>The bulk of our trades are <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">buy writes</a>: buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. </p><p>Owning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate.&nbsp;</p><p><strong>Selling Puts: </strong>A less frequent part of our repertoire is <a href=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">selling cash-secured puts</a>, which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. </p><p><strong>Credit Spreads: </strong>From time to time, we so do credit spreads, usually a “<a href=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\" rel=\"nofollow noopener\">bull put spread</a>,” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. </p><p><strong>After Expiration: </strong>With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to <a href=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" target=\"_blank\" class=\"color-link\" title=\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\" rel=\"nofollow noopener\">write covered calls</a>, and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid.&nbsp;</p><p>We end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. </p><p>With 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.</p><p><strong>Tracking Trades: </strong>At the end of every trading day, I update the <strong>FPIR Master Trade Log</strong> on <a href=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" target=\"_blank\" class=\"color-link\" title=\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\" rel=\"nofollow noopener\">this Google Sheet which I share with members</a>. You’ll see total returns and cost basis of previous trades, with links to the write-ups. </p><p>The FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. </p><p><strong>Always Here to Help</strong></p><p>If you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (<a href=\"mailto:jdobosz@forbes.com\" target=\"_blank\" class=\"color-link\" title=\"mailto:jdobosz@forbes.com\">jdobosz@forbes.com</a>). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.</p><p>Thanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. </p><p>All the best,</p><p>John Dobosz</p><p>Editor,<strong><em> Forbes Premium Income Report </em></strong></p>",
+                    "bodyAsDeltas": "{\"ops\":[{\"insert\":\"Dear Fellow Investor,\\nIt is my great pleasure to welcome you aboard as a \"},{\"attributes\":{\"italic\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\" member. As you join our quest for income and total return by selling options on dividend-paying stocks, you will find some helpful tips below on how to make the most of the service. We have enjoyed great success since we started this service more than eight years ago, and I am confident that you will enjoy and profit from your membership. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"What Happens Now: \"},{\"insert\":\"Every Tuesday and Thursday afternoon, you will receive email notifications of new trades. You can also receive free text message notifications of new trades \"},{\"attributes\":{\"underline\":true,\"color\":\"\",\"link\":\"https://www.mobilepages.co/6959/fpiroptinpage\"},\"insert\":\"by clicking here to sign up\"},{\"insert\":\" with your mobile number. I publish two new trades on both days. In each recommendation, I provide explicit instructions on trade specifics, as well as fundamental data on why the underlying stock is worth owning. \\nWe are trying to generate income and short-term capital gains in \"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"Forbes Premium Income Report\"},{\"insert\":\". Our total return sources are options premium, dividends, and capital gains. Options that we sell typically expire 20-60 days after the trade recommendations, usually on the third Friday of the month. Our goal is to earn 2%-5% per month from the trades. On an annualized basis, we target and have achieved returns of 30% and higher.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"The Buy Write: \"},{\"insert\":\"The bulk of our trades are \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"buy writes\"},{\"insert\":\": buying a stock and simultaneously selling call options against it. The “net debit” is the price of the stock you purchase minus the options premium you earn for selling the calls. In each buy-write each trade recommendation, I provide a suggested net debit to use when placing the trade. \\nOwning the stock allows you to earn dividends, and most of the buy writes I recommend will involve an upcoming dividend. Keep in mind that you will need to own 100 shares of stock for every contract of call options that you sell. Position size is a function of the amount you want to devote to these strategies and your needs for liquidity, but I intentionally keep the average amount of capital required per trade below $5,000 so that as many members as possible can participate. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Selling Puts: \"},{\"insert\":\"A less frequent part of our repertoire is \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/cash-secured-put?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"selling cash-secured puts\"},{\"insert\":\", which generates income when you execute the trade, but it puts you on the hook to buy the stock at the strike price anytime until expiration. If the stock stays above the strike price, you keep the premium. If it closes below the strike price, you will need to buy 100 shares at that price for every contract of puts you sold. Your broker will require you to have enough cash or margin available to buy the stock when you get into the trade. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Credit Spreads: \"},{\"insert\":\"From time to time, we so do credit spreads, usually a “\"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/bull-put-spread-credit-put-spread\"},\"insert\":\"bull put spread\"},{\"insert\":\",” which involves selling puts at one strike price and buying them at a higher strike price. This generates a “net credit” which is the most you can earn, while the most you can lose is distance between the strike prices minus the net credit. Credit spread trades do not require you to own the underlying stock or to tie up as much capital as writing puts, but losses when they happen can often be 100%. On the other hand, winners often return more than 60%. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"After Expiration: \"},{\"insert\":\"With buy writes and put writes, we will sometimes own a stock after the options expire. When this happens, I immediately look for advantageous times to \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write?source=fb2f69b5-ad81-47f6-8c9f-c7ebc01664c4\"},\"insert\":\"write covered calls\"},{\"insert\":\", and send out recommendations with suggested limit prices. When our unrealized total return in a position is negative, I like to wait for a price recovery before writing a new round of covered calls or selling the shares. Over extended periods, the dividends help to reduce cost basis, and when trend changes occur, the moves can be large and rapid. \\nWe end up making money on 95% of the closed-out trades, although there can be a bumpy ride before they are closed. Looking back on all our trades since 2014, the positions that really headed south did so after the initial options expired. Nonetheless, we also have had some real Lazarus-like stocks that rose from the dead to become superstars, especially from the energy sector, which went from ice-cold to white-hot in the past two years. \\nWith 16 trades per month, liquidity can become an issue with a lot of open positions. One way to raise cash is to sell the stock after the initial period during which you were short the options. This could still provide decent gains when you get assigned, and keep any losses limited, unless something causes a stock to crash before the options expire. I try to avoid that by avoiding earnings release for the initial buy write or put write period. Another way to go is to take partial profits when you have them.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Tracking Trades: \"},{\"insert\":\"At the end of every trading day, I update the \"},{\"attributes\":{\"bold\":true},\"insert\":\"FPIR Master Trade Log\"},{\"insert\":\" on \"},{\"attributes\":{\"color\":\"\",\"link\":\"https://docs.google.com/spreadsheets/d/1q86s9_jxIEFNae5aeRt26IsP7exCrrWPFkORyOTJooA/edit?usp=sharing\"},\"insert\":\"this Google Sheet which I share with members\"},{\"insert\":\". You’ll see total returns and cost basis of previous trades, with links to the write-ups. \\nThe FPIR Master Trade log has three tabs: Open Positions shows stocks we still own, with those on which we have short options positions shaded in yellow. Closed Trades shows completely closed out positions in which we no longer own the stock or have any options position. ‘Spreads’ shows you the results of spread trades, with active trades shaded yellow. \\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Always Here to Help\"},{\"insert\":\"\\nIf you have questions about the service, how to use it, or the stocks and trades presented, please contact me anytime via email: John Dobosz (\"},{\"attributes\":{\"color\":\"\",\"link\":\"mailto:jdobosz@forbes.com\"},\"insert\":\"jdobosz@forbes.com\"},{\"insert\":\"). If you would like to speak on the phone or to connect via Zoom, just let me know. I cannot provide you with personal financial advice, but I can explain how to place the trades, and the implications of employing the strategies we use. Most major brokerages like Fidelity, Schwab, Vanguard, E-Trade and others have excellent telephone support, and these people can provide you with specific advice.\\nThanks again for coming aboard. I look forward to becoming a part of your Tuesday and Thursday afternoons. \\nAll the best,\\nJohn Dobosz\\nEditor,\"},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\" Forbes Premium Income Report \"},{\"insert\":\"\\n\"}]}",
+                    "source": "forbespress"
+                }
+            },
+            "contentPaywall": "metered"
+        }
+    ],
+    "bertieBadges": [],
+    "blogId": "3198",
+    "blogName": "Forbes Premium Income Report",
+    "blogType": "newsletter",
+    "body": "<p>The retail sector can be dangerous, but shares of mall retail chain <strong>Buckle (BKE)</strong> have shown exceptional strength on the charts over the past two months and trade about 10% below 52-week highs hit at the end of 2023. Special dividends have a regular affair over the past five years, and there is a $2.50 per share special dividend and a $0.35 regular dividend to be earned if you own BKE through the close today before it trades ex-dividend tomorrow. We will buy the stock and write $45 February 16 calls.</p><p>Please email me (jdobosz@forbes.com) at any time with questions. <em>— J.D.</em></p><p><br></p><p><strong>Buckle (BKE) - Buy Write</strong></p><blockquote><strong>Buy 100 BKE</strong></blockquote><blockquote><strong>Sell to Open 1 February 16 $45 Call</strong></blockquote><blockquote><strong>Execute for Net Debit of $42.65 or lower</strong></blockquote><p><br></p><p>Kearney, Neb.-based <strong>Buckle (BKE)</strong> sells clothing, footwear, and accessories through a network of 451 stores in 42 states. This year, the retailer is expected to see revenue decline by 6.2% to $1.26 billion, and earnings are expected to dip by 17% to $4.25 per share. </p><p>The next earning report is scheduled for the first week of March, and tomorrow the stock trades ex-dividend for a combined payout of $2.85 per share.</p><p><strong>Here is the buy write</strong>: Buy 100 shares of BKE, and sell to open one contract of $45 February 16 calls. For the combined transaction, use a net debit of $42.65 or lower.</p><p>When stocks pay special dividends, strike prices of call options contracts are adjusted lower by the same amount. This does not happen with regular quarterly dividends. With this buy write on Buckle, <a href=\"https://infomemo.theocc.com/infomemos?number=53715\" target=\"_blank\" class=\"color-link\" title=\"https://infomemo.theocc.com/infomemos?number=53715\" rel=\"nofollow noopener\">our $45 calls will adjust to $42.50.</a></p><p>If BKE closes above $42.50 on February 16, our shares would be sold at $42.50 and we would earn, including dividends, $2.70 per share on $42.65 per share at risk, or 6.33%. Over a 37-day holding period, that would be an annualized return of 62.5%. If the stock closes at or below $42.50 at expiration, we will still own it at a cost basis of $39.80 per share, reflecting the dividends to be earned tomorrow and the premium earned today.</p><p><strong>Options income for this trade:</strong> <strong>We earn $93 selling 1 BKE February 16 $45 call contract. </strong><a href=\"https://www.stockoptionschannel.com/symbol/?symbol=BKE&amp;month=20240216&amp;type=call&amp;contract=45.00\" target=\"_blank\" class=\"color-link\" title=\"https://www.stockoptionschannel.com/symbol/?symbol=BKE&amp;month=20240216&amp;type=call&amp;contract=45.00\" rel=\"nofollow noopener\"><strong>Click here for updated bid-ask and return characteristics.</strong></a></p>[id=0]<p><strong><em>NOTE</em></strong><em>: Forbes Premium Income Report is intended to provide information to interested parties. As we have no knowledge of individual circumstances, goals and/or portfolio concentration or diversification, readers are expected to complete their own due diligence before purchasing any assets or securities mentioned or recommended. We do not guarantee that investments mentioned in this newsletter will produce profits or that they will equal past performance. Although all content is derived from data believed to be reliable, accuracy cannot be guaranteed. John Dobosz and members of the staff of Forbes Premium Income Report may hold positions in some or all the assets/securities listed. Copyright 2024 by Forbes Media LLC.</em></p>",
+    "bodyAsDeltas": "[{\"insert\":\"The retail sector can be dangerous, but shares of mall retail chain \"},{\"attributes\":{\"bold\":true},\"insert\":\"Buckle (BKE)\"},{\"insert\":\" have shown exceptional strength on the charts over the past two months and trade about 10% below 52-week highs hit at the end of 2023. Special dividends have a regular affair over the past five years, and there is a $2.50 per share special dividend and a $0.35 regular dividend to be earned if you own BKE through the close today before it trades ex-dividend tomorrow. We will buy the stock and write $45 February 16 calls.\\nPlease email me (jdobosz@forbes.com) at any time with questions. \"},{\"attributes\":{\"italic\":true},\"insert\":\"— J.D.\"},{\"insert\":\"\\n\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Buckle (BKE) - Buy Write\"},{\"insert\":\"\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Buy 100 BKE\"},{\"attributes\":{\"blockquote\":true},\"insert\":\"\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Sell to Open 1 February 16 $45 Call\"},{\"attributes\":{\"blockquote\":true},\"insert\":\"\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Execute for Net Debit of $42.65 or lower\"},{\"attributes\":{\"blockquote\":true},\"insert\":\"\\n\"},{\"insert\":\"\\nKearney, Neb.-based \"},{\"attributes\":{\"bold\":true},\"insert\":\"Buckle (BKE)\"},{\"insert\":\" sells clothing, footwear, and accessories through a network of 451 stores in 42 states. This year, the retailer is expected to see revenue decline by 6.2% to $1.26 billion, and earnings are expected to dip by 17% to $4.25 per share. \\nThe next earning report is scheduled for the first week of March, and tomorrow the stock trades ex-dividend for a combined payout of $2.85 per share.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Here is the buy write\"},{\"insert\":\": Buy 100 shares of BKE, and sell to open one contract of $45 February 16 calls. For the combined transaction, use a net debit of $42.65 or lower.\\nWhen stocks pay special dividends, strike prices of call options contracts are adjusted lower by the same amount. This does not happen with regular quarterly dividends. With this buy write on Buckle, \"},{\"attributes\":{\"blankTab\":\"\",\"color\":\"\",\"link\":\"https://infomemo.theocc.com/infomemos?number=53715\"},\"insert\":\"our $45 calls will adjust to $42.50.\"},{\"insert\":\"\\nIf BKE closes above $42.50 on February 16, our shares would be sold at $42.50 and we would earn, including dividends, $2.70 per share on $42.65 per share at risk, or 6.33%. Over a 37-day holding period, that would be an annualized return of 62.5%. If the stock closes at or below $42.50 at expiration, we will still own it at a cost basis of $39.80 per share, reflecting the dividends to be earned tomorrow and the premium earned today.\\n\"},{\"attributes\":{\"bold\":true},\"insert\":\"Options income for this trade:\"},{\"insert\":\" \"},{\"attributes\":{\"bold\":true},\"insert\":\"We earn $93 selling 1 BKE February 16 $45 call contract. \"},{\"attributes\":{\"bold\":true,\"blankTab\":\"\",\"color\":\"\",\"link\":\"https://www.stockoptionschannel.com/symbol/?symbol=BKE&month=20240216&type=call&contract=45.00\"},\"insert\":\"Click here for updated bid-ask and return characteristics.\"},{\"insert\":\"\\n\"},{\"insert\":{\"figure\":\"0\"}},{\"attributes\":{\"italic\":true,\"bold\":true},\"insert\":\"NOTE\"},{\"attributes\":{\"italic\":true},\"insert\":\": Forbes Premium Income Report is intended to provide information to interested parties. As we have no knowledge of individual circumstances, goals and/or portfolio concentration or diversification, readers are expected to complete their own due diligence before purchasing any assets or securities mentioned or recommended. We do not guarantee that investments mentioned in this newsletter will produce profits or that they will equal past performance. Although all content is derived from data believed to be reliable, accuracy cannot be guaranteed. John Dobosz and members of the staff of Forbes Premium Income Report may hold positions in some or all the assets/securities listed. Copyright 2024 by Forbes Media LLC.\"},{\"insert\":\"\\n\"}]",
+    "bvProgramType": "",
+    "comments": [],
+    "contentPaywall": "publication",
+    "date": 1704903428919,
+    "description": "If BKE closes above $42.50 on February 16, our shares would be sold at $42.50 and we would earn, including dividends, $2.70 per share on $42.65 per share at risk, or 6.33%. Over a 37-day holding period, that would be an annualized return of 62.5%.",
+    "doNotPaginate": false,
+    "embedData": [
+        {
+            "id": 0,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "BKE $45 February 16 Call",
+                "guid": "659ec2d0ff49be3b3505df11",
+                "caption": "BKE $45 February 16 Call",
+                "credit": "stockoptionschannel.com",
+                "width": 498,
+                "height": 664,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "BKE $45 February 16 Call",
+                "aspectRatio": 133.33333333333331,
+                "author": "95",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-0\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659ec2d0ff49be3b3505df11/BKE--45-February-16-Call/960x0.png?fit=scale\" alt=\"BKE $45 February 16 Call\" data-height=\"664\" data-width=\"498\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">BKE $45 February 16 Call</p></fbs-accordion><small class=\"color-body light-text\">stockoptionschannel.com</small></figcaption></figure>",
+            "position": "middle"
+        }
+    ],
+    "formatVariant": {
+        "hasCerosEmbed": false,
+        "signature": "visible",
+        "socialShareIcons": "visible",
+        "channelSection": "visible",
+        "badge": "visible"
+    },
+    "image": "https://specials-images.forbesimg.com/imageserve/659ec2d0ff49be3b3505df11/960x0.jpg",
+    "manualDescription": "If BKE closes above $42.50 on February 16, our shares would be sold at $42.50 and we would earn, including dividends, $2.70 per share on $42.65 per share at risk, or 6.33%. Over a 37-day holding period, that would be an annualized return of 62.5%.",
+    "metaEmbeds": {
+        "thumbnail": {
+            "id": -1,
+            "type": "image",
+            "data": {
+                "source": "dam",
+                "html": "BKE $45 February 16 Call",
+                "guid": "659ec2d0ff49be3b3505df11",
+                "caption": "BKE $45 February 16 Call",
+                "credit": "stockoptionschannel.com",
+                "width": 498,
+                "height": 664,
+                "cropRatioName": "custom",
+                "hasTransparency": false,
+                "alignment": "",
+                "imageType": "image/png",
+                "altText": "BKE $45 February 16 Call",
+                "aspectRatio": 133.33333333333331,
+                "author": "95",
+                "newTabLink": false
+            },
+            "inflatedHTML": "<figure class=\"embed-base image-embed embed-0\" role=\"presentation\"><div><img src=\"https://specials-images.forbesimg.com/imageserve/659ec2d0ff49be3b3505df11/BKE--45-February-16-Call/960x0.png?fit=scale\" alt=\"BKE $45 February 16 Call\" data-height=\"664\" data-width=\"498\"/></div><figcaption><fbs-accordion><p class=\"color-body light-text\">BKE $45 February 16 Call</p></fbs-accordion><small class=\"color-body light-text\">stockoptionschannel.com</small></figcaption></figure>",
+            "position": "middle"
+        }
+    },
+    "newsKeywords": [
+        "BKE",
+        "nyse:BKE",
+        "special dividend",
+        "adjusted options",
+        "buy write",
+        "options income",
+        "ex-dividend date"
+    ],
+    "primaryChannel": {
+        "id": "channel_11",
+        "channelId": "channel_11",
+        "channelName": "Newsletters",
+        "sectionId": "section_1914",
+        "sectionName": "Investing Newsletters",
+        "url": "/newsletters",
+        "showAds": false,
+        "showLicenseOptions": false,
+        "showSpreadsheetButton": false,
+        "enableComments": false,
+        "badges": [],
+        "hexValue": "#737373",
+        "secondaryHexValue": "#bbbbbb",
+        "showQotd": false,
+        "channelUrl": "/newsletters-old"
+    },
+    "primaryChannelId": "channel_11",
+    "primarySectionId": "section_1914",
+    "pTagCount": 11,
+    "pubCode": "PU",
+    "scheduled": false,
+    "sentimentScore": 0,
+    "showComments": false,
+    "siteSlug": "forbes-premium-income-report",
+    "statsEntities": [
+        {
+            "id": null,
+            "name": "Buckle",
+            "type": "CONSUMER_GOOD",
+            "relevance": 0.15812614560127258
+        },
+        {
+            "id": null,
+            "name": "BKE",
+            "type": "ORGANIZATION",
+            "relevance": 0.15715374052524567
+        },
+        {
+            "id": null,
+            "name": "dividends",
+            "type": "OTHER",
+            "relevance": 0.051405169069767
+        },
+        {
+            "id": null,
+            "name": "shares",
+            "type": "OTHER",
+            "relevance": 0.04452166333794594
+        },
+        {
+            "id": null,
+            "name": "retail sector",
+            "type": "OTHER",
+            "relevance": 0.03951333463191986
+        },
+        {
+            "id": null,
+            "name": "calls",
+            "type": "OTHER",
+            "relevance": 0.03667336702346802
+        },
+        {
+            "id": null,
+            "name": "charts",
+            "type": "OTHER",
+            "relevance": 0.0365339033305645
+        },
+        {
+            "id": null,
+            "name": "trade",
+            "type": "OTHER",
+            "relevance": 0.0365339033305645
+        },
+        {
+            "id": null,
+            "name": "highs",
+            "type": "OTHER",
+            "relevance": 0.032139260321855545
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.025858694687485695
+        },
+        {
+            "id": null,
+            "name": "dividend",
+            "type": "OTHER",
+            "relevance": 0.024091526865959167
+        },
+        {
+            "id": null,
+            "name": "strength",
+            "type": "OTHER",
+            "relevance": 0.01682904176414013
+        },
+        {
+            "id": null,
+            "name": "affair",
+            "type": "EVENT",
+            "relevance": 0.01531634945422411
+        },
+        {
+            "id": null,
+            "name": "earning report",
+            "type": "WORK_OF_ART",
+            "relevance": 0.014147242531180382
+        },
+        {
+            "id": null,
+            "name": "contract",
+            "type": "OTHER",
+            "relevance": 0.010762598365545273
+        },
+        {
+            "id": null,
+            "name": "dividend",
+            "type": "OTHER",
+            "relevance": 0.009156427346169949
+        },
+        {
+            "id": null,
+            "name": "readers",
+            "type": "PERSON",
+            "relevance": 0.009133594110608101
+        },
+        {
+            "id": null,
+            "name": "stock",
+            "type": "OTHER",
+            "relevance": 0.008650967851281166
+        },
+        {
+            "id": null,
+            "name": "Buckle",
+            "type": "OTHER",
+            "relevance": 0.007775073871016502
+        },
+        {
+            "id": null,
+            "name": "calls",
+            "type": "OTHER",
+            "relevance": 0.007765623740851879
+        },
+        {
+            "id": null,
+            "name": "shares",
+            "type": "OTHER",
+            "relevance": 0.00769012700766325
+        },
+        {
+            "id": null,
+            "name": "shares",
+            "type": "OTHER",
+            "relevance": 0.007268155924975872
+        },
+        {
+            "id": null,
+            "name": "Debit",
+            "type": "OTHER",
+            "relevance": 0.006604608613997698
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.006596322637051344
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.006525204051285982
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.006014753133058548
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.006014753133058548
+        },
+        {
+            "id": null,
+            "name": "buy write",
+            "type": "OTHER",
+            "relevance": 0.005910832900553942
+        },
+        {
+            "id": null,
+            "name": "retailer",
+            "type": "ORGANIZATION",
+            "relevance": 0.005892221815884113
+        },
+        {
+            "id": null,
+            "name": "earnings",
+            "type": "OTHER",
+            "relevance": 0.005892221815884113
+        },
+        {
+            "id": null,
+            "name": "close",
+            "type": "EVENT",
+            "relevance": 0.005880950018763542
+        },
+        {
+            "id": null,
+            "name": "questions",
+            "type": "OTHER",
+            "relevance": 0.005831061862409115
+        },
+        {
+            "id": null,
+            "name": "dividends",
+            "type": "OTHER",
+            "relevance": 0.0056106471456587315
+        },
+        {
+            "id": null,
+            "name": "stock",
+            "type": "OTHER",
+            "relevance": 0.005285769235342741
+        },
+        {
+            "id": null,
+            "name": "call options contracts",
+            "type": "OTHER",
+            "relevance": 0.005267108790576458
+        },
+        {
+            "id": null,
+            "name": "buy write",
+            "type": "OTHER",
+            "relevance": 0.0044914958998560905
+        },
+        {
+            "id": null,
+            "name": "debit",
+            "type": "OTHER",
+            "relevance": 0.004478338174521923
+        },
+        {
+            "id": null,
+            "name": "stocks",
+            "type": "OTHER",
+            "relevance": 0.004379999823868275
+        },
+        {
+            "id": null,
+            "name": "investments",
+            "type": "OTHER",
+            "relevance": 0.0042090085335075855
+        },
+        {
+            "id": null,
+            "name": "revenue decline",
+            "type": "OTHER",
+            "relevance": 0.004148366395384073
+        },
+        {
+            "id": null,
+            "name": "payout",
+            "type": "OTHER",
+            "relevance": 0.0039435033686459064
+        },
+        {
+            "id": null,
+            "name": "ex-dividend",
+            "type": "OTHER",
+            "relevance": 0.0039435033686459064
+        },
+        {
+            "id": null,
+            "name": "transaction",
+            "type": "OTHER",
+            "relevance": 0.00393378222361207
+        },
+        {
+            "id": null,
+            "name": "strike prices",
+            "type": "OTHER",
+            "relevance": 0.003929574508219957
+        },
+        {
+            "id": null,
+            "name": "clothing",
+            "type": "CONSUMER_GOOD",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "footwear",
+            "type": "CONSUMER_GOOD",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "accessories",
+            "type": "CONSUMER_GOOD",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "network",
+            "type": "OTHER",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "stores",
+            "type": "LOCATION",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "states",
+            "type": "LOCATION",
+            "relevance": 0.003907355945557356
+        },
+        {
+            "id": null,
+            "name": "dividends",
+            "type": "OTHER",
+            "relevance": 0.003732666838914156
+        },
+        {
+            "id": null,
+            "name": "call contract",
+            "type": "OTHER",
+            "relevance": 0.0036239740438759327
+        },
+        {
+            "id": null,
+            "name": "amount",
+            "type": "OTHER",
+            "relevance": 0.0036053836811333895
+        },
+        {
+            "id": null,
+            "name": "risk",
+            "type": "OTHER",
+            "relevance": 0.0035955007188022137
+        },
+        {
+            "id": null,
+            "name": "jdobosz@forbes.com",
+            "type": "OTHER",
+            "relevance": 0.0034475810825824738
+        },
+        {
+            "id": null,
+            "name": "assets",
+            "type": "OTHER",
+            "relevance": 0.0030718520283699036
+        },
+        {
+            "id": null,
+            "name": "securities",
+            "type": "OTHER",
+            "relevance": 0.0030718520283699036
+        },
+        {
+            "id": null,
+            "name": "due diligence",
+            "type": "OTHER",
+            "relevance": 0.0029772587586194277
+        },
+        {
+            "id": null,
+            "name": "profits",
+            "type": "OTHER",
+            "relevance": 0.0027980084996670485
+        },
+        {
+            "id": null,
+            "name": "bid-ask",
+            "type": "OTHER",
+            "relevance": 0.0027014706283807755
+        },
+        {
+            "id": null,
+            "name": "NOTE",
+            "type": "OTHER",
+            "relevance": 0.0026997660752385855
+        },
+        {
+            "id": null,
+            "name": "parties",
+            "type": "ORGANIZATION",
+            "relevance": 0.0026997660752385855
+        },
+        {
+            "id": null,
+            "name": "circumstances",
+            "type": "OTHER",
+            "relevance": 0.0026981455739587545
+        },
+        {
+            "id": null,
+            "name": "goals",
+            "type": "OTHER",
+            "relevance": 0.0026981455739587545
+        },
+        {
+            "id": null,
+            "name": "concentration",
+            "type": "OTHER",
+            "relevance": 0.0026981455739587545
+        },
+        {
+            "id": null,
+            "name": "portfolio",
+            "type": "OTHER",
+            "relevance": 0.0026981455739587545
+        },
+        {
+            "id": null,
+            "name": "diversification",
+            "type": "OTHER",
+            "relevance": 0.0026981455739587545
+        },
+        {
+            "id": null,
+            "name": "knowledge",
+            "type": "OTHER",
+            "relevance": 0.002665146952494979
+        },
+        {
+            "id": null,
+            "name": "positions",
+            "type": "OTHER",
+            "relevance": 0.0026607713662087917
+        },
+        {
+            "id": null,
+            "name": "content",
+            "type": "OTHER",
+            "relevance": 0.002528799930587411
+        },
+        {
+            "id": null,
+            "name": "Neb.",
+            "type": "LOCATION",
+            "relevance": 0.00230950815603137
+        },
+        {
+            "id": null,
+            "name": "Kearney",
+            "type": "PERSON",
+            "relevance": 0.00230950815603137
+        },
+        {
+            "id": null,
+            "name": "securities",
+            "type": "OTHER",
+            "relevance": 0.002146339975297451
+        },
+        {
+            "id": null,
+            "name": "assets",
+            "type": "OTHER",
+            "relevance": 0.002146339975297451
+        },
+        {
+            "id": null,
+            "name": "information",
+            "type": "OTHER",
+            "relevance": 0.002059393096715212
+        },
+        {
+            "id": null,
+            "name": "characteristics",
+            "type": "OTHER",
+            "relevance": 0.0019992843735963106
+        },
+        {
+            "id": null,
+            "name": "share",
+            "type": "OTHER",
+            "relevance": 0.0019849282689392567
+        },
+        {
+            "id": null,
+            "name": "performance",
+            "type": "OTHER",
+            "relevance": 0.0018871660577133298
+        },
+        {
+            "id": null,
+            "name": "newsletter",
+            "type": "WORK_OF_ART",
+            "relevance": 0.0018871660577133298
+        },
+        {
+            "id": null,
+            "name": "accuracy",
+            "type": "OTHER",
+            "relevance": 0.0018861336866393685
+        },
+        {
+            "id": null,
+            "name": "data",
+            "type": "OTHER",
+            "relevance": 0.0018861336866393685
+        },
+        {
+            "id": null,
+            "name": "members",
+            "type": "PERSON",
+            "relevance": 0.001885145902633667
+        },
+        {
+            "id": null,
+            "name": "staff",
+            "type": "PERSON",
+            "relevance": 0.001885145902633667
+        },
+        {
+            "id": null,
+            "name": "some",
+            "type": "OTHER",
+            "relevance": 0.001885145902633667
+        },
+        {
+            "id": null,
+            "name": "Copyright",
+            "type": "OTHER",
+            "relevance": 0.0018841988639906049
+        },
+        {
+            "id": null,
+            "name": "dividends",
+            "type": "OTHER",
+            "relevance": 0.001848119543865323
+        },
+        {
+            "id": null,
+            "name": "Forbes Premium Income Report",
+            "type": "WORK_OF_ART",
+            "relevance": 0.00175871339160949
+        },
+        {
+            "id": null,
+            "name": "stock",
+            "type": "OTHER",
+            "relevance": 0.001590007683262229
+        },
+        {
+            "id": null,
+            "name": "premium",
+            "type": "OTHER",
+            "relevance": 0.0014804030070081353
+        },
+        {
+            "id": null,
+            "name": "Options income",
+            "type": "OTHER",
+            "relevance": 0.0014793615555390716
+        },
+        {
+            "id": null,
+            "name": "return",
+            "type": "EVENT",
+            "relevance": 0.001462987856939435
+        },
+        {
+            "id": null,
+            "name": "trade",
+            "type": "OTHER",
+            "relevance": 0.0013492166763171554
+        },
+        {
+            "id": null,
+            "name": "cost basis",
+            "type": "OTHER",
+            "relevance": 0.001185817178338766
+        },
+        {
+            "id": null,
+            "name": "expiration",
+            "type": "EVENT",
+            "relevance": 0.001185817178338766
+        },
+        {
+            "id": null,
+            "name": "Forbes Media LLC",
+            "type": "ORGANIZATION",
+            "relevance": 0.0011133358348160982
+        },
+        {
+            "id": null,
+            "name": "John Dobosz",
+            "type": "PERSON",
+            "relevance": 0.0008600886794738472
+        },
+        {
+            "id": null,
+            "name": "$45",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.65",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "1 February 16",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "February 16",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "February 16",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "February 16",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2024",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$2.50",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$0.35",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$45",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$45",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.65",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$1.26 billion",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$4.25",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$2.85",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$45",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.65",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$45",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.50",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.50",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.50",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$2.70",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.65",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$42.50",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$39.80",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "$93",
+            "type": "PRICE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2023",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "1.26 billion",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "0.35",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2023",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2.50",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "16",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "45",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "45",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "37",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "52",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.50",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "16",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.65",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2024",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "45",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.50",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "6.33",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "6.2",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "45",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "93",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.65",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "1",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "39.80",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "one",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "100",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "100",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "45",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "4.25",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "16",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "16",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2.70",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "1",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "16",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "10",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "451",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "17",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "2.85",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.50",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "62.5",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42.50",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "42",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "two",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "five",
+            "type": "NUMBER",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "February 16",
+            "type": "DATE",
+            "relevance": 0
+        },
+        {
+            "id": null,
+            "name": "Buckle Buy Write Feasts On Dividends With Ex-Dividend Date",
+            "type": "WORK_OF_ART",
+            "relevance": 1
+        }
+    ],
+    "templateType": "newsletter",
+    "timestamp": 1704903428920,
+    "bertieTimestamp": 1704903428920,
+    "type": "newsletter",
+    "updatedTimestamp": 1704903428919,
+    "uri": "http://www.forbes.com/newsletters/forbes-premium-income-report/2024/01/10/buckle-buy-write-feasts-on-dividends-with-ex-dividend-date-tomorrow/",
+    "version": 5,
+    "visible": true,
+    "writtenByForbesStaff": true,
+    "author": "John Dobosz",
+    "channelSection": [
+        {
+            "channelId": "channel_11"
+        },
+        {
+            "channelId": "channel_11",
+            "sectionId": "section_1914"
+        }
+    ],
+    "hideDescription": false,
+    "id": "content_659eb0bb3bc5cd7e3b1abf20",
+    "naturalId": "blogAndPostId/blog/post/3198-659eb0bb3bc5cd7e3b1abf20",
+    "source": "forbespress",
+    "sponsored": false,
+    "title": "Buckle Buy Write Feasts On Dividends With Ex-Dividend Date Tomorrow"
+}

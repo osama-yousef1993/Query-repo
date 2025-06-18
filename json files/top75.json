@@ -1,0 +1,452 @@
+[
+    {
+        "symbol": "bitcoin",
+        "name": "Bitcoin",
+        "slug": "bitcoin-btc",
+        "market_cap": 947836541285
+    },
+    {
+        "symbol": "ethereum",
+        "name": "Ethereum",
+        "slug": "ethereum-eth",
+        "market_cap": 301389305867
+    },
+    {
+        "symbol": "tether",
+        "name": "Tether",
+        "slug": "tether-usdt",
+        "market_cap": 96364432727
+    },
+    {
+        "symbol": "binancecoin",
+        "name": "BNB",
+        "slug": "bnb-bnb",
+        "market_cap": 49481827642
+    },
+    {
+        "symbol": "solana",
+        "name": "Solana",
+        "slug": "solana-sol",
+        "market_cap": 47351552047
+    },
+    {
+        "symbol": "ripple",
+        "name": "XRP",
+        "slug": "xrp-xrp",
+        "market_cap": 28830142212
+    },
+    {
+        "symbol": "usd-coin",
+        "name": "USDC",
+        "slug": "usdc-usdc",
+        "market_cap": 27931661891
+    },
+    {
+        "symbol": "staked-ether",
+        "name": "Lido Staked Ether",
+        "slug": "lido-staked-ether-steth",
+        "market_cap": 24127977506
+    },
+    {
+        "symbol": "cardano",
+        "name": "Cardano",
+        "slug": "cardano-ada",
+        "market_cap": 19034064732
+    },
+    {
+        "symbol": "avalanche-2",
+        "name": "Avalanche",
+        "slug": "avalanche-avax",
+        "market_cap": 14681183702
+    },
+    {
+        "symbol": "chainlink",
+        "name": "Chainlink",
+        "slug": "chainlink-link",
+        "market_cap": 11896734268
+    },
+    {
+        "symbol": "dogecoin",
+        "name": "Dogecoin",
+        "slug": "dogecoin-doge",
+        "market_cap": 11730307966
+    },
+    {
+        "symbol": "tron",
+        "name": "TRON",
+        "slug": "tron-trx",
+        "market_cap": 10948604780
+    },
+    {
+        "symbol": "polkadot",
+        "name": "Polkadot",
+        "slug": "polkadot-dot",
+        "market_cap": 9567090824
+    },
+    {
+        "symbol": "matic-network",
+        "name": "Polygon",
+        "slug": "polygon-matic",
+        "market_cap": 7860751755
+    },
+    {
+        "symbol": "wrapped-bitcoin",
+        "name": "Wrapped Bitcoin",
+        "slug": "wrapped-bitcoin-wbtc",
+        "market_cap": 7601533495
+    },
+    {
+        "symbol": "the-open-network",
+        "name": "Toncoin",
+        "slug": "toncoin-ton",
+        "market_cap": 7283040248
+    },
+    {
+        "symbol": "internet-computer",
+        "name": "Internet Computer",
+        "slug": "internet-computer-icp",
+        "market_cap": 6008316347
+    },
+    {
+        "symbol": "shiba-inu",
+        "name": "Shiba Inu",
+        "slug": "shiba-inu-shib",
+        "market_cap": 5583236683
+    },
+    {
+        "symbol": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "slug": "bitcoin-cash-bch",
+        "market_cap": 5517098403
+    },
+    {
+        "symbol": "litecoin",
+        "name": "Litecoin",
+        "slug": "litecoin-ltc",
+        "market_cap": 5363147520
+    },
+    {
+        "symbol": "uniswap",
+        "name": "Uniswap",
+        "slug": "uniswap-uni",
+        "market_cap": 5085541996
+    },
+    {
+        "symbol": "dai",
+        "name": "Dai",
+        "slug": "dai-dai",
+        "market_cap": 4919139941
+    },
+    {
+        "symbol": "leo-token",
+        "name": "LEO Token",
+        "slug": "leo-token-leo",
+        "market_cap": 3828349322
+    },
+    {
+        "symbol": "immutable-x",
+        "name": "Immutable",
+        "slug": "immutable-imx",
+        "market_cap": 3768502139
+    },
+    {
+        "symbol": "cosmos",
+        "name": "Cosmos Hub",
+        "slug": "cosmos-hub-atom",
+        "market_cap": 3760053542
+    },
+    {
+        "symbol": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "slug": "ethereum-classic-etc",
+        "market_cap": 3691389044
+    },
+    {
+        "symbol": "bittensor",
+        "name": "Bittensor",
+        "slug": "bittensor-tao",
+        "market_cap": 3413076289
+    },
+    {
+        "symbol": "optimism",
+        "name": "Optimism",
+        "slug": "optimism-op",
+        "market_cap": 3410149249
+    },
+    {
+        "symbol": "near",
+        "name": "NEAR Protocol",
+        "slug": "near-protocol-near",
+        "market_cap": 3287642253
+    },
+    {
+        "symbol": "celestia",
+        "name": "Celestia",
+        "slug": "celestia-tia",
+        "market_cap": 3207791353
+    },
+    {
+        "symbol": "kaspa",
+        "name": "Kaspa",
+        "slug": "kaspa-kas",
+        "market_cap": 3195469909
+    },
+    {
+        "symbol": "stellar",
+        "name": "Stellar",
+        "slug": "stellar-xlm",
+        "market_cap": 3171386987
+    },
+    {
+        "symbol": "injective-protocol",
+        "name": "Injective",
+        "slug": "injective-inj",
+        "market_cap": 3121849221
+    },
+    {
+        "symbol": "aptos",
+        "name": "Aptos",
+        "slug": "aptos-apt",
+        "market_cap": 3087762859
+    },
+    {
+        "symbol": "okb",
+        "name": "OKB",
+        "slug": "okb-okb",
+        "market_cap": 2961860785
+    },
+    {
+        "symbol": "first-digital-usd",
+        "name": "First Digital USD",
+        "slug": "first-digital-usd-fdusd",
+        "market_cap": 2769556472
+    },
+    {
+        "symbol": "filecoin",
+        "name": "Filecoin",
+        "slug": "filecoin-fil",
+        "market_cap": 2719689360
+    },
+    {
+        "symbol": "blockstack",
+        "name": "Stacks",
+        "slug": "stacks-stx",
+        "market_cap": 2682064421
+    },
+    {
+        "symbol": "hedera-hashgraph",
+        "name": "Hedera",
+        "slug": "hedera-hbar",
+        "market_cap": 2643293195
+    },
+    {
+        "symbol": "lido-dao",
+        "name": "Lido DAO",
+        "slug": "lido-dao-ldo",
+        "market_cap": 2602605775
+    },
+    {
+        "symbol": "arbitrum",
+        "name": "Arbitrum",
+        "slug": "arbitrum-arb",
+        "market_cap": 2493469808
+    },
+    {
+        "symbol": "crypto-com-chain",
+        "name": "Cronos",
+        "slug": "cronos-cro",
+        "market_cap": 2305370959
+    },
+    {
+        "symbol": "vechain",
+        "name": "VeChain",
+        "slug": "vechain-vet",
+        "market_cap": 2214586666
+    },
+    {
+        "symbol": "monero",
+        "name": "Monero",
+        "slug": "monero-xmr",
+        "market_cap": 2199598084
+    },
+    {
+        "symbol": "mantle",
+        "name": "Mantle",
+        "slug": "mantle-mnt",
+        "market_cap": 2080889900
+    },
+    {
+        "symbol": "sui",
+        "name": "Sui",
+        "slug": "sui-sui",
+        "market_cap": 1984905626
+    },
+    {
+        "symbol": "maker",
+        "name": "Maker",
+        "slug": "maker-mkr",
+        "market_cap": 1862648122
+    },
+    {
+        "symbol": "render-token",
+        "name": "Render",
+        "slug": "render-rndr",
+        "market_cap": 1750850928
+    },
+    {
+        "symbol": "sei-network",
+        "name": "Sei",
+        "slug": "sei-sei",
+        "market_cap": 1636135496
+    },
+    {
+        "symbol": "bitcoin-cash-sv",
+        "name": "Bitcoin SV",
+        "slug": "bitcoin-sv-bsv",
+        "market_cap": 1582606083
+    },
+    {
+        "symbol": "the-graph",
+        "name": "The Graph",
+        "slug": "the-graph-grt",
+        "market_cap": 1582264194
+    },
+    {
+        "symbol": "thorchain",
+        "name": "THORChain",
+        "slug": "thorchain-rune",
+        "market_cap": 1557899170
+    },
+    {
+        "symbol": "rocket-pool-eth",
+        "name": "Rocket Pool ETH",
+        "slug": "rocket-pool-eth-reth",
+        "market_cap": 1548119347
+    },
+    {
+        "symbol": "quant-network",
+        "name": "Quant",
+        "slug": "quant-qnt",
+        "market_cap": 1500819491
+    },
+    {
+        "symbol": "elrond-erd-2",
+        "name": "MultiversX",
+        "slug": "multiversx-egld",
+        "market_cap": 1484236462
+    },
+    {
+        "symbol": "true-usd",
+        "name": "TrueUSD",
+        "slug": "trueusd-tusd",
+        "market_cap": 1463419990
+    },
+    {
+        "symbol": "mina-protocol",
+        "name": "Mina Protocol",
+        "slug": "mina-protocol-mina",
+        "market_cap": 1444539906
+    },
+    {
+        "symbol": "algorand",
+        "name": "Algorand",
+        "slug": "algorand-algo",
+        "market_cap": 1403566452
+    },
+    {
+        "symbol": "ordinals",
+        "name": "ORDI",
+        "slug": "ordi-ordi",
+        "market_cap": 1305554482
+    },
+    {
+        "symbol": "beam-2",
+        "name": "Beam",
+        "slug": "beam-beam",
+        "market_cap": 1297460666
+    },
+    {
+        "symbol": "aave",
+        "name": "Aave",
+        "slug": "aave-aave",
+        "market_cap": 1289434261
+    },
+    {
+        "symbol": "tokenize-xchange",
+        "name": "Tokenize Xchange",
+        "slug": "tokenize-xchange-tkx",
+        "market_cap": 1254095014
+    },
+    {
+        "symbol": "dydx-chain",
+        "name": "dYdX",
+        "slug": "dydx-dydx",
+        "market_cap": 1248899750
+    },
+    {
+        "symbol": "flow",
+        "name": "Flow",
+        "slug": "flow-flow",
+        "market_cap": 1225501032
+    },
+    {
+        "symbol": "mantle-staked-ether",
+        "name": "Mantle Staked Ether",
+        "slug": "mantle-staked-ether-meth",
+        "market_cap": 1185285552
+    },
+    {
+        "symbol": "helium",
+        "name": "Helium",
+        "slug": "helium-hnt",
+        "market_cap": 1154195163
+    },
+    {
+        "symbol": "flare-networks",
+        "name": "Flare",
+        "slug": "flare-flr",
+        "market_cap": 1139459708
+    },
+    {
+        "symbol": "havven",
+        "name": "Synthetix Network",
+        "slug": "synthetix-network-snx",
+        "market_cap": 1127266708
+    },
+    {
+        "symbol": "fantom",
+        "name": "Fantom",
+        "slug": "fantom-ftm",
+        "market_cap": 1094478515
+    },
+    {
+        "symbol": "dymension",
+        "name": "Dymension",
+        "slug": "dymension-dym",
+        "market_cap": 1090563245
+    },
+    {
+        "symbol": "the-sandbox",
+        "name": "The Sandbox",
+        "slug": "the-sandbox-sand",
+        "market_cap": 1053756960
+    },
+    {
+        "symbol": "osmosis",
+        "name": "Osmosis",
+        "slug": "osmosis-osmo",
+        "market_cap": 1038911501
+    },
+    {
+        "symbol": "axie-infinity",
+        "name": "Axie Infinity",
+        "slug": "axie-infinity-axs",
+        "market_cap": 1032931151
+    },
+    {
+        "symbol": "astar",
+        "name": "Astar",
+        "slug": "astar-astr",
+        "market_cap": 1031647585
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "name": "TotalVolume",
+        "type": "STRING"
+    },
+    {
+        "name": "NumMarkets",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "NumTrades",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "NumCryptoMarkets",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "NumCryptoCurrencies",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "NumFiatMarkets",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "NumFiatCurrencies",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "TopQuoteDominance",
+        "type": "RECORD",
+        "fields": [
+            {
+                "name": "Symbol",
+                "type": "STRING"
+            },
+            {
+                "name": "Name",
+                "type": "STRING"
+            },
+            {
+                "name": "Dominance_pct",
+                "type": "FLOAT64"
+            }
+        ]
+    },
+    {
+        "name": "TopCryptoQuoteDominance",
+        "type": "RECORD",
+        "fields": [
+            {
+                "name": "Symbol",
+                "type": "STRING"
+            },
+            {
+                "name": "Name",
+                "type": "STRING"
+            },
+            {
+                "name": "Dominance_pct",
+                "type": "FLOAT64"
+            }
+        ]
+    },
+    {
+        "name": "TopMarkets",
+        "type": "RECORD",
+        "fields": [
+            {
+                "name": "Market",
+                "type": "STRING"
+            },
+            {
+                "name": "Base",
+                "type": "STRING"
+            },
+            {
+                "name": "BaseName",
+                "type": "STRING"
+            },
+            {
+                "name": "Quote",
+                "type": "STRING"
+            },
+            {
+                "name": "QuoteName",
+                "type": "STRING"
+            },
+            {
+                "name": "Volume",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChange",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChangePct",
+                "type": "FLOAT64"
+            }
+        ]
+    },
+    {
+        "name": "top_volume_deltas",
+        "type": "RECORD",
+        "fields": [
+            {
+                "name": "Market",
+                "type": "STRING"
+            },
+            {
+                "name": "Base",
+                "type": "STRING"
+            },
+            {
+                "name": "BaseName",
+                "type": "STRING"
+            },
+            {
+                "name": "Quote",
+                "type": "STRING"
+            },
+            {
+                "name": "QuoteName",
+                "type": "STRING"
+            },
+            {
+                "name": "Volume",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChange",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChangePct",
+                "type": "FLOAT64"
+            }
+        ]
+    },
+    {
+        "name": "top_volume_gainers",
+        "type": "RECORD",
+        "fields": [
+            {
+                "name": "Market",
+                "type": "STRING"
+            },
+            {
+                "name": "Base",
+                "type": "STRING"
+            },
+            {
+                "name": "BaseName",
+                "type": "STRING"
+            },
+            {
+                "name": "Quote",
+                "type": "STRING"
+            },
+            {
+                "name": "QuoteName",
+                "type": "STRING"
+            },
+            {
+                "name": "Volume",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChange",
+                "type": "FLOAT64"
+            },
+            {
+                "name": "VolumeChangePct",
+                "type": "FLOAT64"
+            }
+        ]
+    }
+]

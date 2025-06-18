@@ -1,0 +1,627 @@
+[
+    [
+        "Does News Tag Pill Already Exist?",
+        "\tCategory",
+        "\tNews Tag",
+        "\tNews Page Meta Title",
+        "\tNews Page Meta Description",
+        "\tNews Page H1"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tBitcoin",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Bitcoin news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Bitcoin News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tShiba Inu",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Shiba Inu news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Shiba Inu News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tXRP",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in XRP news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest XRP News"
+    ],
+    [
+        "No",
+        "\tEnterprise Blockchain",
+        "\tBlackRock",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest BlackRock news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest BlackRock News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tBitTorrent",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking BitTorrent news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest BitTorrent News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tDogecoin",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Dogecoin news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Dogecoin News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tPolygon",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Polygon news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Polygon News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tOsmosis",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Osmosis news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Osmosis News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tEthereum",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Ethereum news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Ethereum News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto Taxes",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Crypto Taxes news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Crypto Taxes News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tEOS",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest EOS news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest EOS News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tNFT",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking NFT news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest NFT News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tTRON",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in TRON news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest TRON News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tUniswap",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Uniswap news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Uniswap News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tKava",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Kava news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Kava News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tBlockchain",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Blockchain news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Blockchain News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tCardano",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Cardano news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Cardano News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tAave",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Aave news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Aave News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tIOTA",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest IOTA news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest IOTA News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto ETF",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Crypto ETF news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Crypto ETF News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tSolana",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Solana news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Solana News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tUSDC",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with USDC news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest USDC News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tHelium",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Helium news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Helium News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tCBDC",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking CBDC news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest CBDC News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tStellar",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Stellar news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Stellar News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tTether",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Tether news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Tether News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tBNB",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest BNB news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest BNB News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tMonero",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Monero news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Monero News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tMantle",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Mantle news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Mantle News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tFlow",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Flow news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Flow News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tBlur",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Blur news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Blur News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tLitecoin",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Litecoin news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Litecoin News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tOptimism",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Optimism news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Optimism News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tImmutable",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Immutable news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Immutable News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tRender",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Render news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Render News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tKuCoin",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking KuCoin news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest KuCoin News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tNEO",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in NEO news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest NEO News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tGALA",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with GALA news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest GALA News"
+    ],
+    [
+        "No\tMiners\tBitcoin Mining",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Bitcoin Mining news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Bitcoin Mining News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto Gaming",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Crypto Gaming news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Crypto Gaming News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tDai",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Dai news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Dai News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tQuant",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Quant news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Quant News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tWOO",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest WOO news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest WOO News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tPancakeSwap",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking PancakeSwap news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest PancakeSwap News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tBonk",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Bonk news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Bonk News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tBitcoin Halving",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tKeep up with Bitcoin Halving news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Bitcoin Halving News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tBitcoin ETF",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Bitcoin ETF news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Bitcoin ETF News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tWeb3",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Web3 news on Forbes. From new innovations to regulatory shifts",
+        " we provide insights for Web3 enthusiasts. Stay ahead in the Web3 game!",
+        "\tLatest Web3 News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tChainlink",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Chainlink news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Chainlink News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tSei",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Sei news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Sei News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tAlgorand",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Algorand news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Algorand News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tSui",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Sui news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Sui News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tDecentraland",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Decentraland news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Decentraland News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tDAO",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with DAO news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest DAO News"
+    ],
+    [
+        "No\tMiners\tCrypto Mining",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Crypto Mining news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Crypto Mining News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tBitcoin Cash",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Bitcoin Cash news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Bitcoin Cash News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tFilecoin",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Filecoin news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Filecoin News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tPolkadot",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tKeep up with Polkadot news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Polkadot News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto Regulation",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Crypto Regulation news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Crypto Regulation News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tStacks",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Stacks news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Stacks News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tVeChain",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in VeChain news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest VeChain News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tGrayscale",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tKeep up with Grayscale news and market trends with Forbes. From price fluctuations to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Grayscale News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tDeFi",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest DeFi news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest DeFi News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto Wallet",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Crypto Wallet news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Crypto Wallet News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tCrypto Governance",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Crypto Governance news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Crypto Governance News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tAptos",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tStay informed with the latest Aptos news! Our page delivers real-time updates",
+        " expert analyses",
+        " and market trends. Dive into the world of crypto today!",
+        "\tLatest Aptos News"
+    ],
+    [
+        "No",
+        "\tProtocol Tokens",
+        "\tCronos",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tExplore breaking Cronos news on Forbes. From price movements to regulatory shifts",
+        " we provide insights for crypto enthusiasts. Stay ahead in the crypto game!",
+        "\tLatest Cronos News"
+    ],
+    [
+        "Yes",
+        "\tProtocol Tokens",
+        "\tTezos",
+        "\t[News Tag] (Ticker) News: Today's Latest Stories By Forbes",
+        "\tUnlock the latest in Tezos news trends and developments on Forbes. Instant updates and market analysis to keep you informed and engaged in the crypto space.",
+        "\tLatest Tezos News"
+    ],
+    [
+        "No",
+        "\tIndustry",
+        "\tDigital Wallet",
+        "\t[News Tag] News: Today's Latest Stories By Forbes",
+        "\tKeep up with digital wallet news and trends with Forbes. From new wallet uses to industry advancements",
+        " we keep you in the loop with timely updates.",
+        "\tLatest Digital Wallet News"
+    ]
+]

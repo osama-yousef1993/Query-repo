@@ -1,0 +1,4 @@
+2024-02-10 19:04:57.866 +03 [55664] FATAL:  could not open directory "pg_notify": No such file or directory
+2024-02-10 19:04:57.867 +03 [55664] LOG:  database system is shut down
+2024-02-10 19:05:09.251 +03 [56051] FATAL:  could not open directory "pg_notify": No such file or directory
+2024-02-10 19:05:09.251 +03 [56051] LOG:  database system is shut down

@@ -1,0 +1,8 @@
+name: Release to PRD
+on:
+  release:
+    types: [published]
+jobs:
+  deploy-prd:
+    name: Deploy
+    runs-on: ubuntu-latest

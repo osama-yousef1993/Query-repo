@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Timestamp",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "MarketCap",
+        "type": "NUMERIC"
+    }
+]

@@ -1,0 +1,40 @@
+[
+ {
+ "id": "",
+ "title": "The Ultimate Crypto Legal Guide To Structuring Your DAO",
+ "image": "https://specials-images.forbesimg.com/imageserve/64da4b58e5ae941f680f2e62/960x0.jpg",
+ "articleURL": "http://www.forbes.com/sites/irinaheaver/2023/08/14/the-ultimate-crypto-legal-guide-to-structuring-your-dao/",
+ "author": "irinaheaver@gmail.com",
+ "type": "Contributor",
+ "authorType": "individual",
+ "authorLink": "http://www.forbes.com/sites/irinaheavergmailcom/",
+ "description": "In the dynamic Web3 world, DAOs are a central component. This ultimate legal guide unravels the complexities of choosing the correct legal structure for DAOs. ",
+ "publishDate": "2023-08-14T18:43:05Z",
+ "disabled": false,
+ "seniorContributor": false,
+ "bylineFormat": 0,
+ "bertieTag": "Regulation",
+ "order": 0,
+ "isFeaturedArticle": false,
+ "lastUpdated": "0001-01-01T00:00:00Z"
+ },
+ {
+ "id": "",
+ "title": "Zero-Knowledge Cryptography Offers A Solution To The Dangers Of Corporate Surveillance",
+ "image": "https://specials-images.forbesimg.com/imageserve/64feb4252696333f52f9e2cd/960x0.jpg?cropX1=0\u0026cropX2=2884\u0026cropY1=0\u0026cropY2=1923",
+ "articleURL": "http://www.forbes.com/sites/digital-assets/2023/09/12/zero-knowledge-cryptography-offers-a-solution-to-the-dangers-of-corporate-surveillance/",
+ "author": "ap@aleo.org",
+ "type": "Contributor",
+ "authorType": "individual",
+ "authorLink": "http://www.forbes.com/sites/apaleoorg/",
+ "description": "Out data online is used for purposes and in ways outside of our control. A new technology called zero-knowledge cryptography offers a solution to that problem.",
+ "publishDate": "2023-09-12T10:24:11Z",
+ "disabled": false,
+ "seniorContributor": false,
+ "bylineFormat": 0,
+ "bertieTag": "Regulation",
+ "order": 0,
+ "isFeaturedArticle": false,
+ "lastUpdated": "0001-01-01T00:00:00Z"
+ }
+ ]

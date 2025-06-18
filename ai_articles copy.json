@@ -1,0 +1,54 @@
+{
+    "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+    "incomingData": {
+        "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+        "summary": {
+            "publishedDate": "Mon, 24 Feb 2025 13:51:39 GMT",
+            "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+            "summary": "The Living Heart Project uses virtual heart twins to revolutionize cardiac care. This collaborative initiative, led by Dassault Systemes and the FDA, allows doctors to simulate procedures and predict outcomes, improving patient care. Learn how this groundbreaking project is transforming heart health and inspiring similar initiatives.",
+            "topics": [
+                {
+                    "name": "Leadership Strategy",
+                    "link": "https://www.forbes.com/leadership-strategy/"
+                },
+                {
+                    "name": "Dassault Systems",
+                    "link": "https://www.forbes.com/companies/dassault-systemes/"
+                }
+            ]
+        },
+        "highlights": {
+            "publishedDate": "Mon, 24 Feb 2025 13:51:39 GMT",
+            "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+            "highlights": [
+                {
+                    "target": "These models are scientifically accurate, which means the efforts could have a massive impact in the years ahead, especially since heart disease is the leading cause of death in the United States.",
+                    "text": "This highlights the significance of accurate virtual heart models in addressing a critical health issue. It's crucial for improving treatment outcomes and could be applied to other disease modeling.",
+                    "topics": [
+                        {
+                            "name": "Explore digital twin technology in healthcare",
+                            "link": "https://www.forbes.com/sites/saibala/2023/12/22/digital-twin-technology-has-the-potential-to-radically-disrupt-healthcare/"
+                        },
+                        {
+                            "name": "Explore applications of AI in healthcare",
+                            "link": "https://www.forbes.com/sites/bernardmarr/2024/07/31/ai-in-healthcare-revolutionizing-medicine-or-overhyped-promise/#:~:text=PROMOTED-,Where%20Are%20We%20Today%3F,-So%20far%2C%20attempts"
+                        }
+                    ]
+                }
+            ]
+        },
+        "callouts": {
+            "publishedDate": "Mon, 24 Feb 2025 13:51:39 GMT",
+            "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+            "callouts": [
+                {
+                    "publishedDate": "Mon, 24 Feb 2025 13:51:39 GMT",
+                    "naturalId": "blogAndPostId/blog/post/54384-66d72c5101f39a74e61fea84",
+                    "id": 1,
+                    "title": "What Is Due Diligence?",
+                    "text": "Due diligence is the process of thoroughly researching and verifying a company's financials, operations, and claims before making an investment. It helps investors avoid fraud and make informed decisions"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Id",
+        "type": "STRING"
+    },
+    {
+        "name": "CapabilityMarkets",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityTrades",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityTradesByTimestamp",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityTradesSnapshot",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityOrdersSnapshot",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityCandles",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "CapabilityTicker",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "Integrated",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "Name",
+        "type": "STRING"
+    },
+    {
+        "name": "Description",
+        "type": "STRING"
+    },
+    {
+        "name": "Location",
+        "type": "STRING"
+    },
+    {
+        "name": "LogoUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "WebsiteUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "FeesUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "TwitterUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "FacebookUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "RedditUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "ChaUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "BlogUrl",
+        "type": "STRING"
+    },
+    {
+        "name": "Year",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "TransparencyGrade",
+        "type": "STRING"
+    },
+    {
+        "name": "OrderBooksInterval",
+        "type": "NUMERIC"
+    },
+    {
+        "name": "Centralized",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "Decentralized",
+        "type": "NUMERIC"
+    }
+]

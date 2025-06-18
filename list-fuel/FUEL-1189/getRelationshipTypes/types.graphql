@@ -1,0 +1,16 @@
+"""
+@file src/graphql/mutation/getRelationshipTypes/types.graphql
+@description Query to get all relationship Types
+"""
+
+# Response with schema requirements information
+type RelationshipTypesResponse {
+  success: Boolean!
+  templateCsv: String
+  requirements: String!
+}
+
+# Returns list of relationship types
+extend type Query {
+  getRelationshipTypes(): RelationshipTypesResponse!
+}

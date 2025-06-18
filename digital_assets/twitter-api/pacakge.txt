@@ -1,0 +1,4 @@
+ticket FDA-5161
+
+github.com/dghubble/go-twitter
+github.com/dghubble/oauth1

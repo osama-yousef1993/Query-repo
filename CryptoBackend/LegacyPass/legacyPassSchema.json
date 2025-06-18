@@ -1,0 +1,14 @@
+[
+    {
+        "name": "id",
+        "type": "INTEGER"
+    },
+    {
+        "name": "email",
+        "type": "String"
+    },
+    {
+        "name": "row_last_updated",
+        "type": "TIMESTAMP"
+    }
+]

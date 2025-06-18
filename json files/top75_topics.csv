@@ -1,0 +1,50 @@
+topicName,BertieTag,Description,IsTrending,IsAsset,IsFeaturedHome,Slug,TopicURl,TopicOrder,TitleTemplate,TopicPageDescription,NewsHeader,AliasesName
+Aave,Aave,,False,True,False,aave-aave,news/aave-aave,0,Latest Aave News | Forbes Digital Assets,,Aave,Aave
+Arbitrum,Arbitrum,,False,True,False,arbitrum-arb,news/arbitrum-arb,0,Latest Arbitrum News | Forbes Digital Assets,,Arbitrum,Arbitrum
+Astar,Astar,,False,True,False,astar-astr,news/astar-astr,0,Latest Astar News | Forbes Digital Assets,,Astar,Astar
+Axie Infinity,Axie Infinity,,False,True,False,axie-infinity-axs,news/axie-infinity-axs,0,Latest Axie Infinity News | Forbes Digital Assets,,Axie Infinity,Axie Infinity
+Beam,Beam,,False,True,False,beam-beam,news/beam-beam,0,Latest Beam News | Forbes Digital Assets,,Beam,Beam
+Bitcoin Cash,Bitcoin Cash,,False,True,False,bitcoin-cash-bch,news/bitcoin-cash-bch,0,Latest Bitcoin Cash News | Forbes Digital Assets,,Bitcoin Cash,Bitcoin Cash
+Bitcoin SV,Bitcoin SV,,False,True,False,bitcoin-sv-bsv,news/bitcoin-sv-bsv,0,Latest Bitcoin SV News | Forbes Digital Assets,,Bitcoin SV,Bitcoin SV
+Bittensor,Bittensor,,False,True,False,bittensor-tao,news/bittensor-tao,0,Latest Bittensor News | Forbes Digital Assets,,Bittensor,Bittensor
+Celestia,Celestia,,False,True,False,celestia-tia,news/celestia-tia,0,Latest Celestia News | Forbes Digital Assets,,Celestia,Celestia
+Cosmos Hub,Cosmos Hub,,False,True,False,cosmos-hub-atom,news/cosmos-hub-atom,0,Latest Cosmos Hub News | Forbes Digital Assets,,Cosmos Hub,Cosmos Hub
+Cronos,Cronos,,False,True,False,cronos-cro,news/cronos-cro,0,Latest Cronos News | Forbes Digital Assets,,Cronos,Cronos
+Dymension,Dymension,,False,True,False,dymension-dym,news/dymension-dym,0,Latest Dymension News | Forbes Digital Assets,,Dymension,Dymension
+Ethereum Classic,Ethereum Classic,,False,True,False,ethereum-classic-etc,news/ethereum-classic-etc,0,Latest Ethereum Classic News | Forbes Digital Assets,,Ethereum Classic,Ethereum Classic
+Fantom,Fantom,,False,True,False,fantom-ftm,news/fantom-ftm,0,Latest Fantom News | Forbes Digital Assets,,Fantom,Fantom
+First Digital USD,First Digital USD,,False,True,False,first-digital-usd-fdusd,news/first-digital-usd-fdusd,0,Latest First Digital USD News | Forbes Digital Assets,,First Digital USD,First Digital USD
+Flare,Flare,,False,True,False,flare-flr,news/flare-flr,0,Latest Flare News | Forbes Digital Assets,,Flare,Flare
+Flow,Flow,,False,True,False,flow-flow,news/flow-flow,0,Latest Flow News | Forbes Digital Assets,,Flow,Flow
+Helium,Helium,,False,True,False,helium-hnt,news/helium-hnt,0,Latest Helium News | Forbes Digital Assets,,Helium,Helium
+Immutable,Immutable,,False,True,False,immutable-imx,news/immutable-imx,0,Latest Immutable News | Forbes Digital Assets,,Immutable,Immutable
+Injective,Injective,,False,True,False,injective-inj,news/injective-inj,0,Latest Injective News | Forbes Digital Assets,,Injective,Injective
+Internet Computer,Internet Computer,,False,True,False,internet-computer-icp,news/internet-computer-icp,0,Latest Internet Computer News | Forbes Digital Assets,,Internet Computer,Internet Computer
+Kaspa,Kaspa,,False,True,False,kaspa-kas,news/kaspa-kas,0,Latest Kaspa News | Forbes Digital Assets,,Kaspa,Kaspa
+LEO Token,LEO Token,,False,True,False,leo-token-leo,news/leo-token-leo,0,Latest LEO Token News | Forbes Digital Assets,,LEO Token,LEO Token
+Lido DAO,Lido DAO,,False,True,False,lido-dao-ldo,news/lido-dao-ldo,0,Latest Lido DAO News | Forbes Digital Assets,,Lido DAO,Lido DAO
+Lido Staked Ether,Lido Staked Ether,,False,True,False,lido-staked-ether-steth,news/lido-staked-ether-steth,0,Latest Lido Staked Ether News | Forbes Digital Assets,,Lido Staked Ether,Lido Staked Ether
+Maker,Maker,,False,True,False,maker-mkr,news/maker-mkr,0,Latest Maker News | Forbes Digital Assets,,Maker,Maker
+Mantle,Mantle,,False,True,False,mantle-mnt,news/mantle-mnt,0,Latest Mantle News | Forbes Digital Assets,,Mantle,Mantle
+Mantle Staked Ether,Mantle Staked Ether,,False,True,False,mantle-staked-ether-meth,news/mantle-staked-ether-meth,0,Latest Mantle Staked Ether News | Forbes Digital Assets,,Mantle Staked Ether,Mantle Staked Ether
+Mina Protocol,Mina Protocol,,False,True,False,mina-protocol-mina,news/mina-protocol-mina,0,Latest Mina Protocol News | Forbes Digital Assets,,Mina Protocol,Mina Protocol
+Monero,Monero,,False,True,False,monero-xmr,news/monero-xmr,0,Latest Monero News | Forbes Digital Assets,,Monero,Monero
+MultiversX,MultiversX,,False,True,False,multiversx-egld,news/multiversx-egld,0,Latest MultiversX News | Forbes Digital Assets,,MultiversX,MultiversX
+NEAR Protocol,NEAR Protocol,,False,True,False,near-protocol-near,news/near-protocol-near,0,Latest NEAR Protocol News | Forbes Digital Assets,,NEAR Protocol,NEAR Protocol
+ORDI,ORDI,,False,True,False,ordi-ordi,news/ordi-ordi,0,Latest ORDI News | Forbes Digital Assets,,ORDI,ORDI
+Osmosis,Osmosis,,False,True,False,osmosis-osmo,news/osmosis-osmo,0,Latest Osmosis News | Forbes Digital Assets,,Osmosis,Osmosis
+Quant,Quant,,False,True,False,quant-qnt,news/quant-qnt,0,Latest Quant News | Forbes Digital Assets,,Quant,Quant
+Render,Render,,False,True,False,render-rndr,news/render-rndr,0,Latest Render News | Forbes Digital Assets,,Render,Render
+Rocket Pool ETH,Rocket Pool ETH,,False,True,False,rocket-pool-eth-reth,news/rocket-pool-eth-reth,0,Latest Rocket Pool ETH News | Forbes Digital Assets,,Rocket Pool ETH,Rocket Pool ETH
+Sei,Sei,,False,True,False,sei-sei,news/sei-sei,0,Latest Sei News | Forbes Digital Assets,,Sei,Sei
+Stacks,Stacks,,False,True,False,stacks-stx,news/stacks-stx,0,Latest Stacks News | Forbes Digital Assets,,Stacks,Stacks
+Stellar,Stellar,,False,True,False,stellar-xlm,news/stellar-xlm,0,Latest Stellar News | Forbes Digital Assets,,Stellar,Stellar
+Sui,Sui,,False,True,False,sui-sui,news/sui-sui,0,Latest Sui News | Forbes Digital Assets,,Sui,Sui
+Synthetix Network,Synthetix Network,,False,True,False,synthetix-network-snx,news/synthetix-network-snx,0,Latest Synthetix Network News | Forbes Digital Assets,,Synthetix Network,Synthetix Network
+THORChain,THORChain,,False,True,False,thorchain-rune,news/thorchain-rune,0,Latest THORChain News | Forbes Digital Assets,,THORChain,THORChain
+The Graph,The Graph,,False,True,False,the-graph-grt,news/the-graph-grt,0,Latest The Graph News | Forbes Digital Assets,,The Graph,The Graph
+The Sandbox,The Sandbox,,False,True,False,the-sandbox-sand,news/the-sandbox-sand,0,Latest The Sandbox News | Forbes Digital Assets,,The Sandbox,The Sandbox
+Tokenize Xchange,Tokenize Xchange,,False,True,False,tokenize-xchange-tkx,news/tokenize-xchange-tkx,0,Latest Tokenize Xchange News | Forbes Digital Assets,,Tokenize Xchange,Tokenize Xchange
+Toncoin,Toncoin,,False,True,False,toncoin-ton,news/toncoin-ton,0,Latest Toncoin News | Forbes Digital Assets,,Toncoin,Toncoin
+Wrapped Bitcoin,Wrapped Bitcoin,,False,True,False,wrapped-bitcoin-wbtc,news/wrapped-bitcoin-wbtc,0,Latest Wrapped Bitcoin News | Forbes Digital Assets,,Wrapped Bitcoin,Wrapped Bitcoin
+dYdX,dYdX,,False,True,False,dydx-dydx,news/dydx-dydx,0,Latest dYdX News | Forbes Digital Assets,,dYdX,dYdX

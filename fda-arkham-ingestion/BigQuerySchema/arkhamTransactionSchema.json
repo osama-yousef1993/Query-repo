@@ -1,0 +1,234 @@
+[
+    {
+        "name": "chain_id",
+        "type": "INTEGER"
+    },
+    {
+        "name": "id",
+        "type": "STRING"
+    },
+    {
+        "name": "log_index",
+        "type": "INTEGER"
+    },
+    {
+        "name": "transaction_hash",
+        "type": "STRING"
+    },
+    {
+        "name": "transaction_index",
+        "type": "INTEGER"
+    },
+    {
+        "name": "address",
+        "type": "STRING"
+    },
+    {
+        "name": "creator_address",
+        "type": "STRING"
+    },
+    {
+        "name": "tx_from_address",
+        "type": "STRING"
+    },
+    {
+        "name": "data",
+        "type": "STRING"
+    },
+    {
+        "name": "topics",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "block_timestamp",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "block_number",
+        "type": "INTEGER"
+    },
+    {
+        "name": "block_hash",
+        "type": "STRING"
+    },
+    {
+        "name": "signature",
+        "type": "STRING"
+    },
+    {
+        "name": "from_address",
+        "type": "STRING"
+    },
+    {
+        "name": "to_address",
+        "type": "STRING"
+    },
+    {
+        "name": "to_creator_address",
+        "type": "STRING"
+    },
+    {
+        "name": "to_tx_from_address",
+        "type": "STRING"
+    },
+    {
+        "name": "decoded",
+        "type": "RECORD",
+        "mode": "REPEATED",
+        "fields": [
+            {
+                "name": "name",
+                "type": "STRING"
+            },
+            {
+                "name": "type",
+                "type": "STRING"
+            },
+            {
+                "name": "value",
+                "type": "STRING"
+            },
+            {
+                "name": "value_float",
+                "type": "FLOAT"
+            },
+            {
+                "name": "price_usd",
+                "type": "FLOAT"
+            },
+            {
+                "name": "value_usd",
+                "type": "FLOAT"
+            },
+            {
+                "name": "token_address",
+                "type": "STRING"
+            },
+            {
+                "name": "token_symbol",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "name": "decoded_error",
+        "type": "STRING"
+    },
+    {
+        "name": "is_decoded",
+        "type": "BOOLEAN"
+    },
+    {
+        "name": "value_lossless",
+        "type": "INTEGER"
+    },
+    {
+        "name": "value",
+        "type": "FLOAT"
+    },
+    {
+        "name": "nonce",
+        "type": "INTEGER"
+    },
+    {
+        "name": "gas",
+        "type": "INTEGER"
+    },
+    {
+        "name": "gas_price",
+        "type": "INTEGER"
+    },
+    {
+        "name": "input",
+        "type": "STRING"
+    },
+    {
+        "name": "receipt_cumulative_gas_used",
+        "type": "INTEGER"
+    },
+    {
+        "name": "receipt_gas_used",
+        "type": "INTEGER"
+    },
+    {
+        "name": "receipt_contract_address",
+        "type": "STRING"
+    },
+    {
+        "name": "receipt_root",
+        "type": "STRING"
+    },
+    {
+        "name": "receipt_status",
+        "type": "INTEGER"
+    },
+    {
+        "name": "max_fee_per_gas",
+        "type": "INTEGER"
+    },
+    {
+        "name": "max_priority_fee_per_gas",
+        "type": "INTEGER"
+    },
+    {
+        "name": "transaction_type",
+        "type": "INTEGER"
+    },
+    {
+        "name": "receipt_effective_gas_price",
+        "type": "INTEGER"
+    },
+    {
+        "name": "fee",
+        "type": "FLOAT"
+    },
+    {
+        "name": "txn_saving",
+        "type": "INTEGER"
+    },
+    {
+        "name": "method_id",
+        "type": "STRING"
+    },
+    {
+        "name": "burned_fee",
+        "type": "FLOAT"
+    },
+    {
+        "name": "r",
+        "type": "STRING"
+    },
+    {
+        "name": "s",
+        "type": "STRING"
+    },
+    {
+        "name": "v",
+        "type": "STRING"
+    },
+    {
+        "name": "access_list",
+        "type": "RECORD",
+        "mode": "REPEATED",
+        "fields": [
+            {
+                "name": "address",
+                "type": "STRING"
+            },
+            {
+                "name": "storage_keys",
+                "type": "STRING",
+                "mode": "REPEATED"
+            }
+        ]
+    },
+    {
+        "name": "value_usd",
+        "type": "FLOAT"
+    },
+    {
+        "name": "fee_usd",
+        "type": "FLOAT"
+    }
+]

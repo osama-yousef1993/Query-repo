@@ -1,0 +1,24 @@
+2023-10-24 13:21:49.893 +03 [36830] LOG:  starting PostgreSQL 14.9 (Homebrew) on aarch64-apple-darwin22.4.0, compiled by Apple clang version 14.0.3 (clang-1403.0.22.14.1), 64-bit
+2023-10-24 13:21:49.896 +03 [36830] LOG:  listening on IPv6 address "::1", port 5432
+2023-10-24 13:21:49.896 +03 [36830] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-10-24 13:21:49.896 +03 [36830] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-10-24 13:21:49.907 +03 [36832] LOG:  database system was interrupted; last known up at 2023-10-15 10:55:51 +03
+2023-10-24 13:21:51.561 +03 [36832] LOG:  database system was not properly shut down; automatic recovery in progress
+2023-10-24 13:21:51.564 +03 [36832] LOG:  redo starts at 0/17A0708
+2023-10-24 13:21:51.564 +03 [36832] LOG:  invalid record length at 0/17A0740: wanted 24, got 0
+2023-10-24 13:21:51.564 +03 [36832] LOG:  redo done at 0/17A0708 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2023-10-24 13:21:51.571 +03 [36830] LOG:  database system is ready to accept connections
+2023-10-26 15:32:01.949 +03 [10254] FATAL:  lock file "postmaster.pid" already exists
+2023-10-26 15:32:01.949 +03 [10254] HINT:  Is another postmaster (PID 36830) running in data directory "/opt/homebrew/lib/postgres@14"?
+2023-10-26 15:32:13.680 +03 [10619] FATAL:  lock file "postmaster.pid" already exists
+2023-10-26 15:32:13.680 +03 [10619] HINT:  Is another postmaster (PID 36830) running in data directory "/opt/homebrew/lib/postgres@14"?
+2023-11-02 10:53:24.900 +03 [36830] LOG:  received smart shutdown request
+2023-12-23 21:03:36.892 +03 [49163] FATAL:  could not open directory "pg_notify": No such file or directory
+2023-12-23 21:03:36.893 +03 [49163] LOG:  database system is shut down
+2023-12-23 21:05:08.912 +03 [53078] LOG:  starting PostgreSQL 14.9 (Homebrew) on aarch64-apple-darwin22.4.0, compiled by Apple clang version 14.0.3 (clang-1403.0.22.14.1), 64-bit
+2023-12-23 21:05:08.914 +03 [53078] LOG:  listening on IPv6 address "::1", port 5432
+2023-12-23 21:05:08.914 +03 [53078] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-12-23 21:05:08.914 +03 [53078] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-12-23 21:05:08.919 +03 [53080] LOG:  database system was shut down at 2023-12-23 21:04:58 +03
+2023-12-23 21:05:08.921 +03 [53078] LOG:  database system is ready to accept connections
+2023-12-24 00:33:34.521 +03 [96274] FATAL:  database "fda_test" does not exist
